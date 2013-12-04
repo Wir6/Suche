@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Technology</title>
+<link>http://www.cnn.com/TECH/index.html?eref=rss_tech</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 06:39:47 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Technology</title>
+<link>http://www.cnn.com/TECH/index.html?eref=rss_tech</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition_technology" rel="self" type="application/rss+xml"/>
+<feedburner:info uri="rss/edition_technology"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>See Amazon drone deliver an order</title>
+<guid isPermaLink="false">http://www.cnn.com/video/data/2.0/video/tech/2013/12/02/vo-amazon-drone-delivery-system.amazon.html</guid>
+<link>http://rss.cnn.com/~r/rss/edition_technology/~3/k0K1-IsE5pg/vo-amazon-drone-delivery-system.amazon.html</link>
+<description>Watch a short video from Amazon showing how deliveries could come by air directly to your doorstep in the future.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_technology/~4/k0K1-IsE5pg" height="1" width="1"/&gt;</description>
+<pubDate>Tue, 03 Dec 2013 06:39:26 EST</pubDate>
+<feedburner:origLink>http://www.cnn.com/video/data/2.0/video/tech/2013/12/02/vo-amazon-drone-delivery-system.amazon.html</feedburner:origLink>
+<ExtractedText/>
+</item>
+</channel>
+</rss>

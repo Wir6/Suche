@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Mehr Kultur</title>
+<description>Aktuelle Kultur-Nachrichten, Informationen und Interviews rund um die Themen Kultur, Feuilleton, Literatur, Kunst, Film und Musik. Dazu Reportagen und Kritiken.</description>
+<pubDate>Tue, 03 Dec 2013 09:52:10 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:41:27 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/kultur/index</link>
+<atom:link href="http://newsfeed.zeit.de/kultur/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Mehr Kultur</title>
+      <link>http://www.zeit.de/kultur/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/gesellschaft/schule/2013-12/turner-preis-prouvost</link>
+      <guid>http://www.zeit.de/gesellschaft/schule/2013-12/turner-preis-prouvost</guid>
+      <category>Gesellschaft</category>
+      <title>Kunstpreis: Laure Prouvost gewinnt Turner Prize</title>
+      <description>&lt;a href="http://www.zeit.de/gesellschaft/schule/2013-12/turner-preis-prouvost"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/kultur/kunst/2013-12/turner-preis-prouvost-2/turner-preis-prouvost-2-148x84.jpg"/&gt;&lt;/a&gt; Sie setzte sich gegen starke Konkurrenten durch: Die Videokünstlerin Laure Prouvost hat den Turner Prize für zeitgenössische Kunst erhalten.</description>
+      <dc:creator>ZEIT ONLINE : Gesellschaft</dc:creator>
+      <pubDate>Mon, 02 Dec 2013 21:15:27 GMT</pubDate>
+    <ExtractedText>Turner Prize: Laure Prouvost gewinnt Kunstpreis
+Kunstpreis: Laure Prouvost gewinnt Turner Prize
+Sie setzte sich gegen starke Konkurrenten durch: Die Videokünstlerin Laure Prouvost hat den Turner Prize für zeitgenössische Kunst erhalten.
+2. Dezember 2013  21:48 Uhr 
+Die Künstlerin Laure Prouvost bei der Preisverleihung  |  © Peter Morrison/ AP
+Die in Frankreich geborene Filmemacherin Laure Prouvost hat den Turner Prize für zeitgenössische Kunst erhalten. Die mit 25.000 Pfund dotierte Auszeichnung wurde im nordirischen Derry, der diesjährigen City of Culture, vergeben. Sie setzte sich gegen die Künstler Tino Sehgal, David Shrigley und Lynette Yiadom-Boakye durch.
+Prouvost überzeugte die Jury mit ihrem Werk Wantee, eine Videoinstallation auf der Suche nach ihrem fiktiven Großvater. Ihr Sieg sei eine Überraschung, schreibt das Kunstmagazin monopol . Zuletzt habe Prouvost mit einer Montage von Naturaufnahmen Aufmerksamkeit erregt, die versuchte, den Geschmack der Sonne bildlich darzustellen. 
+Anzeige
+Der Turner Prize wird seit 1984 an in Großbritannien geborene oder lebende Künstler unter 50 Jahren verliehen. Prouvost lebt und arbeitet in London.
+Im vergangenen Jahr hatte die Videokünstlerin Elizabeth Price die Auszeichnung gewonnen. Die Kandidatenschau des Turner Prize ist noch bis zum 5. Januar 2014 in den Ebrington’s Buildings in Derry zu sehen.
+</ExtractedText>
+</item>
+</channel>
+</rss>

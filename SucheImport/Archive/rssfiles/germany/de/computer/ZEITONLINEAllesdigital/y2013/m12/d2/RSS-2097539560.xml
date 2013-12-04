@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Alles digital</title>
+<description>Nachrichten, Analysen und Reportagen zu den Themen Internet, Datenschutz, Netzkultur, Mobil und Games. Sie finden hier die Trends, Features und Entwicklungen sowie aktuelle Tests aus dem Ressort Digital.</description>
+<pubDate>Tue, 03 Dec 2013 15:11:13 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:34:12 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/digital/index</link>
+<atom:link href="http://newsfeed.zeit.de/digital/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Alles digital</title>
+      <link>http://www.zeit.de/digital/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/digital/internet/2013-12/telekom-internet-datenvolumen-flatrate</link>
+      <guid>http://www.zeit.de/digital/internet/2013-12/telekom-internet-datenvolumen-flatrate</guid>
+      <category>Digital</category>
+      <title>Internetverbindung: Telekom stoppt Drosselung von Flatrate-Tarifen</title>
+      <description>&lt;a href="http://www.zeit.de/digital/internet/2013-12/telekom-internet-datenvolumen-flatrate"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/wirtschaft/2013-12/telekom-internet-drosselung/telekom-internet-drosselung-148x84.jpg"/&gt;&lt;/a&gt; Die Telekom beugt sich dem Urteil des Kölner Landgerichts: Internetverbindungen, die als Flatrate bezeichnet werden, haben künftig keine Begrenzung beim Datenvolumen.</description>
+      <dc:creator>ZEIT ONLINE : Digital</dc:creator>
+      <pubDate>Mon, 02 Dec 2013 12:36:18 GMT</pubDate>
+    <ExtractedText>Deutsche Telekom stoppt Drosselung von Flatrate-Tarifen
+Internetverbindung: Telekom stoppt Drosselung von Flatrate-Tarifen
+Die Telekom beugt sich dem Urteil des Kölner Landgerichts: Internetverbindungen, die als Flatrate bezeichnet werden, haben künftig keine Begrenzung beim Datenvolumen.
+2. Dezember 2013  14:33 Uhr  24 Kommentare
+Die Deutsche Telekom will darauf verzichten, Internettarife mit dem Namen Flatrate zu drosseln . Die neue Regelung soll nach Informationen des Focus ab dem 5. Dezember gelten. Man werde ab sofort nur noch dort mit dem Begriff Flatrate werben, wenn es sich tatsächlich um ein unbegrenztes Datenvolumen handelt, sagte Telekom-Deutschlandchef Niek Jan van Damme. 
+Die Telekom folgt damit einem Urteil des Kölner Landgerichts, das dem  Konzern verboten hatte , das Übertragungstempo bei DSL-Tarifen zu drosseln, wenn diese als Flatrates  verkauft worden waren. Die Telekom hatte im Frühjahr angekündigt, die Geschwindigkeit von Internet-Anschlüssen zu begrenzen , wenn ein bestimmtes monatliches Datenvolumen erreicht ist – ähnlich wie das bei Handytarifen der Fall ist. Verbraucherschützer hatten deswegen gegen den Konzern geklagt.
+Anzeige
+Die Telekom plant nun aber neue Tarife mit einer Datendeckelung, kündigte van Damme an. Diese würden günstiger ausfallen als die Flatrates. Der Konzern halte es "für fair, wenn Vielnutzer, die mehr Leistung beanspruchen, auch mehr zahlen als der Durchschnittsnutzer", sagte van Damme. Die neuen Regelungen sollten die Tarife transparenter machen.
+Was genau die gedrosselten Tarife kosten und wann sie eingeführt werden sollen, ist noch nicht klar. Van Damme sagte lediglich, er rechne nicht damit, dass sie in den nächsten zwölf Monaten eingeführt würden – die neuen Tarife würden demnach also frühestens 2015 kommen.
+</ExtractedText>
+</item>
+</channel>
+</rss>

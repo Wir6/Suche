@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:34:11 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>What's changed?</title>
+<guid>http://edition.cnn.com/2013/11/29/world/world-aids-day-interactive/index.html</guid>
+<link>http://edition.cnn.com/2013/11/29/world/world-aids-day-interactive/index.html?eref=edition</link>
+<description>Twenty five years ago AIDS was misunderstood and a diagnosis often meant a death sentence, explore what has changed since the first World AIDS Day. </description>
+<pubDate>Sun, 01 Dec 2013 04:41:15 EST</pubDate>
+<ExtractedText>Interactive: World AIDS Day 2013
+By Nav Garcha, Inez Torre and Bryony Jones, CNN
+November 29, 2013 -- Updated 1750 GMT (0150 HKT)
+World AIDS Day
+World AIDS Day was launched in 1988 to raise awareness of the HIV/AIDS epidemic, to encourage people to support those living with the condition and to remember those who have died. The 2013 event calls for an end to discrimination against people with HIV/AIDS.
+Two-and-a-half decades on from the first World AIDS Day, HIV/AIDS has affected the lives of millions around the globe: since the epidemic first emerged, around 75 million people have become infected.
+Some 35.3 million people are now living with HIV, but experts hope that continuing research will eventually lead to a vaccine and even a cure.
+Click through our interactive to find out more about HIV/AIDS
+What is HIV/AIDS?
+HIV, or human immunodeficiency virus, is the virus which causes AIDS (acquired immunodeficiency syndrome).
+HIV invades the white blood cells, which normally protect us from disease, and weakens the immune system.
+This leaves people with the virus vulnerable to other illnesses and opportunistic infections, from tuberculosis and pneumonia to cancer.
+There is currently no cure for HIV/AIDS.
+Since the epidemic emerged in the 1980s, around 75 million people have become infected; an estimated 36 million of those have died.
+0%
+Through unprotected sexual contact with an infected person.
+0%
+By sharing needles or syringes with an infected person.
+0%
+From mother to baby, during pregnancy, birth or breastfeeding.
+How is HIV transmitted?
+The HIV virus is carried in certain bodily fluids, including blood, semen and breast milk.
+It is transmitted mainly through unprotected sexual contact with an infected person, by sharing needles or syringes with an infected person and from mother to baby, during pregnancy, birth or breastfeeding. In rare cases it can also be passed on through exposure to contaminated blood products, such as transfusions.
+Certain groups of people are considered to be at higher risk of infection than others. According to the U.N., those who inject drugs are 22 times more likely to be living with HIV/AIDS than the general population. Sex workers and men who have sex with men are 13 times more likely to have HIV/AIDS than the general population.
+HIV/AIDS timeline
+HIV is believed to have originated in chimpanzees in West Africa, before being transmitted to humans.
+The condition which would become known as HIV/AIDS was first spotted in the U.S. in 1981, when five gay men died of a rare form of pneumonia; the following year, cases were found among women, babies, haemophiliacs and others who had been given transfusions. New HIV infections have dropped by 33% since 2001, and AIDS-related deaths have fallen by 30% since their peak in 2005, thanks largely to wider access to education and medication.
+Global spread of HIV/AIDS
+Roll over areas to view regional breakdown
+The cost of HIV/AIDS
+An estimated $18.9 billion was spent in the fight against AIDS in 2012.
+Exactly how that money is spent varies widely from region to region, depending on local needs and priorities.
+Globally, 53% of that $18.9 billion was spent on the care and treatment of those with HIV/AIDS -- paying for antiretroviral drugs, psychological and nutritional support and palliative care -- while 22% paid for HIV/AIDS prevention programs and education.
+$18.9 billion
+Source: UK's National AIDS Trust, WHO, UNAIDS, amfAR, CDC
+EDITORIAL: BRYONY JONES | GRAPHIC: CNNI DESIGN &amp; DEVELOPMENT
+</ExtractedText>
+</item>
+</channel>
+</rss>

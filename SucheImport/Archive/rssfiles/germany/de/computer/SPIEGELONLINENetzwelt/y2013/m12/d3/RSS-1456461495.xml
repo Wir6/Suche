@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>SPIEGEL ONLINE - Netzwelt</title>
+<link>http://www.spiegel.de</link>
+<description>Nachrichten zu Internet und Technik, Handys und Computern. Aktuelle Reportagen, Analysen, Service.</description>
+<language>de</language>
+<pubDate>Tue, 03 Dec 2013 16:33:05 +0100</pubDate>
+<lastBuildDate>Tue, 03 Dec 2013 16:33:05 +0100</lastBuildDate>
+<image>
+<title>SPIEGEL ONLINE</title>
+<link>http://www.spiegel.de</link>
+<url>http://www.spiegel.de/static/sys/logo_120x61.gif</url>
+</image>
+<item>
+<title>Gratissystem arkOS: Student entwickelt freie Alternative zu Konzern-Clouds</title>
+<link>http://www.spiegel.de/netzwelt/web/crowdfunding-finanziert-betriebssystem-arkos-fuer-heim-server-a-936809.html#ref=rss</link>
+<description>Wer die bequemen Cloud-Dienste großer Anbieter nutzt, gibt die Kontrolle über seine Daten ab. Ein US-Student will das ändern. Er hat ein Betriebssystem entwickelt, mit dem man sich seine eigene Datenwolke daheim einrichten kann - mit allem Komfort.</description>
+<pubDate>Tue, 03 Dec 2013 14:53:00 +0100</pubDate>
+<guid>http://www.spiegel.de/netzwelt/web/crowdfunding-finanziert-betriebssystem-arkos-fuer-heim-server-a-936809.html</guid>
+<content:encoded><![CDATA[Wer die bequemen Cloud-Dienste großer Anbieter nutzt, gibt die Kontrolle über seine Daten ab. Ein US-Student will das ändern. Er hat ein Betriebssystem entwickelt, mit dem man sich seine eigene Datenwolke daheim einrichten kann - mit allem Komfort.]]></content:encoded>
+<ExtractedText>Crowdfunding finanziert Betriebssystem arkOS für Heim-Server
+Gratissystem arkOS: Student entwickelt freie Alternative zu Konzern-Clouds
+Von Peter Gotzner
+arkOS Werbevideo: Auch Kleincomputer werden zum Cloud-Server
+Wer die bequemen Cloud-Dienste großer Anbieter nutzt, gibt die Kontrolle über seine Daten ab. Ein US-Student will das ändern. Er hat ein Betriebssystem entwickelt, mit dem man sich seine eigene Datenwolke daheim einrichten kann - mit allem Komfort.
+Ganz gleich ob Dropbox, Google Drive oder SkyDrive: Anbieter von Cloud-Diensten verwöhnen ihre Kunden mit Komfort. Wer seine Daten ihren Angeboten anvertraut, kann von überall aus darauf zugreifen und profitiert von Zusatzfunktionen wie etwa einem Online-Fotoalbum. Gleichzeitig geben die Nutzer den Firmen einen Vertrauensvorschuss, indem sie ihnen die Kontrolle über ihre Daten übergeben. Wie sicher sie dort vor Zugriffen sind, lässt sich nur schwer einschätzen. Die Enthüllungen um die NSA-Spähprogramme haben dafür gesorgt, dass viele Cloud-User verunsichert sind und nach anderen Lösungen suchen.
+Für diese Anwender entwickelt Jacob Cook, Politik-Student an der Concordia University in Montreal, arkOS, ein Cloud-Betriebssystem für Heim-Server . Sein Ziel: Die Software soll den Komfort und die Datenverfügbarkeit etablierter, zentralisierter Dienste haben. Doch die Daten sollen auf einem privaten Rechner im Haus ihres Besitzers lagern. Eine Crowdfunding-Kampagne zur Finanzierung des Projekts hat Cook erfolgreich abgeschlossen - er hat für die Entwicklung per Crowdfunding mehr als die nötigen 45.000 US-Dollar eingesammelt.
+Die Abschaltung des Google Readers sei für ihn der Anstoß gewesen, das Projekt zu starten, erzählt Cook: "Mir wurde bewusst: In so vielen Dingen, die wir nutzen, sind wir im Internet von großen Konzernen abhängig." Das will der 23-jährige Cook ändern, der NSA-Skandal habe ihn bestärkt.
+Kleiner Raspberry Pi ersetzt große Serverfarm
+Um den Aufwand für die Nutzer in Grenzen zu halten, bietet Cook sein arkOS für verschiedene Plattformen an. Zum einen gibt es das Software-Paket für Macs und Linux-Computer. Aber auch eine speziell auf den Mini-Computer Raspberry Pi zugeschnittene Version gibt es. Ein Cloud-Server auf Basis dieses Rechners im Scheckkartenformat ist klein, leise, braucht nur wenig Strom und kostet weit weniger als ein herkömmlicher PC-Server.
+Noch befindet sich arkOS in einer Testphase. "Ich möchte mit den Spenden ein Jahr Vollzeit-Entwicklung bezahlen", erklärt Cook. "Ich habe nebenher noch einen Job und kann mich bisher nicht vollkommen dem Projekt widmen."
+Voll ausgereift und benutzerfreundlich nutzbar soll arkOS 2014 sein. Die aktuelle Version kann aber bereits Webseiten ausliefern und Dateien auf einer angeschlossenen Festplatte verwalten. Durch die Integration der Software "ownCloud" in arkOS lassen sich mit dem Betriebssystem die Daten über das Internet synchronisieren und auf verschiedenen Computern, Tablets und Smartphones abgleichen. Vergleichbar mit den kommerziellen Diensten der Großfirmen.
+Bis zum 4. Dezember läuft die Crowdfunding-Kampagne noch. Interessierte können den Entwickler mit weiteren Spenden unterstützen. Die Mindestsumme von rund 45.000 Dollar für ein Jahr Entwicklungsarbeit hat Cook bereits gesammelt. Die weiteren Einnahmen sollen aber die Qualität von arkOS verbessern und auch Projekte wie ein Komplettpaket unterstützen. "Wir haben auch über ein Hardware-Package nachgedacht - aber nur als Ergänzung", sagt Cook. Die Software selbst solle immer als Open-Source-Angebot für jeden kostenlos verfügbar sein.
+Dem Autor auf Twitter folgen:
+Selber hosten
+</ExtractedText>
+</item>
+</channel>
+</rss>

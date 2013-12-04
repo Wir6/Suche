@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Sport - FAZ.NET</title>
+<link>http://www.faz.net/aktuell/sport/</link>
+<description>Aktuelle News vom Sport. Nachrichten aus Fußball und Handball Bundesliga. Alle Spiele, Wettkämpfe und Meisterschaften auf einen Blick. </description>
+<copyright>Copyright 2001-2013 Frankfurter Allgemeine Zeitung GmbH. Alle Rechte vorbehalten.</copyright>
+<category>Sport - FAZ.NET</category>
+<language>de-de</language>
+<docs>http://www.faz.net/hilfe/services-newsletter-widgets-rss-feeds-mehr/</docs>
+<generator>FAZ.NET</generator>
+<ttl>5</ttl>
+<lastBuildDate>Tue, 3 Dec 2013 16:19:55 +0100</lastBuildDate>
+<atom:link href="http://www.faz.net/rss/aktuell/sport/" rel="self" type="application/rss+xml"/>
+<image>
+		<title>Sport - FAZ.NET</title>
+		<url>http://www.faz.net/img/fazlogo_ressort.gif</url>
+        <link>http://www.faz.net/aktuell/sport/</link>
+	</image>
+<item>
+    <title>Sport kompakt: Hülkenbergs Rückkehr</title>
+    <description>&lt;img width="190" height="107" border="0" title="Hülkenberg zu Force India " alt="Hülkenberg zu Force India " src="http://media0.faz.net/polopoly_fs/1.2692784!/image/2161308921.jpg_gen/derivatives/article_teaser/2161308921.jpg"/&gt;&lt;p&gt;Das „Superhirn“ macht Pause. Hülkenberg fährt wieder für Force India. Würzburg bekommt einen Punktabzug. Und Schneestürme in den Rockies stören die Skifahrer. Sport kompakt am Dienstag.&lt;/p&gt;</description>
+    <link>http://www.faz.net/aktuell/sport/mehr-sport/sport-kompakt/sport-kompakt-huelkenbergs-rueckkehr-12692782.html</link>
+    <pubDate>Tue, 03 Dec 2013 13:38:00 +0100</pubDate>
+    <guid isPermaLink="true">http://www.faz.net/-gug-7k1ta</guid>
+<ExtractedText>Sport kompakt
+Sport kompakt Hülkenbergs Rückkehr
+03.12.2013 ·  Das „Superhirn“ macht Pause. Hülkenberg fährt wieder für Force India. Würzburg bekommt einen Punktabzug. Und Schneestürme in den Rockies stören die Skifahrer. Sport kompakt am Dienstag.
+  1/5  
+© dpa
+Hülkenberg zu Force India
+Formel-1-Pilot Nico Hülkenberg wird in der kommenden Saison wieder für Force India fahren. Der indische Rennstall gab nun auch offiziell die Rückkehr des Rheinländers bekannt. Hülkenberg und das Team hätten sich demnach auf einen Vertrag über mehrere Jahre geeinigt. Zuvor hatten RTL und „Spiegel Online“ berichtet, dass der 26-Jährige und sein früherer Rennstall die abermalige Partnerschaft perfekt machen würden. Der Emmericher war schon 2012 für Force India an den Start gegangen, ehe er den Rennstall verließ und zu Sauber wechselte.
+</ExtractedText>
+</item>
+</channel>
+</rss>

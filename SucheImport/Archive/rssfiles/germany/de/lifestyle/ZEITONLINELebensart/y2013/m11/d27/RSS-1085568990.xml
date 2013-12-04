@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Lebensart</title>
+<description>Die Lust am Leben: Aktuelle Berichte, Ratgeber und Kolumnen rund um die Themen Mode, Essen, Trinken und Partnerschaft.</description>
+<pubDate>Mon, 02 Dec 2013 15:14:49 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:36:19 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/lebensart/index</link>
+<atom:link href="http://newsfeed.zeit.de/lebensart/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Lebensart</title>
+      <link>http://www.zeit.de/lebensart/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/lebensart/2013-11/fs-lauren-spencer-king-freunde-von-freunden-2</link>
+      <guid>http://www.zeit.de/lebensart/2013-11/fs-lauren-spencer-king-freunde-von-freunden-2</guid>
+      <category>Lebensart</category>
+      <title>Freunde von Freunden: Mommys Pillendöschen und Pantoffeln</title>
+      <description>&lt;a href="http://www.zeit.de/lebensart/2013-11/fs-lauren-spencer-king-freunde-von-freunden-2"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/lebensart/2013-11/fs-lauren-spencer-king-freunde-von-freunden-teaser/fs-lauren-spencer-king-freunde-von-freunden-teaser-148x84.jpg"/&gt;&lt;/a&gt; Die Künstlerin Lauren Spencer King wohnt in Los Angeles, umgeben von Erinnerungsstücken und hellen Farben. Dem Designblog "Freunde von Freunden" öffnete sie die Tür.</description>
+      <dc:creator>ZEIT ONLINE : Lebensart</dc:creator>
+      <pubDate>Wed, 27 Nov 2013 10:42:46 GMT</pubDate>
+    <ExtractedText>die herzerwaermenden detailaufnahmen in dieser fotostrecke moegen einem
+genuegsamen betrachter willkommen sein, sich in kuehlschrank-griffen,
+vielsagenden herdplatten, haengeschrank-innereien und sonstigem klim-bim
+verlieren zu duerfen. ein mit etwas phantasie bestuecktes auge erfasst
+den nicht sichtbaren teil der raeumlichkeiten mit einem blick:
+an den decken und waenden haengen fuer den hund unerreichbar edelste
+fleischbrocken und wiener wuerste, daher auch in 6/22 die reichlich
+unterkuehlte, fast schon ins nirwana weisend entgeistigte mimik des
+menschen besten freundes. dieser hund wird mal ein ganz großer....
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Mehr Kultur</title>
+<description>Aktuelle Kultur-Nachrichten, Informationen und Interviews rund um die Themen Kultur, Feuilleton, Literatur, Kunst, Film und Musik. Dazu Reportagen und Kritiken.</description>
+<pubDate>Tue, 03 Dec 2013 09:52:10 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:41:27 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/kultur/index</link>
+<atom:link href="http://newsfeed.zeit.de/kultur/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Mehr Kultur</title>
+      <link>http://www.zeit.de/kultur/index</link>
+    </image>
+<item>
+      <link>http://blog.zeit.de/netzfilmblog/2013/12/01/short-gravity-kurzfilm-aningaaq</link>
+      <guid>http://blog.zeit.de/netzfilmblog/2013/12/01/short-gravity-kurzfilm-aningaaq</guid>
+      <category>Kultur</category>
+      <title>Netzfilmblog: Die Stimme am anderen Ende</title>
+      <description>&lt;a href="http://www.zeit.de/kultur/film/2013-11/link-aningaaq-netzfilmblog"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/kultur/film/2013-11/teaser-Aningaaq/teaser-Aningaaq-148x84.jpg"/&gt;&lt;/a&gt; Der Kurzfilm "Aningaaq" ergänzt den Kinohit "Gravity" und zeigt, wer zu Sandra Bullock in den Weltraum funkt. Ein Mini-Thriller aus Hollywood und unser Netzfilm der Woche</description>
+      <dc:creator>ZEIT ONLINE : Kultur</dc:creator>
+    <ExtractedText>Netzfilm der Woche: “Aningaaq”
+Von Eike Kühl 1. Dezember 2013 um 09:27 Uhr
+Der Thriller Gravity , in dem Sandra Bullock als gestrandete Astronautin in der Schwerelosigkeit ums Überleben kämpft, war nicht nur ein Hit an den Kinokassen. Der Film inspirierte auch so manche Parodie im Netz. Und es gibt einen offiziellen Kurzfilm zum Kinofilm: Aningaaq. Jonas Cuarón, Sohn des Gravity-Regisseurs Alfonso Cuarón, war als Autor und Regisseur tätig. Eigentlich sollte Aningaaq im Abspann des Kinofilms laufen. Doch die Cuaróns entschieden sich dazu, den Film doch einzeln zu veröffentlichen.
+Beide Filme bauen aufeinander auf, doch Aningaaq funktioniert auch ohne Gravity gesehen zu haben und enthält nur minimale Spoiler. Während Gravity gänzlich im Weltall spielt, pickt sich Aningaaq einen Schauplatz auf der Erde heraus. In einer Szene in Gravity gibt Bullock als Dr. Ryan Stone in einer verzweifelten Aktion einen Funkspruch in Richtung Erde ab. Sie erreicht tatsächlich jemanden. Doch die menschliche Stimme am anderen Ende kann sie nicht verstehen – und ihr schon gar nicht helfen.
+Aningaaq zeigt uns nun den Menschen hinter dieser Stimme aus dem Nichts. Ein Fischer in der Ödnis Grönlands (der Kurzfilm wurde vor Ort und nicht im Studio gedreht) ist angetan von der Frauenstimme, die aus seinem Funkgerät knarzt und erzählt ihr aus seinem Leben. Die Einsamkeit Grönlands scheint plötzlich nicht so anders zu sein, als jene im Weltall. Und so geht es beiden Gesprächspartnern letztlich nur um den menschlichen Kontakt, die menschliche Stimme als ein Ventil, einen Ausweg aus einer aussichtlosen Situation.
+Aber Aningaaq beweist noch etwas anderes: Nämlich, dass Kurzfilme ein unterschätztes Mittel für Hollywood-Produktionen sind. Denn während die meisten Kinofilme lediglich die obligatorischen Trailer im Netz veröffentlichen, zeigt Aningaaq, wie man auch Monate nach dem Kinostart noch mit anspruchsvollen Extras alte sowie potenzielle neue Zuschauer erreichen kann.
+</ExtractedText>
+</item>
+</channel>
+</rss>

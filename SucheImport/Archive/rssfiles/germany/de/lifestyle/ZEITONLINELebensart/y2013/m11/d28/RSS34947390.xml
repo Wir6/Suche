@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Lebensart</title>
+<description>Die Lust am Leben: Aktuelle Berichte, Ratgeber und Kolumnen rund um die Themen Mode, Essen, Trinken und Partnerschaft.</description>
+<pubDate>Mon, 02 Dec 2013 15:14:49 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:36:19 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/lebensart/index</link>
+<atom:link href="http://newsfeed.zeit.de/lebensart/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Lebensart</title>
+      <link>http://www.zeit.de/lebensart/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/2013/49/wochenmarkt-coq-au-vin</link>
+      <guid>http://www.zeit.de/2013/49/wochenmarkt-coq-au-vin</guid>
+      <category>Lebensart</category>
+      <title>Serie Wochenmarkt: Der Hahn im Topf</title>
+      <description>&lt;a href="http://www.zeit.de/2013/49/wochenmarkt-coq-au-vin"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/2013/49/wochenmarkt-coq-au-vin-2/wochenmarkt-coq-au-vin-2-148x84.jpg"/&gt;&lt;/a&gt; Eigentlich sind Rezepte für Coq au vin hinfällig. Denn Hähne sind vom Lebensmittelmarkt praktisch verschwunden. Ein französisches Kochbuch verrät eine gute Alternative.</description>
+      <dc:creator>ZEIT ONLINE : Lebensart - Elisabeth Raether</dc:creator>
+      <pubDate>Thu, 28 Nov 2013 06:00:00 GMT</pubDate>
+    <ExtractedText>Wochenmarkt: Ein Rezept für Coq au vin
+Wochenmarkt: Der Hahn im Topf
+Eigentlich sind Rezepte für Coq au vin hinfällig. Denn Hähne sind vom Lebensmittelmarkt praktisch verschwunden. Ein französisches Kochbuch verrät eine gute Alternative. von Elisabeth Raether
+28. November 2013  07:00 Uhr  19 Kommentare
+Coq au vin mit Poularde  |  © Jason Lowe
+Für das klassische französische Rezept Coq au vin benötigt man einen Hahn. Das machen die Autoren des Buchs Jahreszeiten der französischen Küche (Wagenbach Verlag) deutlich, dem wir dieses Rezept entnehmen. Ein Huhn würde in diesem Schmortopf trocken. Das Problem ist, dass es den meisten von uns nicht möglich sein wird, sich einen Hahn zu beschaffen. Hähne gibt es heute praktisch nicht mehr. Die männlichen Küken der Legehuhnrassen werden getötet, und die Masthuhnrassen werden geschlachtet, bevor sie mit ungefähr 5 Monaten die Geschlechtsreife erlangen. Das ist die traurige Geschichte, die sich hinter diesem schönen Rezept verbirgt: Die Hauptzutat ist ausgestorben.
+Alle Wochenmarkt-Rezepte  |  © Miguel Medina/AFP/Getty Images
+Aber man kann auch eine Poularde nehmen. Das ist ein etwas älteres, schwereres Huhn mit aromatischem Fleisch. Man mariniert die Teile 12 Stunden lang in Rotwein, dem eine in Stücke geschnittene Mohrrübe, eine geviertelte Zwiebel, eine zerdrückte Knoblauchzehe, etwas Cayennepfeffer, Apfelsinenschale und Öl zugefügt wurden. Die Fleischstücke aus der Marinade nehmen, abtropfen lassen und im ausgelassenen Speck anbraten, bis sie eine schöne braune Farbe annehmen. Ablöschen mit Obstwasser. Die abgeseihte Marinade dazugeben, salzen. Bei kleiner Hitze etwa 60 Minuten lang köcheln lassen.
+Anzeige
+Die Champignons in der Zwischenzeit in nicht zu kleine Stücke schneiden und 5 bis 7 Minuten lang in einer Pfanne anbraten.
+Die Sauce ist am Ende der Garzeit noch recht flüssig. Also nimmt man das Fleisch aus dem Topf und kocht die Sauce ein. Zum Binden gibt man etwas mit Mehl verknetete Butter dazu. Abschmecken mit dem Saft der Apfelsine, Orangenlikör, Honig: Ihre Wahl. Hat sie Geschmack und Konsistenz, wie man sich das wünscht, gibt man das Fleisch wieder dazu sowie die Champignons.
+Coq au vin
+1 Poularde (ca. 2 kg, in 8 Teile zerlegt)
+1 Flasche trockener Rotwein
+</ExtractedText>
+</item>
+</channel>
+</rss>

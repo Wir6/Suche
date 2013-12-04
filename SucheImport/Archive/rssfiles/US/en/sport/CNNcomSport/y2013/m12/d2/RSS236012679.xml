@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 06:36:13 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition_sport" rel="self" type="application/rss+xml"/>
+<feedburner:info uri="rss/edition_sport"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Football: Barcelona beaten again</title>
+<guid isPermaLink="false">http://edition.cnn.com/2013/12/01/sport/football/barcelona-lose-messi-football/index.html</guid>
+<link>http://rss.cnn.com/~r/rss/edition_sport/~3/JAlrVLH-bdU/index.html</link>
+<description>Without injured talisman Lionel Messi, Barcelona slip to their second defeat in a row as Iker Muniain's goal gives Athletic Bilbao a 1-0 win over the Spanish champions.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_sport/~4/JAlrVLH-bdU" height="1" width="1"/&gt;</description>
+<pubDate>Mon, 02 Dec 2013 11:19:16 EST</pubDate>
+<feedburner:origLink>http://edition.cnn.com/2013/12/01/sport/football/barcelona-lose-messi-football/index.html</feedburner:origLink>
+<ExtractedText>Missing Leo: Barcelona stumble to first league defeat
+December 2, 2013 -- Updated 0946 GMT (1746 HKT)
+Iker Muniain celebrates his 70th minute winner for Athletic Bilbao against Barcelona in the San Mames.
+STORY HIGHLIGHTS
+Barcelona lose first La Liga game of the season
+Beaten 1-0 by Athletic Bilbao at San Mames
+Goal by Iker Muniain in second half gives Bilbao famous victory
+Juventus stay top in Italy with 1-0 win over Udinese
+(CNN) -- Without talisman Lionel Messi, Barcelona slipped to their second defeat in a week as a 1-0 reverse at Athletic Bilbao Sunday blew the Spanish title race wide open.
+Already qualified for the Champions League knockout stages, their 2-1 midweek loss to Ajax Amsterdam could be forgiven, but Iker Muniain's 70th minute winner for Athletic has far greater significance.
+It was Barca's first league reverse of the season and left them level on points with Atletico Madrid with arch-rivals Real Madrid snapping at their heels a further three points adrift.
+Lionel Messi's messy tax scandal
+Lionel Messi breaks goal scoring record
+Athletic, who are unbeaten at their new San Mames stadium, have moved up into the fourth Champions League spot with the victory.
+Read: Is Messi at risk of burning out?
+Muniain might have put them ahead in the first half but he wasted a great chance from close range, while Barcelona offered little in reply.
+Brazil's Neymar was kept quiet but just after half time he burst through only to be pulled back by home midfielder Ander Iturraspe, who was lucky to escape with a yellow card.
+But the men from the Basque country remained a constant threat and Markel Susaeta crossed for Muniain to slide home his decisive goal.
+A second should have followed but Gaizka Toquero headed a cross straight at Barcelona goalkeeper Jose Manuel Pinto, who made a reaction save.
+Barcelona coach Gerardo Martino flung on Sergi Roberto and Pedro as late substitutes, but to no avail.
+Messi was confined to the sidelines for the second time this season last month with a hamstring injury which is set to keep him out of action until January, missing at least two more La Liga games.
+Read: Bale fires first Real Madrid hat-trick
+Meanwhile in Italy, champions Juventus went three points clear of early pace setters Roma with a 1-0 win over Udinese Sunday.
+It took an injury-time header from Spain striker Fernando Llorente to grab the three vital points as he headed Stephan Lichsteiner's shot past Zeljko Brkic.
+Juve had plenty of chances to wrap up their 12th win of the season and sixth in a row, but were frustrated by dogged defense and poor finishing until the last gasp strike.
+Earlier, Roma were held to their fourth draw in a row, 1-1 away at Atalanta.
+Napoli, who are in third, nine points adrift, travel to Lazio Monday.
+Fourth placed Inter Milan failed to make up ground as they were held 1-1 at home to Sampdoria.
+Renan scored a late leveler for Sampdoria after Fredy Guarin had given Inter an 18th minute lead at the San Siro.
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Wirtschaft - FAZ.NET</title>
+<link>http://www.faz.net/aktuell/wirtschaft/</link>
+<description>Nachrichten der Wirtschaft über Börse und Finanzen. News von Industrie und Unternehmen. Informationen zur Konjunktur und Wirtschaftskrise.</description>
+<copyright>Copyright 2001-2013 Frankfurter Allgemeine Zeitung GmbH. Alle Rechte vorbehalten.</copyright>
+<category>Wirtschaft - FAZ.NET</category>
+<language>de-de</language>
+<docs>http://www.faz.net/hilfe/services-newsletter-widgets-rss-feeds-mehr/</docs>
+<generator>FAZ.NET</generator>
+<ttl>5</ttl>
+<lastBuildDate>Tue, 3 Dec 2013 16:27:13 +0100</lastBuildDate>
+<atom:link href="http://www.faz.net/rss/aktuell/wirtschaft/" rel="self" type="application/rss+xml"/>
+<image>
+		<title>Wirtschaft - FAZ.NET</title>
+		<url>http://www.faz.net/img/fazlogo_ressort.gif</url>
+        <link>http://www.faz.net/aktuell/wirtschaft/</link>
+	</image>
+<item>
+    <title>Das heikle Geschäft mit  Versicherungsmänteln</title>
+    <description>&lt;img width="190" height="107" border="0" title="Hier war heute die Steuerfahndung: Commerzbank-Zentrale in Frankfurt" alt="Hier war heute die Steuerfahndung: Commerzbank-Zentrale in Frankfurt" src="http://media1.faz.net/polopoly_fs/1.2693159!/image/2785192186.jpg_gen/derivatives/article_teaser/2785192186.jpg"/&gt;&lt;p&gt;Bei der Razzia in der Commerzbank suchen die Fahnder nach Unterlagen, die Steuerhinterziehung mit sogenannten „Versicherungsmänteln“ belegen. Aber wie funktioniert der Trick eigentlich?&lt;/p&gt;</description>
+    <link>http://www.faz.net/aktuell/wirtschaft/razzia-bei-der-commerzbank-das-heikle-geschaeft-mit-versicherungsmaenteln-12693124.html</link>
+    <pubDate>Tue, 03 Dec 2013 16:02:15 +0100</pubDate>
+    <guid isPermaLink="true">http://www.faz.net/-gqe-7k22s</guid>
+<ExtractedText>Hier war heute die Steuerfahndung: Commerzbank-Zentrale in Frankfurt
+© Finger, Stefan
+Hier war heute die Steuerfahndung: Commerzbank-Zentrale in Frankfurt
+Finanzdienstleister sind besonders innovativ, wenn es darum geht, ihren Kunden mit Anlageprodukten Privilegien zu sichern. Ein Zentrum solchen Erfindergeistes ist Liechtenstein. Dort entwickelten sich Ende der neunziger Jahre sogenannte Versicherungsmäntel, wie sie durch eine Razzia bei der Commerzbank nun wieder ins öffentliche Bewusstsein gerückt sind. Der Trick ist einfach: Versicherer übernahmen ganze Vermögensverwaltungs-Portefeuilles und wickelten einen steuerlich begünstigten Versicherungsvertrag darum – den Mantel. Nicht selten dürften dies Vermögen gewesen sein, die am Fiskus vorbei in das Fürstentum gelenkt wurden.
+Diese Konstruktion funktionierte hierzulande so gut, weil Lebensversicherungen in Deutschland politisch unterstützt eine gesonderte Rolle in der Altersvorsorge einnehmen. Kunden müssen bei einer Kapitalauszahlung nur die Hälfte der Erträge mit dem individuellen Steuersatz besteuern – statt vollständig mit dem Abgeltungssteuersatz zuzüglich Kirchensteuer und Soli. Lassen sie sich die Leistung als Rente auszahlen, wird der Ertragsanteil noch stärker klein gerechnet. Voraussetzung: Der Vertrag bestand für mindestens zwölf Jahre und der Kunde war älter als 60 Jahre.
+Diese Versicherungsmäntel erfreuten sich bald einer großen Beliebtheit unter deutschen Privatanlegern, weil sie eine individuelle Kapitalanlage mit steuerlichen Vorteilen verband. Knapp zehn Jahre ging das gut. Dann wurde es dem Gesetzgeber zu bunt. Im Jahr 2008 einigten sich Bundestag und Bundesrat auf eine „Lex Liechtenstein“. Das Steuerprivileg wurde für vermögensverwaltende Verträge abgeschafft. Im Oktober 2009 stellte das Finanzministerium klar, was damit gemeint ist: Die Kapitalanlage darf nicht individuell auf den Kunden zugeschnitten worden sein. Er darf nicht direkt auf das Geld zugreifen, und nur noch öffentlich zugängliche Investmentfonds stehen ihm offen. Zudem muss die Police einen Todesfallschutz beinhalten.
+Das hat die Branche in den „Offshore“-Zentren auf Trab gebracht. Sie mussten ihre Konstruktionen für deutsche Kunden ändern. Die Schweizer Finanzaufsicht Finma griff von sich aus in die Produktgestaltung ein. Auch ohne die alten Vorteile erfreuten sich diese Policen von etwa 2010 an einer wachsenden Beliebtheit. Damals verschärften italienische und deutsche Steuerbehörden ihre Bestrebungen gegen Steuerhinterziehung, so dass die Kunden auf legale Anlagemodelle umstiegen. Sie unterscheiden sich kaum noch von herkömmlichen fondsgebundenen Lebensversicherungen.
+Weitere Artikel
+Razzia bei der Commerzbank 
+Soweit bekannt, ging es bei der Commerzbank Razzia um deren Vertriebspartner, die Generali-Versicherung. Diese habe über ihr Tochterunternehmen Generali Pan Europe Limited solche Produkte vertrieben. Angeblich haben so 200 Kunden seit 2006 Steuern am Fiskus vorbei geschafft. Zuletzt geriet im vergangenen Jahr die Credit Suisse so in Verruf. Rund 4000 Kunden hatten hohe Vermögen in Produkte mit dem Namen „Life Portfolio International“ angelegt.
+</ExtractedText>
+</item>
+</channel>
+</rss>

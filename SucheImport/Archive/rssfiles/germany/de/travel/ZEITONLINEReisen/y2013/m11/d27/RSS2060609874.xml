@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Reisen</title>
+<description>Erholsame Reisen - Online Reiseberichte, Bildergalerien von Reisen und Urlaubstipps von Experten für die gute Reise in den Urlaub. Nachrichten und Informationen</description>
+<pubDate>Tue, 03 Dec 2013 13:56:57 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:37:15 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/reisen/index</link>
+<atom:link href="http://newsfeed.zeit.de/reisen/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Reisen</title>
+      <link>http://www.zeit.de/reisen/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/reisen/2013-11/airbnb-9flats-new-york-berlin</link>
+      <guid>http://www.zeit.de/reisen/2013-11/airbnb-9flats-new-york-berlin</guid>
+      <category>Reisen</category>
+      <title>Airbnb: Auch deutsche Wohnplattformen sollen Daten herausgeben</title>
+      <description>&lt;a href="http://www.zeit.de/reisen/2013-11/airbnb-9flats-new-york-berlin"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/reisen/2013-11/gloveler-berlin/gloveler-berlin-148x84.jpg"/&gt;&lt;/a&gt; Web-Börsen für private Unterkünfte wie Airbnb haben riesigen Erfolg – und Probleme. Nun gibt 9flats seinen Berliner Standort auf, Gloveler soll Daten herausgeben.</description>
+      <dc:creator>ZEIT ONLINE : Reisen - Frida Thurm</dc:creator>
+      <pubDate>Wed, 27 Nov 2013 18:08:35 GMT</pubDate>
+    <ExtractedText>Airbnb: Auch deutsche Wohnplattformen sollen Daten herausgeben
+Airbnb: Auch deutsche Wohnplattformen sollen Daten herausgeben
+Web-Börsen für private Unterkünfte wie Airbnb haben riesigen Erfolg – und Probleme. Nun gibt 9flats seinen Berliner Standort auf, Gloveler soll Daten herausgeben. von  Frida Thurm
+27. November 2013  19:07 Uhr  3 Kommentare
+Eine Gloveler-Unterkunft in Berlin  |  © PR
+Verreisen und in der Zwischenzeit die Wohnung untervermieten – oder in einer fremden Stadt entspannt eine Bleibe finden: Das Konzept der Plattformen wie Airbnb, 9flats oder Wimdu ist klug und entsprechend groß ihr Erfolg . Doch die Wohnungsbörsen, die lieber von sharing statt Vermieten sprechen, treffen inzwischen an mehreren Stellen auf die Realität von Gesetzen und wirtschaftlichen Interessen.
+Die deutsche Plattform Gloveler.de etwa soll die Daten aller Gastgeber in Freiburg an die Stadtkämmerei herausgeben. Freiburg will 2014 eine Bettensteuer einführen und anhand der Daten kontrollieren, ob auch die Gäste der privaten Zimmer sie zahlen. Doch Gloveler weigert sich, wie ihr Geschäftsführer Armin Harbrecht erklärt: "Wir wollen Privatvermieter gegen den Generalverdacht der Steuerhinterziehung schützen." Das erste Auskunftsersuchen der Stadt wollen sie ignorieren. Gloveler bietet nach eigenen Angaben weltweit etwa 45.000 Übernachtungsmöglichkeiten an. 
+Anzeige
+Ähnlich ergeht es Airbnb , dem weitaus größeren Netzwerk: New Yorks Generalstaatsanwalt verklagt die Betreiber auf die Herausgabe aller Daten der 225.000 New Yorker Gastgeber. Namen, Adressen, Anzahl der Gäste, und auch, was diese gezahlt haben. Dagegen hat Airbnb eine Petition gestartet.
+Auch 9flats hat Probleme: Es gibt seinen Berliner Standort auf, weil es sich durch das neue Berliner Gesetz gegen Zweckentfremdung von Wohnraum verunsichert fühlt. Die private Wohnungsvermittlung ist ein lukratives Geschäft geworden,  9flats hat nach eigenen Angaben im vergangenen Jahr einen zweistelligen  Millionenumsatz mit Buchungen gemacht und wuchs um 270 Prozent. 
+Trotzdem soll das Unternehmen in Zukunft nur noch aus Hamburg betrieben werden und keine neuen Gastgeber anwerben. Ein weiterer wichtiger Grund: Die Konkurrenz durch Airbnb und andere Anbieter sei zu groß geworden. Stattdessen will 9flats versuchen, mit dem bestehenden Angebot Gewinn zu machen, sagte ein Sprecher . 
+Das Berliner Gesetz verbietet eine gewerbliche Zimmervermietung von privat oder die Vermietung einer ganzen Wohnung als Ferienapartment. Matthias Brauner, wohnungspolitischer Sprecher der CDU-Fraktion, schränkt dies jedoch ein. Die sharing economy sei ein wichtiger Bestandteil der Berliner Wirtschaft: "Das heißt, dass eine gelegentliche Bereitstellung von Wohnraum an Dritte, welche die Räume überwiegend zu Wohnzwecken nutzen, aber in der Wohnung auch arbeiten, nicht als gewerbliche Vermietung gewertet wird."
+Das Gastgewerbe kritisiert Privatanbieter schon seit Längerem, weil es in ihnen eine Konkurrenz sieht. Einzig in Freiburg sind die Hoteliers auf der Seite der Gloveler-Betreiber: Sie wollen gegen die geplante Bettensteuer klagen .
+</ExtractedText>
+</item>
+</channel>
+</rss>

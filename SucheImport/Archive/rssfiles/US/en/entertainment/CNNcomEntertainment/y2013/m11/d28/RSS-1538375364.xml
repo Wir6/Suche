@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Entertainment</title>
+<link>http://www.cnn.com/SHOWBIZ/index.html?eref=rss_showbiz</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:10:45 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Entertainment</title>
+<link>http://www.cnn.com/SHOWBIZ/index.html?eref=rss_showbiz</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition_entertainment" rel="self" type="application/rss+xml"/>
+<feedburner:info uri="rss/edition_entertainment"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Rants bring end to Baldwin's show</title>
+<guid isPermaLink="false">http://www.cnn.com/2013/11/26/showbiz/alec-baldwin-msnbc-canceled/index.html</guid>
+<link>http://rss.cnn.com/~r/rss/edition_entertainment/~3/OEITyC1qYlE/index.html</link>
+<description>Alec Baldwin's angry outbursts against photographers trailing him have cost the actor his MSNBC talk show job.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_entertainment/~4/OEITyC1qYlE" height="1" width="1"/&gt;</description>
+<pubDate>Thu, 28 Nov 2013 09:49:53 EST</pubDate>
+<feedburner:origLink>http://www.cnn.com/2013/11/26/showbiz/alec-baldwin-msnbc-canceled/index.html</feedburner:origLink>
+<ExtractedText>Angry rants bring end to Alec Baldwin MSNBC show
+By Alan Duke, CNN
+November 26, 2013 -- Updated 2124 GMT (0524 HKT)
+Alec Baldwin recently testified against Genevieve Sabourin , who is accused of stalking the actor. She claims the pair had a relationship. It's not the first time the "30 Rock" star has found his personal matters at the center of a public battle.
+Baldwin had a contentious divorce from actress Kim Basinger in 2002, which included a custody battle over their daughter, Ireland. The pair had a passionate and stormy nine-year marriage.
+Baldwin and his daughter, model Ireland Baldwin, appear to have a close relationship now. But in 2007, a voicemail was leaked of the actor yelling at the then-11-year-old and calling her a "rude, thoughtless little pig."
+In 2011, the actor was booted from an American Airlines flight for refusing to turn off his cell phone after the doors had closed. He complained via Twitter that it was all about his playing the online game Words with Friends.
+In April, the actor had a dust-up related to Shia LeBeouf, who was reportedly fired from a Broadway production of "Orphans" after clashing with Baldwin. LaBeouf told late night host David Letterman that the two "had tension as men."
+In June 2013, Baldwin once again took to Twitter to slam a reporter who claimed that Baldwin's wife, Hilaria, was tweeting during the funeral of "The Sopranos" star James Gandolfini.
+In August 2013, both Baldwin and a photographer called the police to report an incident in New York. Apparently a standoff ensued after the photographer got too close for Baldwin's liking while he was with Hilaria. Baldwin has had several disputes with paparazzi.
+HIDE CAPTION
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Gesellschaft</title>
+<description>Menschen in der Gesellschaft. Aktuelles zu Zeitgeschehen, Generationen, Soziales und Bildung.</description>
+<pubDate>Tue, 03 Dec 2013 12:08:28 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:25:05 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/gesellschaft/index</link>
+<atom:link href="http://newsfeed.zeit.de/gesellschaft/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Gesellschaft</title>
+      <link>http://www.zeit.de/gesellschaft/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/gesellschaft/zeitgeschehen/2013-12/peter-graf-tod</link>
+      <guid>http://www.zeit.de/gesellschaft/zeitgeschehen/2013-12/peter-graf-tod</guid>
+      <category>Gesellschaft</category>
+      <title>Tennis: Peter Graf ist tot</title>
+      <description>&lt;a href="http://www.zeit.de/gesellschaft/zeitgeschehen/2013-12/peter-graf-tod"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/gesellschaft/zeitgeschehen/2013-12/peter-graf/peter-graf-148x84.jpg"/&gt;&lt;/a&gt; Der Vater, Trainer und Manager des ehemaligen Tennisstars Steffi Graf ist im Alter von 75 Jahren gestorben. Medienberichten zufolge litt er an Krebs.</description>
+      <dc:creator>ZEIT ONLINE : Gesellschaft</dc:creator>
+      <pubDate>Sun, 01 Dec 2013 17:26:15 GMT</pubDate>
+    <ExtractedText>Tennis: Peter Graf ist tot
+Tennis: Peter Graf ist tot
+Der Vater, Trainer und Manager des ehemaligen Tennisstars Steffi Graf ist im Alter von 75 Jahren gestorben. Medienberichten zufolge litt er an Krebs.
+1. Dezember 2013  18:25 Uhr  1 Kommentar
+Peter Graf (Archivbild)  |  © Reuters
+Peter Graf, der Vater von Extennisstar Steffi Graf, ist tot. Er sei am gestrigen Samstag im Alter von 75 Jahren gestorben, teilte seine Familie mit. Damit bestätigte sie einen Bericht der Bild-Zeitung. Nach Informationen der Bild litt Graf an Krebs und hatte die vergangenen Wochen im Krankenhaus verbracht. Er sei nun in Mannheim gestorben.
+"Nach einem erfüllten Leben ist gestern im Alter von 75 Jahren mein lieber Mann, unser guter Vater und Großvater in Frieden von uns gegangen", heißt es in einem von einem Anwalt übermittelten Schreiben der Familie. "Wir gedenken seiner in Trauer und großer Dankbarkeit und bitten um Verständnis, dass wir im engsten Familienkreis stillen Abschied nehmen wollen."
+Anzeige
+Graf wurde als Trainer und Manager seiner 1969 geborenen Tochter Steffi Graf bekannt. Sie stand von 1987 bis 1991 an der Spitze der Tennis-Weltrangliste und zählt bis heute zu den erfolgreichsten deutschen Sportlerinnen. Peter Graf erkannte früh das Talent seiner Tochter und trainierte sie schon als Kind. 1997 wurde Peter Graf wegen Steuerhinterziehung zu drei Jahren und neun Monaten Haft verurteilt.
+</ExtractedText>
+</item>
+</channel>
+</rss>

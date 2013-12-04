@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Alles digital</title>
+<description>Nachrichten, Analysen und Reportagen zu den Themen Internet, Datenschutz, Netzkultur, Mobil und Games. Sie finden hier die Trends, Features und Entwicklungen sowie aktuelle Tests aus dem Ressort Digital.</description>
+<pubDate>Tue, 03 Dec 2013 15:11:13 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:34:12 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/digital/index</link>
+<atom:link href="http://newsfeed.zeit.de/digital/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Alles digital</title>
+      <link>http://www.zeit.de/digital/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/digital/mobil/2013-12/jolla-sailfish-test</link>
+      <guid>http://www.zeit.de/digital/mobil/2013-12/jolla-sailfish-test</guid>
+      <category>Digital</category>
+      <title>Jolla: Das Smartphone, das Nokia nicht wollte</title>
+      <description>&lt;a href="http://www.zeit.de/digital/mobil/2013-12/jolla-sailfish-test"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/digital/mobil/2013-12/jolla-test/jolla-test-148x84.jpg"/&gt;&lt;/a&gt; In Helsinki wurde das erste Telefon mit dem neuen Sailfish OS vorgestellt. Es hat eine gute Gestensteuerung, intelligente Wechselcover und unterstützt Android-Apps.</description>
+      <dc:creator>ZEIT ONLINE : Digital - Tobias Költzsch</dc:creator>
+      <pubDate>Tue, 03 Dec 2013 09:50:54 GMT</pubDate>
+    <ExtractedText>Jolla: Das Smartphone, das Nokia nicht wollte
+Jolla: Das Smartphone, das Nokia nicht wollte
+In Helsinki wurde das erste Telefon mit dem neuen Sailfish OS vorgestellt. Es hat eine gute Gestensteuerung, intelligente Wechselcover und unterstützt Android-Apps. von Tobias Költzsch
+3. Dezember 2013  10:49 Uhr  8 Kommentare
+Das erste Smartphone der finnischen Firma Jolla   |  ©dpa/ Roni Rekomaa
+Mit seinem ersten Smartphone möchte Jolla dort weitermachen, wo Nokia 2011 aufgehört hat, als es das Betriebssystem Meego aufgab. Jolla wurde von ehemaligen Nokia-Mitarbeitern gegründet, um ein auf Meego basierendes neues Betriebssystem zu programmieren: Sailfish OS. 450 Vorbesteller kamen nun nach Helsinki zum Launch-Event für das  langersehnte erste Smartphone mit dem neuen Betriebssystem.
+Viele treue Meego-Nutzer warten schon lange auf einen Nachfolger für ihr mittlerweile betagtes Nokia N900. Zusammen mit aktueller Hardware wie LTE-Unterstützung, Snapdragon-Prozessor und intelligenten Wechselcovern scheint das Jolla Smartphone dafür geeignet zu sein.
+Anzeige
+Das Open-Source-Betriebssystem Sailfish OS basiert auf der Mer-Plattform, die ihrerseits auf Meego basiert. Die Benutzeroberfläche teilt sich in drei Hauptbereiche auf: den Sperrbildschirm, die Übersicht über die offenen Apps und das App-Verzeichnis. Das Smartphone hat weder einen Home-Button noch Navigationstasten, die Bedienung erfolgt komplett über Gesten. An der Seite befinden sich lediglich ein Einschalter und eine Lautstärkewippe. 
+Die Gestensteuerung von Sailfish OS erinnert etwas an die von Blackberrys mobilem Betriebssystem Blackberry 10, ist allerdings deutlich umfangreicher. Der Nutzer weckt das Jolla Smartphone entweder konventionell über den Einschalter auf oder wie bei Nokias Windows-Phone-Geräten und Blackberry-Smartphones mit einem Doppeltipp auf den Bildschirm.
+Der Sperrbildschirm zeigt in der linken oberen Ecke neue Nachrichten und weitere Statusmeldungen. Wird eine Sicherheitssperre mit Code eingerichtet, erscheint diese nach dem Wegwischen des Sperrbildschirms. Am oberen Displayrand ist ein in der aktuellen Hauptfarbe gehaltener heller Streifen zu sehen. Dieser zeigt an, dass mit einem Wisch von der Bildschirmmitte nach unten eine Menüauswahl aufgerufen werden kann – ein System, das Jolla an zahlreichen Stellen des Betriebssystems nutzt.
+Über dieses Menü kommt der Nutzer im Falle des Sperrbildschirms schnell zu den Einstellungen, der Kamera und der Telefonfunktion. Außerdem kann er das Smartphone stummschalten. In Apps kann er mit der Geste meist grundlegende Funktionen ausführen, beispielsweise einen Kontakt in der Telefon-App suchen oder im Browser einen neuen Tab erstellen.
+Wischt der Nutzer von unten in den Bildschirm, öffnet er die Benachrichtigungsübersicht. Hier erscheinen Benachrichtigungen von allen eingerichteten Konten, also beispielsweise Googleplus-, Facebook-, Twitter- und SMS-Nachrichten. Diese erscheinen auch dann, wenn keine der passenden Apps installiert ist – neue Facebook-Kommentare oder Nachrichten werden beispielsweise direkt im Browser angezeigt, wenn auf die Benachrichtigung geklickt wird. 
+Innerhalb von Menüs und manchen Apps navigiert der Nutzer ebenfalls mit Wischgesten. Aktuell ist die App-Auswahl im Jolla Store noch sehr übersichtlich. Das Jolla Smartphone wird relativ nackt ausgeliefert, nicht einmal ein E-Mail-Programm ist aktuell vorinstalliert. Jolla hat daher im Appstore eine eigene Rubrik mit grundlegenden Programmen angelegt. Hier finden sich neben dem E-Mail-Client auch eine Taschenrechner-App, ein Dokument-Reader und eine nachinstallierbare Unterstützung für Microsoft Exchange.
+Übersicht zu diesem Artikel
+</ExtractedText>
+</item>
+</channel>
+</rss>

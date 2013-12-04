@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 06:36:13 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition_sport" rel="self" type="application/rss+xml"/>
+<feedburner:info uri="rss/edition_sport"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>NFL: Death at stadium after game</title>
+<guid isPermaLink="false">http://edition.cnn.com/2013/12/01/us/arrowhead-stadium-death/index.html</guid>
+<link>http://rss.cnn.com/~r/rss/edition_sport/~3/z4sLOcypwiM/index.html</link>
+<description>Police are investigating the death of a man Sunday at the Kansas City Chiefs' Arrowhead Stadium after he got into a struggle with another person.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_sport/~4/z4sLOcypwiM" height="1" width="1"/&gt;</description>
+<pubDate>Mon, 02 Dec 2013 17:22:56 EST</pubDate>
+<feedburner:origLink>http://edition.cnn.com/2013/12/01/us/arrowhead-stadium-death/index.html</feedburner:origLink>
+<ExtractedText>Police investigate suspicious death at Kansas City Chiefs' Arrowhead Stadium
+From Dave Alsup, CNN
+December 2, 2013 -- Updated 1251 GMT (2051 HKT)
+The suspicious death outside Arrowhead Stadium on Sunday did not involve any kind of "fan rivalry," police said.
+(CNN) -- Police are investigating the death of a man Sunday at the Kansas City Chiefs' Arrowhead Stadium after he got into a struggle with another person.
+The incident occurred in a parking lot at the stadium while the Chiefs played the Denver Broncos just inside the venue, Kansas City, Missouri, police spokesman Tye Grant said.
+The altercation began when someone left the game and found the man, who later died at an area hospital, inside their car. The man may have owned a similar car, Grant said.
+"The incident did not involve any fan rivalry," Police Chief Darryl Forte said in a Twitter post.
+Three people are in police custody, Grant said.
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Mehr aus Forschung und Wissenschaft</title>
+<description>Nachrichten und Analysen zu Wissenschaft, Forschung, Gesundheit, Umwelt und Geschichte. Lesen Sie aktuelle Informationen aus dem Ressort Wissen.</description>
+<pubDate>Tue, 03 Dec 2013 13:48:41 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:26:49 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/wissen/index</link>
+<atom:link href="http://newsfeed.zeit.de/wissen/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Mehr aus Forschung und Wissenschaft</title>
+      <link>http://www.zeit.de/wissen/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/wissen/2013-12/indische-marssonde-ist-auf-kurs</link>
+      <guid>http://www.zeit.de/wissen/2013-12/indische-marssonde-ist-auf-kurs</guid>
+      <category>Wissen</category>
+      <title>Weltraumforschung: Indische Sonde nimmt Kurs auf den Mars</title>
+      <description>&lt;a href="http://www.zeit.de/wissen/2013-12/indische-marssonde-ist-auf-kurs"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/wissen/2013-12/Indien-Mars-Mission/Indien-Mars-Mission-148x84.jpg"/&gt;&lt;/a&gt; Indiens erste Mars-Mission liegt im Plan. Die Sonde "Mangalyaan" ist außerhalb der Erdumlaufbahn und steuert ihr Ziel an. Das soll sie in zehn Monaten erreichen.</description>
+      <dc:creator>ZEIT ONLINE : Wissen</dc:creator>
+      <pubDate>Sun, 01 Dec 2013 10:25:57 GMT</pubDate>
+    <ExtractedText>Weltraumforschung: Indische Sonde nimmt Kurs auf den Mars
+Weltraumforschung: Indische Sonde nimmt Kurs auf den Mars
+Indiens erste Mars-Mission liegt im Plan. Die Sonde "Mangalyaan" ist außerhalb der Erdumlaufbahn und steuert ihr Ziel an. Das soll sie in zehn Monaten erreichen.
+1. Dezember 2013  10:43 Uhr  4 Kommentare
+Das Kontrollzentrum der indischen Mars-Mission in Bangalore  |  © Manjunath Kiran/AFP/GettyImages
+Indiens erste Marssonde hat die Erdumlaufbahn  verlassen und den 680 Millionen Kilometer langen Weg zum roten Planeten  angetreten. Ein Motor sei für 22 Minuten gezündet worden, um das  unbemannte Raumfahrzeug auf die richtige Flugbahn zu bringen, teilte die indische Weltraumforschungsorganisation ISRO mit. Alles  sei wie geplant verlaufen. 
+Die 1.350 Kilogramm schwere Sonde  soll in zehn Monaten den Nachbarplaneten erreichen und ihn dann vom 24. September 2014 an umkreisen. Aufgabe von Mangalyaan, was in Hindi für Mars-Fahrzeug steht, ist die Erforschung der Atmosphäre und der Oberfläche des  Planeten.
+Anzeige
+Es ist das erste Mal, dass Indien  eine Sonde in den interplanetarischen Raum schickt. Die indische Mondmission  2008 war erfolgreich. Den Mars erreichten bislang nur die USA,  die damalige UdSSR und die Europäische Union.
+Kritik trotz relativ niedriger Kosten
+Die indische Mars-Mission  ist mit umgerechnet 54 Millionen Euro vergleichsweise günstig. Kritiker  bemängeln aber, dass dieses Geld nicht für den Kampf gegen Armut und Hunger in Indien eingesetzt wird. Indien will sich mit der Mission unter anderem  als zuverlässiger Partner für den Transport von Satelliten darstellen.
+Das Programm hat zudem militärische Bedeutung für Indien, da das Land sich seit Jahrzehnten in einem Rüstungswettkampf mit Pakistan befindet. Auch sind Indiens diplomatische Beziehungen zu China nicht frei von Konflikten. Chinas Militär hat bereits vor einigen Jahren einen eigenen Satelliten ins All geschossen.
+</ExtractedText>
+</item>
+</channel>
+</rss>

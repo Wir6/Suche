@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>SPIEGEL ONLINE - Netzwelt</title>
+<link>http://www.spiegel.de</link>
+<description>Nachrichten zu Internet und Technik, Handys und Computern. Aktuelle Reportagen, Analysen, Service.</description>
+<language>de</language>
+<pubDate>Tue, 03 Dec 2013 16:33:05 +0100</pubDate>
+<lastBuildDate>Tue, 03 Dec 2013 16:33:05 +0100</lastBuildDate>
+<image>
+<title>SPIEGEL ONLINE</title>
+<link>http://www.spiegel.de</link>
+<url>http://www.spiegel.de/static/sys/logo_120x61.gif</url>
+</image>
+<item>
+<title>Doppelsystem: Geeksphone verspricht Handy mit Android und Firefox</title>
+<link>http://www.spiegel.de/netzwelt/gadgets/geeksphone-handy-wahl-zwischen-android-und-firefox-os-a-936294.html#ref=rss</link>
+<description>Das Beste aus zwei Welten: Der spanische Hersteller Geeksphone entwickelt ein Smartphone, auf dem sowohl Googles Android-System als auch das wirklich freie Firefox OS läuft. </description>
+<pubDate>Fri, 29 Nov 2013 14:36:33 +0100</pubDate>
+<guid>http://www.spiegel.de/netzwelt/gadgets/geeksphone-handy-wahl-zwischen-android-und-firefox-os-a-936294.html</guid>
+<content:encoded><![CDATA[Das Beste aus zwei Welten: Der spanische Hersteller Geeksphone entwickelt ein Smartphone, auf dem sowohl Googles Android-System als auch das wirklich freie Firefox OS läuft. ]]></content:encoded>
+<ExtractedText>quark@mailinator.com 29.11.2013
+"Wirklich freies" Firefox-OS ??? Also da hab' ich so meine Zweifel. Zum einen bekommt man das Kommunikationsmodul nie im Sourcecode zu sehen - kann also nie sicher sein, was die Hardware sendet. Zum anderen kommt Firefox [...]
+"Wirklich freies" Firefox-OS ??? Also da hab' ich so meine Zweifel. Zum einen bekommt man das Kommunikationsmodul nie im Sourcecode zu sehen - kann also nie sicher sein, was die Hardware sendet. Zum anderen kommt Firefox von Mozilla und Mozilla ist von Google abhängig - hat man ja zuletzt gesehen, als Google mal kurz so tat, als wollten sie Mozilla die Millionen nicht mehr rüberschieben. Dann war auch zu hören, daß der Quellcode von Firefox OS auch nicht komplett veröffentlich werden soll. Last not least braucht die Hardware Gerätetreiber, also kleine Softwaresnipsel, welche zwischen Hardware und Betriebssystem vermitteln. Soweit bekannt, verwendet Firefox OS da die Android-Treiber ... wieder ohne daß man den Source hat und damit weiß, was läuft.  Also ich wäre mal SEHR vorsichtig mit dem Etikett "wirklich frei". Das fängt schon damit an, daß man ja eigentlich gern einen eigenen Webbrowser installieren würde ... was natürlich nicht geht ...
+starseed 29.11.2013
+Statt Behauptungen aufzustellen, könnten Sie auch einfach fragen, das ist dem, der antwortet vermutlich immer lieber... :) "Gerätetreiber" gibt's in dem Sinne von Kernel-Modulen. Wie Sie vielleicht erraten, [...]
+Zitat von quark@mailinator.com "Wirklich freies" Firefox-OS ??? Also da hab' ich so meine Zweifel. Zum einen bekommt man das Kommunikationsmodul nie im Sourcecode zu sehen - kann also nie sicher sein, was die Hardware sendet. Zum anderen kommt Firefox von Mozilla und Mozilla ist von Google abhängig - hat man ja zuletzt gesehen, als Google mal kurz so tat, als wollten sie Mozilla die Millionen nicht mehr rüberschieben. Dann war auch zu hören, daß der Quellcode von Firefox OS auch nicht komplett veröffentlich werden soll. Last not least braucht die Hardware Gerätetreiber, also kleine Softwaresnipsel, welche zwischen Hardware und Betriebssystem vermitteln. Soweit bekannt, verwendet Firefox OS da die Android-Treiber ... wieder ohne daß man den Source hat und damit weiß, was läuft.  Also ich wäre mal SEHR vorsichtig mit dem Etikett "wirklich frei". Das fängt schon damit an, daß man ja eigentlich gern einen eigenen Webbrowser installieren würde ... was natürlich nicht geht ...
+Statt Behauptungen aufzustellen, könnten Sie auch einfach fragen, das ist dem, der antwortet vermutlich immer lieber... :) "Gerätetreiber" gibt's in dem Sinne von Kernel-Modulen. Wie Sie vielleicht erraten, gehört das in den Bereich "Linux" - und ist auch beim Android genau dort. Selbstverständlich gibt's dazu den Quellcode, ebenso für die ebenfalls vom Linux bekannten Hals ("Hardware Abstraction Layer").  Aus falschen Grundlagen gezogene Schlußfolgerungen sind bestenfalls zufällig richtig. In dem Fall sind sie aber einfach auch falsch...
+quark@mailinator.com 29.11.2013
+Komisch, ich soll fragen, aber Sie dürfen Behauptungen aufstellen ??? Es tut mir leid, aber für mich ist ein Handybetriebssystem exakt genau dann "frei", wenn ich den kompletten Quellcode 100% vorliegen habe und so [...]
+Zitat von starseed Statt Behauptungen aufzustellen, könnten Sie auch einfach fragen, das ist dem, der antwortet vermutlich immer lieber... :) "Gerätetreiber" gibt's in dem Sinne von Kernel-Modulen. Wie Sie vielleicht erraten, gehört das in den Bereich "Linux" - und ist auch beim Android genau dort. Selbstverständlich gibt's dazu den Quellcode, ebenso für die ebenfalls vom Linux bekannten Hals ("Hardware Abstraction Layer").  Aus falschen Grundlagen gezogene Schlußfolgerungen sind bestenfalls zufällig richtig. In dem Fall sind sie aber einfach auch falsch...
+Komisch, ich soll fragen, aber Sie dürfen Behauptungen aufstellen ??? Es tut mir leid, aber für mich ist ein Handybetriebssystem exakt genau dann "frei", wenn ich den kompletten Quellcode 100% vorliegen habe und so überprüfbar und ggf. abschaltbar ist, was das Gerät wann wohin sendet. Und genau diese Möglichkeit gibt es nicht, weder bei Android, noch bei Firefox, noch sonstwo. Was Sie schreiben, stimmt für den frei verfügbaren Teil, aber damit können Sie nicht telefonieren, bzw. mobiles Internet nutzen. Aber ohne Vernetzung ist es wertlos.  Meine Behauptungen habe ich mir nicht selbst ausgedacht, sondern so ist der Stand meiner "Forschungen" zu dem Thema, denn ich hätte gern ein Smartphone, allerdings nicht als Überwachungsdongle für meine Person.
+starseed 01.12.2013
+Falsches wird durch Wiederholung nicht richtiger. Der Quelltext des kompletten Betriebssystems ist frei zugänglich. Der frei verfügbare Teil des Betriebssystems ist das Betriebssystem in seiner Gänze. Wenn Sie die Quellen [...]
+Zitat von quark@mailinator.com Komisch, ich soll fragen, aber Sie dürfen Behauptungen aufstellen ??? Es tut mir leid, aber für mich ist ein Handybetriebssystem exakt genau dann "frei", wenn ich den kompletten Quellcode 100% vorliegen habe und so überprüfbar und ggf. abschaltbar ist, was das Gerät wann wohin sendet. Und genau diese Möglichkeit gibt es nicht, weder bei Android, noch bei Firefox, noch sonstwo. Was Sie schreiben, stimmt für den frei verfügbaren Teil, aber damit können Sie nicht telefonieren, bzw. mobiles Internet nutzen. Aber ohne Vernetzung ist es wertlos.  Meine Behauptungen habe ich mir nicht selbst ausgedacht, sondern so ist der Stand meiner "Forschungen" zu dem Thema, denn ich hätte gern ein Smartphone, allerdings nicht als Überwachungsdongle für meine Person.
+Falsches wird durch Wiederholung nicht richtiger. Der Quelltext des kompletten Betriebssystems ist frei zugänglich. Der frei verfügbare Teil des Betriebssystems ist das Betriebssystem in seiner Gänze. Wenn Sie die Quellen nicht finden,  hilft eine Such.  Was die Hardwarekomponenten selbst in ihrem Inneren tun,  hat mit dem Betriebssystem nichts zu tun.
+starseed 01.12.2013
+Ihren Forschergeist in allen Ehren, aber Sie scheinen tatsächlich entweder außerstande zu sein,  die Quellen zu finden - oder zu lesen: https://android.googlesource.com - In beiden Fällen bezweifle ich allerdings,  dass Sie [...]
+Zitat von quark@mailinator.com (...) habe ich mir nicht selbst ausgedacht, sondern so ist der Stand meiner "Forschungen" zu dem Thema, denn ich hätte gern ein Smartphone, allerdings nicht als Überwachungsdongle für meine Person.
+Ihren Forschergeist in allen Ehren,  aber Sie scheinen tatsächlich entweder außerstande zu sein,  die Quellen zu finden - oder zu lesen: https://android.googlesource.com - In beiden Fällen bezweifle ich allerdings,  dass Sie damit etwas anfangen können.  Ansonsten würden Sie Ihre beiden Beiträge ja gar nicht erst geschrieben haben.  Hoffe natürlich trotzdem,  Ihnen mit dem Link ein wenig geholfen zu haben... ;)
+</ExtractedText>
+</item>
+</channel>
+</rss>

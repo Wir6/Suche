@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Mehr Kultur</title>
+<description>Aktuelle Kultur-Nachrichten, Informationen und Interviews rund um die Themen Kultur, Feuilleton, Literatur, Kunst, Film und Musik. Dazu Reportagen und Kritiken.</description>
+<pubDate>Tue, 03 Dec 2013 09:52:10 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:41:27 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/kultur/index</link>
+<atom:link href="http://newsfeed.zeit.de/kultur/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Mehr Kultur</title>
+      <link>http://www.zeit.de/kultur/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/kultur/film/2013-12/chris-howland-tod</link>
+      <guid>http://www.zeit.de/kultur/film/2013-12/chris-howland-tod</guid>
+      <category>Kultur</category>
+      <title>Moderator: Fernsehpionier Chris Howland ist tot</title>
+      <description>&lt;a href="http://www.zeit.de/kultur/film/2013-12/chris-howland-tod"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/kultur/film/2013-12/chris-howland/chris-howland-148x84.jpg"/&gt;&lt;/a&gt; Der Londoner Chris Howland gehörte zu den großen Entertainern der deutschen Nachkriegszeit, berühmt wurde er mit Shows wie "Musik aus Studio B" und "Vorsicht Kamera".</description>
+      <dc:creator>ZEIT ONLINE : Kultur</dc:creator>
+      <pubDate>Mon, 02 Dec 2013 11:37:57 GMT</pubDate>
+    <ExtractedText>Moderator: Fernsehpionier Chris Howland ist tot
+Moderator: Fernsehpionier Chris Howland ist tot
+Der Londoner Chris Howland gehörte zu den großen Entertainern der deutschen Nachkriegszeit, berühmt wurde er mit Shows wie "Musik aus Studio B" und "Vorsicht Kamera".
+2. Dezember 2013  12:36 Uhr  12 Kommentare
+Chris Howland  |  © Horst Ossinger/dpa
+Der Moderator und Sänger Chris Howland ist tot. Er starb in der Nacht zum Samstag im Alter von 85 Jahren, teilte der WDR am  Montag mit. WDR-Intendant Tom Buhrow würdigte den gebürtigen Londoner: "Der Begriff 'Legende' wird oft und viel zu häufig benutzt, doch Chris  Howland war wirklich eine", sagte er.
+Howland war ein Pionier des Radios und des Fernsehens, außerdem als  Schlagersänger, Schauspieler und Buchautor erfolgreich. Seine Karriere begann 1946, als er im besetzten Hamburg einen Sprecher-Job beim Radiosender der Britischen Armee erhielt. Bald hatte Howland eine große Anhängerschaft in der deutschen Bevölkerung, er bekam eine eigene Sendung beim damaligen NWDR. "Unzählige Deutsche haben durch ihn in den 1950er Jahren die neuen Hits aus der internationalen Musikszene kennengelernt, er hat sie zum Lachen und zum Tanzen gebracht", sagte Buhrow.
+Anzeige
+Aus dieser Zeit stammt auch Howlands Spitzname Mr. Heinrich Pumpernickel, den er sich selbst gab. Den größten Erfolg hatte Howland in den 1960er Jahren: Die Radioshow Musik aus Studio B und die Fernsehsendung Vorsicht Kamera machten ihn berühmt. Als Schauspieler wirkte er in Edgar-Wallace-Verfilmungen mit. Bis zu seinem Tod lebte Howland mit seiner Frau in der Nähe von Köln.
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Gesellschaft</title>
+<description>Menschen in der Gesellschaft. Aktuelles zu Zeitgeschehen, Generationen, Soziales und Bildung.</description>
+<pubDate>Tue, 03 Dec 2013 12:08:28 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:25:05 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/gesellschaft/index</link>
+<atom:link href="http://newsfeed.zeit.de/gesellschaft/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Gesellschaft</title>
+      <link>http://www.zeit.de/gesellschaft/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/gesellschaft/zeitgeschehen/2013-12/zug-entgleist-new-york</link>
+      <guid>http://www.zeit.de/gesellschaft/zeitgeschehen/2013-12/zug-entgleist-new-york</guid>
+      <category>Gesellschaft</category>
+      <title>Verkehrsunfall: Tote und Verletzte bei Zugunglück in New York</title>
+      <description>&lt;a href="http://www.zeit.de/gesellschaft/zeitgeschehen/2013-12/zug-entgleist-new-york"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/gesellschaft/zeitgeschehen/2013-12/Zugunfall-New-York/Zugunfall-New-York-148x84.jpg"/&gt;&lt;/a&gt; In New York ist ein Metro-Zug entgleist, fünf Wagen sind umgekippt. Mindestens vier Menschen starben, 63 wurden verletzt. Die Ursache des Unfalls ist noch unklar.</description>
+      <dc:creator>ZEIT ONLINE : Gesellschaft</dc:creator>
+      <pubDate>Sun, 01 Dec 2013 16:20:49 GMT</pubDate>
+    <ExtractedText>Verkehrsunfall: Tote und Verletzte bei Zugunglück in New York
+Verkehrsunfall: Tote und Verletzte bei Zugunglück in New York
+In New York ist ein Metro-Zug entgleist, fünf Wagen sind umgekippt. Mindestens vier Menschen starben, 63 wurden verletzt. Die Ursache des Unfalls ist noch unklar.
+1. Dezember 2013  15:30 Uhr  1 Kommentar
+Die umgestürzten Waggons des entgleisten Zuges im Stadtteil Bronx, New York   |  © Edwin Valero/AP/dpa
+In New York ist ein Metro-Zug entgleist und umgestürzt. Fünf Waggons seien im Stadtteil Bronx umgekippt und lägen auf der Seite, teilte die Feuerwehr über Twitter mit. Mindestens vier Menschen starben, 63 wurden verletzt, sagte Gouverneur Andrew Cuomo.
+Der Nachrichtensender CNN berichtet von mindestens vier Toten und mindestens 40 Verletzten. 100 Feuerwehrleute seien im Einsatz. Der Sender beruft sich dabei auf einen Polizisten. Die BBC berichtet von 130 Feuerwehrleuten. Der Fernsehsender CBS berichtet unter Berufung auf einen Augenzeugen, dass der Zug schneller als gewöhnlich gefahren sei. 
+Anzeige
+Der Zug befand sich auf der Fahrt zur Grand Central Station in New York. Nahe dem Bahnhof Spuyten Duyvil sei es dann am Ufer des Flusses Hudson zu dem Unfall gekommen.
+Die Bahngesellschaft teilte lediglich mit, dass der Zugverkehr wegen eines Unfalls in der Bronx gestoppt werden musste. Die Vorortzüge befördern jeden Morgen Hunderttausende aus dem Umland nach New York. Sonntags sind sie meist weniger voll. 
+Another #derailment photo from bronx. Prayers for those injured. #metronorth pic.twitter.com/GJEnpVZO91
+</ExtractedText>
+</item>
+</channel>
+</rss>

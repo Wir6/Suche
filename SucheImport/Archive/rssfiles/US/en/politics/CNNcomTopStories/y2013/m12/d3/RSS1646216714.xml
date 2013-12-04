@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:34:11 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Islamist militants attack base in Nigeria</title>
+<guid>http://edition.cnn.com/2013/12/02/world/africa/boko-haram-attack/index.html</guid>
+<link>http://edition.cnn.com/2013/12/02/world/africa/boko-haram-attack/index.html?eref=edition</link>
+<description>Hundreds of Boko Haram militants attacked an Air Force base and a military checkpoint in the northeastern Nigerian city of Maiduguri early Monday, according to government officials.</description>
+<pubDate>Mon, 02 Dec 2013 22:21:04 EST</pubDate>
+<ExtractedText>Islamist militants attack base in Nigeria
+By Vladimir Duthiers, CNN
+December 3, 2013 -- Updated 1509 GMT (2309 HKT)
+Soldiers stand outside an air force base in Maiduguri on Monday after Boko Haram militants launched a raid on the Nigerian city overnight.
+STORY HIGHLIGHTS
+Boko Haram militants attacked an air base in Maiduguri early Monday
+The Nigerian government issued at 24 hours curfew forcing people to stay inside
+The region in northeastern Nigeria has been under a state of emergency since May
+Lagos, Nigeria (CNN) -- Hundreds of Boko Haram militants attacked an Air Force base and a military checkpoint in the northeastern Nigerian city of Maiduguri early Monday, according to government officials.
+Loud explosions were heard between 3 and 4 a.m. and several ambulances were seen leaving the base. The number of casualties is unknown.
+The governor of Borno state has imposed a strict 24-hour curfew forcing citizens to remain indoors and all air traffic in the state has been halted.
+Borno is one of three embattled states in northeastern Nigeria that have been under a state of emergency since May as the region is the hotbed for Boko Haram Islamists trying to impose a strict version of Sharia, or Islamic law.
+Last week Human Rights Watch said Boko Haram has abducted scores of women and girls and used children as young as 13 in their campaign of violence. The report says Boko Haram has killed 3,000 people since 2009.
+</ExtractedText>
+</item>
+</channel>
+</rss>

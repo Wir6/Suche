@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Mehr aus Forschung und Wissenschaft</title>
+<description>Nachrichten und Analysen zu Wissenschaft, Forschung, Gesundheit, Umwelt und Geschichte. Lesen Sie aktuelle Informationen aus dem Ressort Wissen.</description>
+<pubDate>Tue, 03 Dec 2013 13:48:41 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:26:49 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/wissen/index</link>
+<atom:link href="http://newsfeed.zeit.de/wissen/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Mehr aus Forschung und Wissenschaft</title>
+      <link>http://www.zeit.de/wissen/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/wissen/2013-12/genmais-studie-zurueckgezogen</link>
+      <guid>http://www.zeit.de/wissen/2013-12/genmais-studie-zurueckgezogen</guid>
+      <category>Wissen</category>
+      <title>Gentechnik: Umstrittene Genmais-Studie zurückgezogen</title>
+      <description>&lt;a href="http://www.zeit.de/wissen/2013-12/genmais-studie-zurueckgezogen"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/wissen/2013-12/genmais/genmais-148x84.jpg"/&gt;&lt;/a&gt; Die im Jahr 2012 veröffentlichte Studie zum gentechnisch veränderten Mais NK603 wies Mängel auf, nun wurde sie zurückgezogen. Bewusste Fälschung liege aber nicht vor.</description>
+      <dc:creator>ZEIT ONLINE : Wissen - Jana Schlütter</dc:creator>
+      <pubDate>Sat, 30 Nov 2013 23:00:00 GMT</pubDate>
+    <ExtractedText>NK603: Umstrittene "Genmais"-Studie zurückgezogen
+Gentechnik: Umstrittene "Genmais"-Studie zurückgezogen
+Die im Jahr 2012 veröffentlichte Studie zum gentechnisch veränderten Mais NK603 wies Mängel auf, nun wurde sie zurückgezogen. Bewusste Fälschung liege aber nicht vor. von Jana Schlütter
+2. Dezember 2013  09:40 Uhr  66 Kommentare
+Gentechnik-Gegner können sich künftig nicht mehr auf die umstrittene "Genmais"-Studie von Gilles-Eric Séralini von der Universität von Caen berufen. Das Studiendesign war bereits vor mehr als einem Jahr von Forschern aus aller Welt scharf kritisiert worden. Der Wissenschaftsverlag Elsevier, in dessen Fachzeitschrift Food and Chemical Toxicology die Studie erschien, ließ sie daraufhin erneut prüfen und zieht sie nun zurück. Es handele sich zwar nicht um eine bewusste Fälschung, heißt es in einer Mitteilung des Verlags. Eine Krebsgefahr und andere Gesundheitsschäden durch den gentechnisch Mais NK603 und das Pflanzenschutzmittel Glyphosat könne man jedoch nicht aus den Daten ableiten. Für eine solche Schlussfolgerung sei die Anzahl der verwendeten Tiere zu gering. Außerdem neigten die Sprague-Dawley-Ratten ohnehin dazu, Krebs zu bekommen – egal, wie sie ernährt werden.
+Séralini hatte sich zuvor geweigert, die Studie freiwillig zurückzuziehen. Sie sei vor der Publikation strenger als alle anderen geprüft worden, sagte Co-Autor Joël Spiroux. Den Schritt des Verlags bezeichnete er als "Skandal für die öffentliche Gesundheit". Elsevier dagegen merkte an, der Fall sei eine Mahnung für ein möglichst sorgsames Peer-Review-Verfahren vor der Veröffentlichung.
+Anzeige
+Das Team um Séralini hatte 200 Ratten in zehn Gruppen eingeteilt. Eine Kontrollgruppe bekam eine normale Diät und Trinkwasser. Sechs Gruppen futterten entweder 11, 22 oder 33 Prozent Genmais und tranken zusätzlich reines oder mit Glyphosat behandeltes Wasser. Die letzten drei Gruppen wurden mit normalem Futter ernährt, ihr Wasser war jedoch mit unterschiedlichen Glyphosat-Konzentrationen versetzt. Ratten, die "Genmais" oder das Pflanzenschutzmittel zu sich nahmen, hatten demnach ein erhöhtes Risiko für Tumoren, Organschäden oder vorzeitigen Tod.
+Aus der Wissenschaft schlug den Autoren sofort Empörung entgegen. Im Oktober 2012 urteilten auch das Bundesinstitut für Risikobewertung und das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit , die Schlussfolgerungen seien durch die Daten nicht gedeckt. Die Behörden in anderen Ländern und die Europäische Lebensmittelsicherheitsbehörde Efsa schlossen sich an: Design, Analyse und Bericht der Experimente seien "mangelhaft".
+</ExtractedText>
+</item>
+</channel>
+</rss>

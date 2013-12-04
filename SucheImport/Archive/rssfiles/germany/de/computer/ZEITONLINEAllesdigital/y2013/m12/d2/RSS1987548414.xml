@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Alles digital</title>
+<description>Nachrichten, Analysen und Reportagen zu den Themen Internet, Datenschutz, Netzkultur, Mobil und Games. Sie finden hier die Trends, Features und Entwicklungen sowie aktuelle Tests aus dem Ressort Digital.</description>
+<pubDate>Tue, 03 Dec 2013 15:11:13 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:34:12 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/digital/index</link>
+<atom:link href="http://newsfeed.zeit.de/digital/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Alles digital</title>
+      <link>http://www.zeit.de/digital/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/digital/internet/2013-12/passig-produktion</link>
+      <guid>http://www.zeit.de/digital/internet/2013-12/passig-produktion</guid>
+      <category>Digital</category>
+      <title>Kolumne von Kathrin Passig : Der Trend zur Materie</title>
+      <description>&lt;a href="http://www.zeit.de/digital/internet/2013-12/passig-produktion"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/digital/internet/2013-12/passig-3ddrucker2/passig-3ddrucker2-148x84.jpg"/&gt;&lt;/a&gt; Die Digitalisierung verändert auch die Produktion realer Gegenstände radikal. Die ersten Unternehmen bieten ihren Kunden Schnittstellen für die Gestaltung von Produkten.</description>
+      <dc:creator>ZEIT ONLINE : Digital - Kathrin Passig</dc:creator>
+      <pubDate>Mon, 02 Dec 2013 14:33:06 GMT</pubDate>
+    <ExtractedText>Kolumne von Kathrin Passig : Der Trend zur Materie
+Kolumne von Kathrin Passig : Der Trend zur Materie
+Die Digitalisierung verändert auch die Produktion realer Gegenstände radikal. Die ersten Unternehmen bieten ihren Kunden Schnittstellen für die Gestaltung von Produkten. von Kathrin Passig
+2. Dezember 2013  15:32 Uhr  16 Kommentare
+Eigenproduktion: 3D-Drucker mit einem Kopf aus Kunststoff   |  ©Reuters/ Fabrizio Bensch
+Fotografie wurde im Laufe des 20. Jahrhunderts durch billigere und benutzerfreundlichere Kameras von der Spezialistentätigkeit zur Massenbeschäftigung. In den letzten Jahren haben Plattformen wie flickr und Instagram nicht nur viele neu dazu bewegt, täglich ihre Umgebung zu fotografieren. Sie haben auch die Ansprüche an Bilder verändert. Menschen, die sich im Leben keinen Fotografie-Bildband und noch nicht einmal ein Fotografie-für-Dummies-Buch gekauft hätten, baden im Netz täglich in einer Flut guter und sehr guter Fotos.
+Wenn sich dabei die Frage "Warum sieht das so viel besser aus als meine eigenen Bilder?" aufdrängt, findet man ohne Mühe Antworten in den Bildkommentaren oder in spezialisierten Gruppen (etwa photocritique bei Reddit, Critique oder Hit, Miss, Maybe, WHY? bei flickr). Auch wer nie die Absicht hatte, mehr über Fotografie zu lernen, geht aus diesem Entwicklungsbad verändert hervor.
+Anzeige
+Im Bereich Druck und Layout hat die Digitalisierung eine vergleichbare Entwicklung nach sich gezogen. Im Laufe der 1970er und 1980er Jahre entstanden laientaugliche Layoutsysteme, Drucker wurden erschwinglich für Privathaushalte. Viele bis dahin zum Drucken nötige technische Spezialfähigkeiten wurden überflüssig, Layoutgrundwissen breitete sich auch außerhalb der Fachkreise aus. Es gibt bis heute genügend selbstgebastelte Einladungskarten, bei deren Erstellung der Gedanke "Ich habe 120 Schriftarten und ich werde sie verwenden!" bestimmend war. Aber der Standard hat sich nach oben verschoben.
+In der Herstellung von Gegenständen ist gerade die gleiche Entwicklung zu beobachten. Private 3-D-Drucker spielen dabei trotz ihrer Medienpräsenz nicht die wichtigste Rolle. Es ist leicht, über neue Geräte zu berichten, und angenehm, sich vorzustellen, dass mit dem Kauf eines Geräts eine wesentliche Veränderung vollzogen ist. Aber die eigentliche Umwälzung entsteht dadurch, dass Herstellerfirmen definierte Schnittstellen einführen.
+Kathrin Passig
+© Jan Bölsche
+Die Journalistin und Schriftstellerin Kathrin Passig schreibt seit vielen Jahren nicht nur ins Internet, beispielsweise hier bei Google+ und hier bei Twitter , sondern auch übers Internet und den Umgang damit. Bei ZEIT ONLINE tut sie das jeden ersten Montag im Monat.
+Im Moment muss jeder, der einen Gegenstand hergestellt haben möchte, zuerst einmal einen Anbieter der gesuchten Technik finden. Schon das ist nicht einfach, denn offenbar geht die berufliche Beschäftigung mit Gegenständen bisher mit einem Desinteresse am Digitalen, an nicht professionellen Anwendern oder an beidem einher. Man merkt das schnell, wenn man auch nur versucht, einen bekanntermaßen existierenden Hersteller oder eine Werkstatt im Netz aufzustöbern. Selbst wenn die Suche Erfolg hat, kann man nur in Ausnahmefällen eigene Pläne hochladen und sich das Ergebnis zusenden lassen. "Nehmen Sie mit uns Kontakt auf", "Gerne erstellen wir ein individuelles Angebot", "Schreiben Sie uns Ihre Vorstellungen" sind übliche Formulierungen für: "Nur weil man neuerdings im Internet sein muss, ändern wir noch lange nicht unsere Geschäftsprozesse."
+Die Leipziger Firma Spreadshirt war 2001 unter den ersten Anbietern, die erkannten, dass Herstellung und Vertrieb von Gegenständen eine bessere Anbindung an die digitale Welt brauchen. Hauptsächlich bedruckt Spreadshirt Textilien mit von den Nutzern hochgeladenen Motiven, eins der bekanntesten Beispiele ist der T-Shirt-Shop Rumpfkluft des Künstlerduos Stephan Katz und Max Goldt. Bei Spoonflower kann man sich Stoffe, Tapeten und Geschenkpapier herstellen lassen, bei Zazzle Leinwand und Skateboards bedrucken, dafenvillageonline.com , dafenoilpaintings.com und dafenart.com sind Frontends für die chinesische Kunstkopistenstadt Dafen.
+Kathrin Passigs Technikwelt
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Alles digital</title>
+<description>Nachrichten, Analysen und Reportagen zu den Themen Internet, Datenschutz, Netzkultur, Mobil und Games. Sie finden hier die Trends, Features und Entwicklungen sowie aktuelle Tests aus dem Ressort Digital.</description>
+<pubDate>Tue, 03 Dec 2013 15:11:13 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:34:12 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/digital/index</link>
+<atom:link href="http://newsfeed.zeit.de/digital/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Alles digital</title>
+      <link>http://www.zeit.de/digital/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/digital/datenschutz/2013-11/imsi-catcher-seit-1998-im-einsatz</link>
+      <guid>http://www.zeit.de/digital/datenschutz/2013-11/imsi-catcher-seit-1998-im-einsatz</guid>
+      <category>Digital</category>
+      <title>Handyüberwachung: Wie sich Sicherheitsbehörden die Gesetze zurechtbiegen</title>
+      <description>&lt;a href="http://www.zeit.de/digital/datenschutz/2013-11/imsi-catcher-seit-1998-im-einsatz"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/digital/datenschutz/2013-11/telefonieren/telefonieren-148x84.jpg"/&gt;&lt;/a&gt; Beim Einsatz und der Legalisierung von Überwachungstechnik in Deutschland wird heftig getrickst. Ein Beispiel sei die Geschichte des IMSI-Catchers, sagt eine Forscherin.</description>
+      <dc:creator>ZEIT ONLINE : Digital - Anna Catherin Loll</dc:creator>
+      <pubDate>Fri, 29 Nov 2013 15:27:53 GMT</pubDate>
+    <ExtractedText>Handyüberwachung mit IMSI-Catchern war einst illegal
+Handyüberwachung: Wie sich Sicherheitsbehörden die Gesetze zurechtbiegen
+Beim Einsatz und der Legalisierung von Überwachungstechnik in Deutschland wird heftig getrickst. Ein Beispiel sei die Geschichte des IMSI-Catchers, sagt eine Forscherin. von Anna Catherin Loll
+29. November 2013  16:26 Uhr  16 Kommentare
+Nicht nur die NSA bedroht die Privatsphäre der Deutschen, sondern auch die Seilschaften im hiesigen Sicherheitsbereich. Die orientieren sich beim Einsatz von neuer Überwachungstechnik nicht am Erlaubten, sondern am Möglichen. Eine Wissenschaftlerin hat das an der Geschichte des IMSI-Catchers nachgezeichnet.
+Ein IMSI-Catcher ist ein Gerät, das eine Funkzelle simuliert. Es tut so, als gehöre es zum Mobilfunknetz. Handys buchen sich immer in die Funkzelle ein, deren Signal gerade das stärkste ist. Das eines IMSI-Catchers ist besonders stark, es überlagert die Signale normaler Funkmasten. Das Gerät funktioniert sozusagen wie eine Fliegenfalle für Handys. Es liest die auf der SIM-Karte gespeicherte International Mobile Subscriber Identity , kurz IMSI, aus und mitunter auch die Gerätenummer IMEI .
+Anzeige
+Mit der IMSI geht die Polizei oder der Geheimdienst zum Mobilfunkanbieter und lässt sich die entsprechenden Kundendaten geben, die für diese SIM-Karte hinterlegt sind. Die Behörden erfahren also zunächst einmal, wessen SIM-Karte hier verwendet wird. Die IMEI wiederum hilft ihnen dabei, herauszufinden, wem das Handy gehört. Mit diesen Informationen können sie ein Bewegungsprofil des Verdächtigen erstellen, weitere Überwachungsmaßnahmen einleiten – und mit einigen IMSI-Catcher-Modellen auch direkt die Telefongespräche abhören.
+Der IMSI-Catcher berührt allerdings nicht nur die Privatsphäre der Zielperson. Erfasst werden alle Mobilfunknutzer, die sich in der Nähe der simulierten Funkzelle aufhalten. Legal ist das Gerät in Deutschland seit 2002. Nun aber hat die Politikwissenschaftlerin Astrid Bötticher von der Universität Witten/Herdecke im Rahmen des Projekts Sicherheitsgesetzgebung herausgefunden, dass deutsche Behörden es offenbar schon seit 1998 einsetzen.
+Im Auftrag des BND
+Das Münchener Unternehmen Rhode &amp; Schwarz hat den IMSI-Catcher seit 1995 in zwei Modellen entwickelt. Die erste kann nur die IMSI erfassen. Die zweite schneidet auch Gespräche mit. Rhode &amp; Schwarz behauptet, die Entwicklung des IMSI-Catchers sei ein Nebenprodukt der Kryptohandy-Produktion , sagt Bötticher. In ihren Recherchen, die 2014 veröffentlicht werden sollen, habe sie jedoch erfahren, dass es sich um einen Auftrag des Bundesnachrichtendienstes (BND) gehandelt hat. "Die Sicherheitsbehörden entdecken häufig einen Bedarf und bestellen dann maßgeschneiderte Lösungen", sagt die Wissenschaftlerin.
+Im Gesetzgebungsprozess scheint das mitunter ähnlich zu sein. So will die Forscherin durch Interviews mit Industriemitarbeitern, Ministeriumsangestellten und Geheimdienstlern sowie durch Aktensichtung herausbekommen haben, dass sowohl das Bundeskriminalamt, als auch das Zollkriminalamt und der Bundesgrenzschutz bereits 1998 das erste Modell des IMSI-Catchers verwendeten.
+Regierung lehnte Bundesratsinitiative ab
+"Der Hersteller und der BND behaupteten anfangs, man brauche keine besondere Genehmigung für den IMSI-Catcher", sagt Bötticher. "Dass sie überwachen dürften, stehe ja im Gesetz." Mitarbeiter von Telekommunikationsunternehmen jedoch wehrten sich gegen diese Auslegung des Gesetzestextes. Der IMSI-Catcher störe das Netz, befürchteten sie. Außerdem sorgten sie sich um die Privatsphäre ihrer Kunden. Sie drängten auf einen klaren gesetzlichen Rahmen für den Einsatz des Gerätes.
+Schon 1997 gab es eine Bundesratsinitiative, um den Einsatz von IMSI-Catchern durch eine Erweiterung von Paragraf 100b der Strafprozessordnung rechtlich zu regeln. Doch das scheiterte zunächst am Widerstand der Regierung, der die vorgeschlagenen Abhörbefugnisse zu weit gingen. Um den Catcher trotzdem nutzen zu können, behalfen sich die Behörden ab 1998 zunächst mit einer sogenannten Versuchsfunkgenehmigung, also einer Ausnahmeerlaubnis des damaligen Ministeriums für Post und Telekommunikation. Die lief 1999 aus, aber erst danach bekamen die Mobilfunkanbieter sie zu Gesicht, sagt Bötticher. Und selbst dann nur in geschwärzter Fassung. Sie konnten also nie juristisch dagegen vorgehen.
+Für die Behörden ging alles so lange gut, bis Der Spiegel 2001 aufdeckte, dass der Bundesgrenzschutz und die Polizei den IMSI-Catcher zu Strafverfolgungszwecken einsetzten. Die Verantwortlichen kamen in Erklärungsnot. Sie begründeten die Rechtmäßigkeit des Einsatzes mit Paragraf 100a der Strafprozessordnung , in dem die technische Überwachung von Verdächtigen geregelt ist. Doch die Justizministerkonferenz wies diese Interpretation zurück. Der IMSI-Catcher musste offiziell legalisiert werden.
+Übersicht zu diesem Artikel
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>SPIEGEL ONLINE - Netzwelt</title>
+<link>http://www.spiegel.de</link>
+<description>Nachrichten zu Internet und Technik, Handys und Computern. Aktuelle Reportagen, Analysen, Service.</description>
+<language>de</language>
+<pubDate>Tue, 03 Dec 2013 16:33:05 +0100</pubDate>
+<lastBuildDate>Tue, 03 Dec 2013 16:33:05 +0100</lastBuildDate>
+<image>
+<title>SPIEGEL ONLINE</title>
+<link>http://www.spiegel.de</link>
+<url>http://www.spiegel.de/static/sys/logo_120x61.gif</url>
+</image>
+<item>
+<title>Online-Speicher ohne US-Recht: Diese Datenwolken liegen in Europa </title>
+<link>http://www.spiegel.de/netzwelt/web/cloud-dienste-welche-datenwolken-europa-bietet-a-935791.html#ref=rss</link>
+<description>Dropbox und Google bieten günstigen Online-Speicher. Doch der Datenschutz bei diesen Angeboten unterliegt dem problematischen US-Recht. Sind europäische Anbieter eine Alternative? Ein Vergleich von TeamDrive aus Deutschland, dem norwegischen Jottacloud und Wuala aus der Schweiz.</description>
+<pubDate>Fri, 29 Nov 2013 10:53:00 +0100</pubDate>
+<guid>http://www.spiegel.de/netzwelt/web/cloud-dienste-welche-datenwolken-europa-bietet-a-935791.html</guid>
+<content:encoded><![CDATA[Dropbox und Google bieten günstigen Online-Speicher. Doch der Datenschutz bei diesen Angeboten unterliegt dem problematischen US-Recht. Sind europäische Anbieter eine Alternative? Ein Vergleich von TeamDrive aus Deutschland, dem norwegischen Jottacloud und Wuala aus der Schweiz.]]></content:encoded>
+<ExtractedText>Cloud-Dienste: Welche Datenwolken Europa bietet
+Online-Speicher ohne US-Recht: Diese Datenwolken liegen in Europa
+Von Markus Böhm
+Dropbox und Google bieten günstigen Online-Speicher. Doch der Datenschutz bei diesen Angeboten unterliegt dem problematischen US-Recht. Sind europäische Anbieter eine Alternative? Ein Vergleich von TeamDrive aus Deutschland, dem norwegischen Jottacloud und Wuala aus der Schweiz.
+Mit Kollegen an Präsentationen arbeiten, Fotos teilen, unterwegs per Smartphone die eigenen Dateien abrufen: Für viele Menschen gehören Cloud-Dienste zum Alltag. Die weltweit bekanntesten Anbieter solcher Online-Speicher sind US-Unternehmen wie Dropbox mit mehr als 200 Millionen Kunden weltweit.
+Bei aller Bequemlichkeit sollten Cloud-Nutzer aber das Thema Sicherheit nicht vergessen. Immerhin überlassen Cloud-Nutzer ihre Daten kommerziellen Unternehmen, bei einigen Anbietern sogar unverschlüsselt. Ob persönliche Dokumente wirklich auf Servern von US-Unternehmen liegen sollten, muss jeder Nutzer genau überdenken. Von den NSA-Angriffen ganz abgesehen machen es Anti-Terror-Gesetze wie der Patriot Act US-Ermittlern leicht, auf Cloud-Daten von EU-Bürgern bei US-Firmen zuzugreifen .
+Es gibt Alternativen zu den Marktführern aus Übersee. Wir haben drei europäische Cloud-Dienste ausprobiert. Zwar bieten auch hiesige Dienste keine absolute Sicherheit - wirklich wichtige Dateien sollte man zum Beispiel selbst verschlüsseln . Jedoch ist das Datenschutzniveau bei solchen Firmen in der Regel höher als bei US-Anbietern.
+Jottacloud - norwegischer Minimalismus
+Website von Jottacloud: Eine Dropbox-Alternative aus Norwegen
+Der norwegische Cloud-Dienst Jottacloud wirbt mit seinem Standort. Nach den NSA-Enthüllungen hat die Firma aus Oslo publikumswirksam eine "Privatsphäre-Garantie" veröffentlicht. Im zugehörigen Blogpost heißt es : "Jottacloud ist eine norwegische Firma mit norwegischen Inhabern, und wir arbeiten unter norwegischen Datenschutzgesetzen. Wir bewahren alle Ihre Dateien in Norwegen auf."
+Optisch schlicht gehalten, bietet der Dienst alles Grundlegende, was man zum Datensichern und -abgleichen braucht. So speichert Jottacloud gelöschte Dateien bis zu 30 Tage im Papierkorb. Schade allerdings, dass es keine Software-Versionen für Windows Phone und Linux gibt: Nutzer dieser Betriebssysteme können lediglich per Browser auf Jottacloud zugreifen, Dateien hochladen ist so nicht möglich.
+Preislich überzeugt der norwegische Dienst : Fünf Gigabyte Speicher sind gratis, 20 kosten 1,70 Dollar (1,26 Euro) pro Monat. Wer will, kann sogar unbegrenzten Speicherplatz erwerben - der Preis hierfür richtet sich nach der Menge der genutzten Geräte. Bezahlen kann man ausschließlich per Kreditkarte.
+Der Datentransport läuft bei Jottacloud über eine verschlüsselte HTTPS-Verbindung. Auf den Servern sind die Daten später nur lokal verschlüsselt, das heißt: Die Firmenmitarbeiter können die vom Nutzer hochgeladenen Dateien prinzipiell sehen.
+Wuala - bloß nicht das Passwort verlieren
+Wuala: Der Schweizer Dienst verschlüsselt Daten direkt beim Nutzer
+Einen höheren Sicherheitsstandard bietet Wuala , ein Schweizer Dienst, dessen Server auch in Deutschland und Frankreich stehen. Zusätzlich zum Backup einzelner Dateien und Ordner ermöglicht Wuala ein geräteübergreifendes Synchronisieren, ebenso lassen sich Ordner mit anderen Nutzern teilen.
+Vor der Übertragung in die Cloud verschlüsselt Wuala alle Dateien noch auf dem Rechner des Nutzer , samt Metadaten wie Ordnernamen. Mitarbeiter bekommen daher nur mit, wie viele Dateien jemand gespeichert hat und wie viel Speicherplatz er dafür nutzt. Die Verschlüsselung direkt beim Nutzer hat jedoch auch eine weitere Konsequenz: Wer sein Passwort verliert, kommt nicht mehr an seine Inhalte.
+Trotz Schweizer Firmensitz gibt es Wualas iOS- und Android-Apps nur auf Englisch, das Unternehmen bietet auch keinen Telefonsupport. Fünf Gigabyte Speicher sind bei Wuala kostenlos, 20 Gigabyte kosten 2,99 Euro im Monat. Pro Account lassen sich maximal zwei Terabyte erwerben, abgerechnet wird über PayPal.
+TeamDrive - die etwas komplizierte Datenwolke aus Deutschland
+TeamDrive: Der Hamburger Dienst will das Zusammenarbeiten erleichtern
+Von Hamburg aus betrieben wird TeamDrive , ein Dienst, der sich vor allem für Projektteams und Arbeitsgruppen eignet. Ihnen soll die TeamDrive-Software helfen, ständig Zugriff auf die neueste Dateiversion zu haben, etwa bei der Arbeit an Präsentationen. Dafür bietet der Dienst eine umfangreiche Rechte- und Versionsverwaltung.
+Obwohl die TeamDrive-Server in verschiedenen Ländern stehen, landen die Daten europäischer Privatkunden in der Regel auf irischen Servern. Auf Wunsch lässt sich der Speicherort aber auch individuell anpassen . Ebenso ist es möglich, die TeamSpace-Software zu nutzen, um Ordner über einen eigenen Server zu synchronisieren.
+Wie Wuala verschlüsselt Teamdrive alle Daten vor dem Upload, jeder Ordner hat einen eigenen Schlüssel. Ein Browser-Zugriff auf die Cloud-Inhalte ist im Gegensatz zum Schweizer Dienst nicht möglich.
+Von der Bedienung her ist TeamDrive etwas weniger selbsterklärend als andere Dienste, das gilt auch für das Preismodell . Nutzer der kostenlosen TeamDrive-Variante können nur zwei Gigabyte an Daten automatisch synchronisieren. Diese Beschränkung entfällt, wenn man das "Personal"-Angebot nutzt, das im Jahr knapp 30 Euro kostet.
+Cloud-Dienste in Europa - Drei Anbieter im Vergleich
+Anbieter
+</ExtractedText>
+</item>
+</channel>
+</rss>

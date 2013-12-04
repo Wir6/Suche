@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:34:11 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>World's most exquisite libraries</title>
+<guid>http://edition.cnn.com/2013/11/27/world/gallery/most-beautiful-libraries-in-the-world/index.html</guid>
+<link>http://edition.cnn.com/2013/11/27/world/gallery/most-beautiful-libraries-in-the-world/index.html?eref=edition</link>
+<description>Take a peek at the world's most exquisite libraries</description>
+<pubDate>Tue, 03 Dec 2013 08:24:02 EST</pubDate>
+<ExtractedText>&lt;&lt; Previous   Next &gt;&gt;
+Strahov Abbey library, Prague, Czech Republic Libraries encapsulate the history of knowledge and stand as monuments to different epochs in architecture, interior design and art. When Dr. James Campbell of Cambridge University could not find a book that traced the history of library buildings through the ages, he decided to write one himself. With the renowned architectural photographer Will Pryce he embarked on an epic journey across 21 countries, visiting 85 of the world's greatest libraries. Three years later the result is The Library: A World History , the most complete account of library buildings to date. Here James Campbell and Will Pryce take us on a virtual journey through some of their favorites. Interviews by Milena Veselinovic
+Loading weather data ...
+</ExtractedText>
+</item>
+</channel>
+</rss>

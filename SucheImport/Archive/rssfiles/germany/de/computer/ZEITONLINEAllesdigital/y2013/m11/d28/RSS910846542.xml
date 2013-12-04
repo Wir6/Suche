@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Alles digital</title>
+<description>Nachrichten, Analysen und Reportagen zu den Themen Internet, Datenschutz, Netzkultur, Mobil und Games. Sie finden hier die Trends, Features und Entwicklungen sowie aktuelle Tests aus dem Ressort Digital.</description>
+<pubDate>Tue, 03 Dec 2013 15:11:13 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:34:12 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/digital/index</link>
+<atom:link href="http://newsfeed.zeit.de/digital/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Alles digital</title>
+      <link>http://www.zeit.de/digital/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/digital/internet/2013-11/bitcoins-1000</link>
+      <guid>http://www.zeit.de/digital/internet/2013-11/bitcoins-1000</guid>
+      <category>Digital</category>
+      <title>Digitale Währung: Bitcoin-Rekorde locken Kriminelle an</title>
+      <description>&lt;a href="http://www.zeit.de/digital/internet/2013-11/bitcoins-1000"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/digital/internet/2013-11/bitcoin-muenzen/bitcoin-muenzen-148x84.jpg"/&gt;&lt;/a&gt; Mehr als 1.100 Dollar ist eine Bitcoin mitunter schon wert. Das macht die virtuelle Währung für Wissenschaftler interessant – und für Diebe.</description>
+      <dc:creator>ZEIT ONLINE : Digital - Marin Majica</dc:creator>
+      <pubDate>Thu, 28 Nov 2013 16:39:26 GMT</pubDate>
+    <ExtractedText>Bitcoin mehr als 1.100 US-Dollar wert
+Digitale Währung: Bitcoin-Rekorde locken Kriminelle an
+Mehr als 1.100 Dollar ist eine Bitcoin mitunter schon wert. Das macht die virtuelle Währung für Wissenschaftler interessant – und für Diebe. von  Marin Majica
+28. November 2013  15:50 Uhr  32 Kommentare
+Bitcoin-"Münzen", die der US-Amerikaner Mike Caldwell hergestellt hat und die echte Bitcoins enthalten.  |  © REUTERS/Jim Urquhart
+Der Wechselkurs der digitalen Kryptowährung Bitcoin steigt seit zwei Wochen in absurde Höhen. Bei etlichen Beobachtern löste es noch vor zehn Tagen Schwindelgefühle aus, dass eine Bitcoin nun plötzlich mehr als 600 Dollar wert sein sollte.
+Statt zu staunen, hätte man wohl Bitcoins kaufen sollen.
+Anzeige
+Am heutigen Donnerstag war eine Bitcoin bei Mt.Gox , einem der renommiertesten Bitcoin-Händler, zwischenzeitlich 1.170,61 Dollar wert. Anderswo wird die Währung etwas günstiger gehandelt, doch auch die Seite coindesk.com verortet den Wert derzeit bei mehr als 1.000 Dollar.
+Das zieht nicht nur Anleger an: Vor wenigen Tagen musste Kris Henriksen, Chef von BIPS, dem wichtigsten europäischen Markt- und Umtauschplatz für Bitcoin, eine denkbar unangenehme Mitteilung machen. Kriminelle hatten sich Zugang zu den elektronischen Brieftaschen von BIPS-Kunden verschafft und 1.295 Bitcoins im Wert von rund einer Million Dollar entwendet. Ein Wert, der mittlerweile um knapp 300.000 Dollar nach oben korrigiert werden muss.
+Die BIPS-Angreifer gingen Henriksen zufolge außerordentlich perfide vor. Zunächst lähmten sie die Systeme der dänischen "Bitcoin-Bank" mit einer Überlastungsattacke, einem sogenannten DDoS-Angriff. Dann griffen sie zwei Tage später erneut an und erzwangen dabei die Öffnung einer Sicherheitslücke, über die sie dann auf die Bitcoin-Depots zugriffen. Erbeuten konnten sie angeblich größtenteils Bitcoins aus dem Besitz von BIPS selbst, aber Vertrauen schafft so etwas bei Bankkunden sicher nicht. 
+Es war nicht der erste Zwischenfall dieser Art. Doch der Hype um die digitale Währung, die dezentral zwischen den Nutzern erzeugt und gehandelt wird, hält trotzdem an . Manche bezeichnen Bitcoins bereits als "Gold für Nerds".
+Gründe gibt es dafür einige. Einen deutlichen Auftrieb verschaffte den Bitcoins etwa vor Kurzem einen Anhörung vor dem US-Kongress . Dabei äußerten sich Experten aus Behörden und der Finanzwirtschaft überraschend positiv und zuversichtlich über Bitcoin. Demnach herrscht offenbar große Einigkeit darüber, dass es Instrumente gibt, um einen illegalen Einsatz der Währung zu beobachten und im Zweifel auch zu verhindern.
+Eine wichtige Rolle für den Erfolg von Bitcoin scheint auf jeden Fall auch China zu spielen. Diesen Eindruck vermittelt etwa die Seite fiatleak.com , auf der der weltweite Handel mit Bitcoins visualisiert ist. China ist dabei neben den USA besonders umtriebig. Ein Grund sind angeblich Chinesen, die auf diesem Weg die Devisensperre im Land umgehen. Bereits in der Vergangenheit haben Chinesen ein großes Interesse an der Alternativwährung Q-Coin bewiesen, bis die Regierung regulierend eingriff. Zudem akzeptiert mit Baidu, Chinas Gegenstück zu Google, bereits ein großer chinesischer Konzern Zahlungen in Bitcoins .
+Angst vor Kursschwankungen
+Wie lange es gut geht mit dem Aufschwung, darüber gibt es geteilte Ansichten. Auf Wired.com schildert der Computerwissenschaftler Nicholas Weaver , warum er nur an einen beschränkten Erfolg glaubt. Seiner Ansicht nach ist ein Problem der Bitcoins, dass eine Zahlung in dieser Währung niemals rückgängig gemacht werden kann. Deshalb seien wohl nie Transaktionen in Bitcoins per Kreditkarte möglich, da Unternehmen wie Visa Zahlungen prüfen und im Zweifel aufhalten und zurückbuchen müssen.
+Ein anderes Problem sieht Weaver in den großen Kurschwankungen. Diese verleiteten zu häufigem Umtausch, da die Besitzer stets den nächsten großen Absturz fürchten müssten. Beim Tauschen fielen aber auf Dauer zu hohe Gebühren an, als dass Bitcoin je praktikabel sein könnten. Die Idee der Währung sei wichtig und wertvoll, aber Bitcoins selbst seien dazu verdammt, "auf dem Aschehaufen der Geschichte" zu landen.
+</ExtractedText>
+</item>
+</channel>
+</rss>

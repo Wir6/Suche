@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Alles digital</title>
+<description>Nachrichten, Analysen und Reportagen zu den Themen Internet, Datenschutz, Netzkultur, Mobil und Games. Sie finden hier die Trends, Features und Entwicklungen sowie aktuelle Tests aus dem Ressort Digital.</description>
+<pubDate>Tue, 03 Dec 2013 15:11:13 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:34:12 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/digital/index</link>
+<atom:link href="http://newsfeed.zeit.de/digital/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Alles digital</title>
+      <link>http://www.zeit.de/digital/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/digital/internet/2013-11/telekom-flatrate-tarif-umbenennung</link>
+      <guid>http://www.zeit.de/digital/internet/2013-11/telekom-flatrate-tarif-umbenennung</guid>
+      <category>Digital</category>
+      <title>Gerichtsurteil: Telekom will Flatrate-Tarife umbenennen</title>
+      <description>&lt;a href="http://www.zeit.de/digital/internet/2013-11/telekom-flatrate-tarif-umbenennung"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/digital/internet/2013-11/Telekom/Telekom-148x84.jpg"/&gt;&lt;/a&gt; Die Telekom hat auf ein Urteil reagiert, nach dem ein Tarif mit Volumenbegrenzung nicht Flatrate heißen darf. Verbraucherschützer kritisierten die bloße Umbenennung.</description>
+      <dc:creator>ZEIT ONLINE : Digital</dc:creator>
+      <pubDate>Sat, 30 Nov 2013 13:08:22 GMT</pubDate>
+    <ExtractedText>Gerichtsurteil: Telekom will Flatrate-Tarife umbenennen
+Gerichtsurteil: Telekom will Flatrate-Tarife umbenennen
+Die Telekom hat auf ein Urteil reagiert, nach dem ein Tarif mit Volumenbegrenzung nicht Flatrate heißen darf. Verbraucherschützer kritisierten die bloße Umbenennung.
+30. November 2013  14:07 Uhr  25 Kommentare
+Konzernzentrale der Telekom in Bonn  |  © Ina Fassbender/Reuters
+Die Deutsche Telekom will Medienberichten zufolge DSL-Pauschaltarife mit Volumenbegrenzung nicht mehr als Flatrate bezeichnen. Sie folgt damit einem Urteil des Kölner Landgerichts, das dem Konzern verboten hatte, das Übertragungstempo bei DSL-Flatrates ab einem bestimmten genutzten Datenvolumen zu drosseln . Die Telekom verzichte auf eine Berufung gegen das Urteil von Ende Oktober, berichteten die Rheinische Post und das Nachrichtenmagazin Focus unter Berufung auf Unternehmenskreise.
+Ein Telekom-Sprecher wollte die Berichte zunächst nicht kommentieren. Er verwies auf eine für Montag geplante Pressekonferenz mit Deutschland-Vorstand Niek Jan van Damme. Die Telekom will dann erläutern, wie sie nach dem Kölner Urteil weiter vorgeht. Unmittelbar nach dem Urteil hatte die Telekom mitgeteilt, das Urteil prüfen zu wollen und eine Berufung zu erwägen. Das Gericht hatte dem Unternehmen für die als Flatrate verkauften Tarife Call&amp;Surf und Entertain die Drosselung untersagt.
+Anzeige
+Die Telekom hatte im April angekündigt, ab 2016 die Geschwindigkeit von Internet-Pauschaltarifen zu drosseln, wenn eine bestimmte Datenmenge verbraucht wurde. Dies betrifft etwa Kunden, die sich aus dem Netz viele Filme herunterladen. Wer sich mehr Daten in gewohnter Geschwindigkeit holen will, sollte eine Extra-Gebühr bezahlen. Konzernchef René Obermann hatte die Pläne unter anderem mit Milliarden-Investitionen für den Ausbau der Breitbandnetze begründet, die zurückverdient werden müssten.
+Umbenennung "juristisch bedenklich und keinesfalls ausreichend"
+Nun will die Telekom laut Rheinischer Post in Zukunft einerseits DSL-Tarife mit klar definierten Obergrenzen für ein ungedrosselt verfügbares Datenvolumen vermarkten. Andererseits solle es weiterhin echte Flatrates geben, allerdings zu höheren Preisen. "Wir wollen insgesamt transparenter und kundenfreundlicher werden", heißt es dem Bericht zufolge bei der Telekom intern. Laut Focus soll die Streichung des Begriffs Flatrate bei DSL-Tarifen mit Volumenbegrenzung schon im Dezember greifen.
+Die Verbraucherzentrale NRW, die erfolgreich gegen die Telekom geklagt hatte, bezweifelt allerdings, dass eine bloße Umbenennung der Tarife genügt. "Sollte die Telekom lediglich vorhaben, gedrosselte DSL-Verträge künftig nicht mehr Flatrate, sondern einfach anders zu benennen, so wäre das juristisch bedenklich und keinesfalls ausreichend", sagte ihr Anwalt Thomas Brandler dem Focus. Telekom-Kunden sollten dann weiterhin darauf bestehen, dass eine monatliche Volumenbegrenzung unwirksam ist, solange ein ursprünglich gebuchter Tarif als Flatrate verkauft wurde.
+</ExtractedText>
+</item>
+</channel>
+</rss>

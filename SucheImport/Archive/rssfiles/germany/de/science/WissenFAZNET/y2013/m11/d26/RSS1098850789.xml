@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Wissen - FAZ.NET</title>
+<link>http://www.faz.net/aktuell/wissen/</link>
+<description>Meldungen aus allen Bereichen der Wissenschaft. Nachrichten aus Forschung und Entwicklung: Medizin, Klima und Naturwissenschaft. </description>
+<copyright>Copyright 2001-2013 Frankfurter Allgemeine Zeitung GmbH. Alle Rechte vorbehalten.</copyright>
+<category>Wissen - FAZ.NET</category>
+<language>de-de</language>
+<docs>http://www.faz.net/hilfe/services-newsletter-widgets-rss-feeds-mehr/</docs>
+<generator>FAZ.NET</generator>
+<ttl>5</ttl>
+<lastBuildDate>Mon, 2 Dec 2013 17:10:12 +0100</lastBuildDate>
+<atom:link href="http://www.faz.net/rss/aktuell/wissen/" rel="self" type="application/rss+xml"/>
+<image>
+		<title>Wissen - FAZ.NET</title>
+		<url>http://www.faz.net/img/fazlogo_ressort.gif</url>
+        <link>http://www.faz.net/aktuell/wissen/</link>
+	</image>
+<item>
+    <title>Marsrover: „Curiosity“ rollt wieder</title>
+    <description>&lt;img width="190" height="107" border="0" title="Marsrover Curiosity als Selbstporträt" alt="Marsrover Curiosity als Selbstporträt" src="http://media0.faz.net/polopoly_fs/1.2681742!/image/2100917698.jpg_gen/derivatives/article_teaser/2100917698.jpg"/&gt;&lt;p&gt;Der Rover „Curiosity“ ist nach einer Zwangspause wieder auf dem Roten Planeten unterwegs. Sechs Tage stand er still. Die Spannungsversorgung hatte gestreikt.&lt;/p&gt;</description>
+    <link>http://www.faz.net/aktuell/wissen/weltraum/neues-vom-marsrover-curiosity-rollt-wieder-12681738.html</link>
+    <pubDate>Tue, 26 Nov 2013 13:21:00 +0100</pubDate>
+    <guid isPermaLink="true">http://www.faz.net/-gx0-7jtai</guid>
+<ExtractedText>© dpa
+Marsrover Curiosity als Selbstporträt
+Der Marsrover „Curiosity“ der Nasa hat  am Wochenende offenkundig seine Forschungsarbeit wieder aufgenommen und eingesammelten Steinstaub vom Roboterarm in ein Analyselabor in seinem Inneren übergeben. Das teilte die amerikanische Raumfahrtbehörde mit. Einige der Bodenproben habe Curiosity bereits untersucht.
+Zuvor hatte „Curiosity“ eine sechstägige Zwangspause einlegen müssen, nachdem Nasa-Wissenschaftler eine Störung in der elektrischen Stromversorgung des Marsroboters entdeckt hatten. „Wir haben eine Liste von möglichen Ursachen gemacht und überprüft, welche wir wieder streichen können, eine nach dem anderen“, sagte der Nasa-Ingenieur Rob Zimmermann.
+Kurzschluss in der Batterie
+Wahrscheinlicher Grund für den kurzen Ausfall von „Curiosity“ sei ein Kurzschluss in einem Generator gewesen, hieß es. Der Rover und der Generator seien aber unbeschädigt und funktionierten nun wieder normal. Jetzt kann er wieder seine Fahrt zu seinem Ziel fortsetzen, den Zentralberg „Mount Sharp“ des Gale-Kraters.
+„Curiosity“ rollt seit über einem Jahr auf dem Roten Planeten.  Das sechsrädrige Gefährt, das etwa die Größe eines Kleinwagens besitzt, ist vollgepackt mit Kameras und Messinstrumenten, darunter eine Wetterstation, ein Strahlenmessgerät und Geräte zur Analyse von gasförmigen und festen Proben.
+Weitere Artikel
+</ExtractedText>
+</item>
+</channel>
+</rss>

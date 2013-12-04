@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 06:36:13 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition_sport" rel="self" type="application/rss+xml"/>
+<feedburner:info uri="rss/edition_sport"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>F1 guru predicts 'spicy' 2014 </title>
+<guid isPermaLink="false">http://edition.cnn.com/2013/11/26/sport/motorsport/formula-one-newey-2014-cars/index.html</guid>
+<link>http://rss.cnn.com/~r/rss/edition_sport/~3/-XNrIVWEJv8/index.html</link>
+<description>Formula One's top car designer Adrian Newey is predicting a spicy 2014 season thanks to major rule changes.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_sport/~4/-XNrIVWEJv8" height="1" width="1"/&gt;</description>
+<pubDate>Wed, 27 Nov 2013 09:12:08 EST</pubDate>
+<feedburner:origLink>http://edition.cnn.com/2013/11/26/sport/motorsport/formula-one-newey-2014-cars/index.html</feedburner:origLink>
+<ExtractedText>Formula One car guru Adrian Newey predicts spicy 2014 season
+November 26, 2013 -- Updated 1608 GMT (0008 HKT)
+Red Bull's double act of racer Sebastian Vettel and designer Adrian Newey have won the team four world titles.
+STORY HIGHLIGHTS
+Red Bull car designer Adrian Newey says 2014 rule changes will spice up new season
+He says it is a "guessing game" which team will have best engine/chassis combination
+Newey says he would like the rules to consider car aesthetics more than they do
+Englishman says he has a "24-hour" rule he applies to all his design ideas
+(CNN) -- The checkered flag has only just fallen on the final Formula One race of the year in Brazil but the sport's top car designer is already predicting a spicy 2014 season.
+Adrian Newey is the man behind the Red Bull racer that has powered Sebastian Vettel and the team to four straight world championships.
+But the Englishman is not taking Red Bull's dominance for granted as major rule changes loom on the horizon.
+Next year, each team must package its car around a new turbo engine as well as complying with aerodynamic rule changes which will mainly affect the design of the cars' front and rear wings.
+"The aerodynamic changes are big," explained Newey to Formula1.com . "But they are smaller than the changes we had in 2009.
+Celebrations at the Red Bull F1 Factory
+What's behind Vettel's winning streak?
+Vettel's dominance could bore F1 fans
+"So yes, there is the chance that one team comes up with a car that is better than their rivals', but on top of that you have the engine changes.
+"What is absolutely unclear is whether one engine manufacturer will be able to come up with a significant advantage.
+"But the car that will brush aside all others will be a car having the combination of good engine and good chassis -- if one side is letting you down you will have a problem.
+"Who will come up with the ideal combination? That's the big guessing game for all of us and will add spice to the 2014 season."
+Red Bull will continue to be powered by Renault while Mercedes and Ferrari will pit their new 1.6-litre, V6 engines against the French engine manufacturer.
+The 2014 cars will also rely on more hybrid power harvested from Energy Recovery Systems (ERS).
+While these elements of the car are out of Newey's hands, the Englishman, who says he has received offers to join rival teams, remains in charge of Red Bull's car design as the team's chief technical officer.
+Read: 'Magic' Vettel will surpass Schumacher
+There has already been speculation within the sport that the 2014 cars will be less easy on the eye than this season's sleek racers.
+It's a theory that also irks Newey, who still uses a drawing board to sketch out the design of his peerless machines.
+"Ideally the car is fast and has a stylish design," the former Williams and McLaren designer continued.
+"But everybody in the paddock will give a fast car preference over an attractive car -- that's the way it is.
+"Yes, for me it would be good if a bit more consideration was given to aesthetics in the drafting of the regulations. But fast is paramount over beauty."
+Newey and his team of more than 100 engineers have been working on Red Bull's 2014 for many months, even while juggling the demands of winning current championships.
+Amazing brain
+But the Englishman, rated as the sport's leading car designer, was still willing to share some tips on preparing for a major rule change -- even if there could be a slight danger that rivals such as Ferrari, Mercedes and McLaren might just pinch some of his ideas.
+"The first thing that you do is to read the regulations -- very, very carefully," he explained.
+"You try to read what they actually say, rather than what they intend to say, as this is not always the same thing.
+"After that I'm actually breaking it down into bite-size chunks. Then you try to understand from the regulations the aerodynamic and mechanical packaging that appears to be the best solutions for those different areas.
+"You go away and research them and at some point try to bring it all back together again. For me that is the important bit: the end product should be a whole and not pieces thrown together into one cluster.
+"Does it still look a good idea after 24 hours? That decides whether it gets a tick or a cross.
+"Actually, you develop a sensibility for that procedure. The brain is an amazing thing: you might be doing something completely different -- maybe making a cup of tea -- and suddenly you know right from wrong!"
+The most coveted designer in Formula One will find out whether he has got it right or wrong when testing for the new season begins next January.
+</ExtractedText>
+</item>
+</channel>
+</rss>

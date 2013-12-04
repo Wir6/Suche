@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Alles digital</title>
+<description>Nachrichten, Analysen und Reportagen zu den Themen Internet, Datenschutz, Netzkultur, Mobil und Games. Sie finden hier die Trends, Features und Entwicklungen sowie aktuelle Tests aus dem Ressort Digital.</description>
+<pubDate>Tue, 03 Dec 2013 15:11:13 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:34:12 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/digital/index</link>
+<atom:link href="http://newsfeed.zeit.de/digital/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Alles digital</title>
+      <link>http://www.zeit.de/digital/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/digital/internet/2013-12/amazon-drohne-twitter</link>
+      <guid>http://www.zeit.de/digital/internet/2013-12/amazon-drohne-twitter</guid>
+      <category>Digital</category>
+      <title>Amazon-Drohnen: Jeff Bezos wünscht sich einen Himmel voller Roboter </title>
+      <description>&lt;a href="http://www.zeit.de/digital/internet/2013-12/amazon-drohne-twitter"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/digital/internet/2013-12/amazon-drohne/amazon-drohne-148x84.jpg"/&gt;&lt;/a&gt; Paketauslieferung per Drohne, die Vision von Amazon-Chef Bezos regt die Fantasie vieler Internetnutzer an. Technisch ist es möglich, der Datenschutz aber ist heikel. </description>
+      <dc:creator>ZEIT ONLINE : Digital - Marin Majica</dc:creator>
+      <pubDate>Mon, 02 Dec 2013 16:14:13 GMT</pubDate>
+    <ExtractedText>Amazon: Jeff Bezos plant Paketauslieferung per Drohne
+Amazon-Drohnen: Jeff Bezos wünscht sich einen Himmel voller Roboter
+Paketauslieferung per Drohne, die Vision von Amazon-Chef Bezos regt die Fantasie vieler Internetnutzer an. Technisch ist es möglich, der Datenschutz aber ist heikel. von  Marin Majica
+2. Dezember 2013  17:13 Uhr  60 Kommentare
+Die Drohnen des Konzerns Amazon fliegen über die Golden Gate Bridge. Wie Roboterinsekten hängen sie im Himmel über San Francisco. Dabei verrichten sie nicht nur fleißig ihre Arbeit und bringen unermüdlich Pakete zu den Kunden. Die Drohnen sorgen auch dafür, dass Touristen wirklich spektakuläre Fotomotive bekommen.
+So ist das zumindest auf einer Fotomontage zu bestaunen, das am Montag auf Twitter veröffentlicht wurde. Gepostet wurde das bedrohlich anmutende Bild über den Account amazondrone und hat es damit in nicht einmal 24 Stunden zu fast 5.000 Followern gebracht – nicht schlecht für ein computergesteuertes Fluggerät.
+Anzeige
+Hinter dem Scherzaccount steckt selbstredend kein echter Flugroboter, sondern ein Kritiker. Und der ist offensichtlich genauso fasziniert wie viele andere von dem, was Amazon-Chef Jeff Bezos in einem Interview in der bekannten US-Sendung 60 Minutes angekündigt hat: Schon in wenigen Jahren soll der Versandkonzern Pakete auf dem Luftweg zustellen, ausgeliefert von Drohnen, die selbstständig zu einer vorbestimmten Zieladresse finden.
+Wie das aussehen soll, zeigt der Konzern in einem Video . Auf der Website von Amazon klickt der Kunde auf die Option Prime Air. Sofort wird das Produkt herausgesucht, in eine gelbe Kunststoffbox verpackt, über Förderbänder zu einem Flugroboter mit acht Rotoren transportiert und dort eingehängt. Ist alles gesichert, startet das Gerät und macht sich auf den Weg zum Kunden. Auf dessen Veranda wird keine 30 Minuten nach dem Kaufklick das Paket abgelegt. Ausliefern sollen die Drohnen Pakete mit bis zu 2,3 Kilogramm Gewicht im Umkreis von bis zu 16 Kilometern rund um das jeweilige Amazon-Logistikzentrum.
+Das klingt so sehr nach Science Fiction, dass es die Fantasie vieler Internetnutzer auf Hochtouren bringt. Der Twitternutzer DeathstarPR liefert mit den Worten "Erster Blick auf die Amazon-Drohne" das Bild eines martialischen Droiden aus dem Star-Wars-Film Das Imperium schlägt zurück.
+First look at Amazon's new delivery drone. (Also helpful for finding Rebel bases on Hoth.) pic.twitter.com/JlFdNiHzks
+— Death Star PR (@DeathStarPR) December 2, 2013
+Der Nutzer Tim Siedell fragt sich, wie unheimlich es wohl ist, wenn die  Drohne erwartungsvoll vor der Haustür schwebt und auf Trinkgeld wartet.
+That awkward moment when your Amazon delivery drone just hovers there, waiting for a tip.
+— Tim Siedell (@badbanana) December 2, 2013
+Auch Jeff Bezos weiß, dass die Drohnen als Paketzusteller noch ein ganzes Stück vom Alltag entfernt sind. Vier bis fünf Jahre werde es wohl dauern, bis die Fluggeräte im regulären Einsatz sein werden, sagte Bezos in dem Interview. "Der schwierige Teil ist, all die Redundanzen einzubauen, die die Sicherheit gewährleisten – damit wir uns darauf verlassen können, dass das Ding niemandem auf den Kopf fällt."
+Übersicht zu diesem Artikel
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:34:11 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Step inside planet's most popular museum</title>
+<guid>http://edition.cnn.com/2013/11/25/world/europe/step-inside-the-most-popular-museum/index.html</guid>
+<link>http://edition.cnn.com/2013/11/25/world/europe/step-inside-the-most-popular-museum/index.html?eref=edition</link>
+<description>From medieval fortress to royal chateau and Renaisance palace, Louvre has been a seat of kings, queens, emperors and artists.</description>
+<pubDate>Sun, 01 Dec 2013 09:36:38 EST</pubDate>
+<ExtractedText>Your 10 most popular Louvre artworks
+December 3, 2013 -- Updated 1020 GMT (1820 HKT)
+As part of CNN's special series "Inside the Louvre," we asked you to share your favorite artwork via the hashtag #LouvreFavorite.
+The Louvre's first satellite museum
+November 29, 2013 -- Updated 2106 GMT (0506 HKT)
+CNN's Nick Glass reports on the Louvre's satellite museum in Lens, where they do things a bit differently.
+Recreating the Louvre's masterpieces
+December 2, 2013 -- Updated 1249 GMT (2049 HKT)
+For four hours every day, 65-year-old Sigrid Avrillier is transformed into the legendary Renaissance painter, Peter Paul Rubens.
+The art of copying at the Louvre
+November 28, 2013 -- Updated 2316 GMT (0716 HKT)
+CNN's Nick Glass looks at the tradition of copying great works of art at the Louvre Museum in Paris.
+Louvre director goes undercover
+December 2, 2013 -- Updated 1252 GMT (2052 HKT)
+It's the height of summer in Paris, and the director of the most famous art museum in the world is queuing like any other tourist.
+November 26, 2013 -- Updated 1410 GMT (2210 HKT)
+CNN's Nick Glass explores whether or not Leonardo da Vinci's famous painting should be cleaned.
+Most popular museum on the planet
+December 2, 2013 -- Updated 1253 GMT (2053 HKT)
+The Louvre is the most visited art museum in the world. CNN takes a closer look at one of the most important cultural institutions of our time.
+Behind the scenes of the Louvre
+November 27, 2013 -- Updated 2129 GMT (0529 HKT)
+CNN's Nick Glass looks at the maintenance and upkeep necessary at the world famous Louvre Museum in Paris.
+What's your favorite Louvre artwork?
+December 3, 2013 -- Updated 1113 GMT (1913 HKT)
+The Louvre is home to some 35,000 pieces of art. Now we want to know what's your favorite work of art. Tell CNN your #LouvreFavorite.
+100th anniversary of Mona Lisa theft
+November 19, 2013 -- Updated 1226 GMT (2026 HKT)
+A daring burglary over 100 years ago tells the story of how the Mona Lisa was catapulted to international stardom.
+</ExtractedText>
+</item>
+</channel>
+</rss>

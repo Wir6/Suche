@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Entertainment</title>
+<link>http://www.cnn.com/SHOWBIZ/index.html?eref=rss_showbiz</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:10:45 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Entertainment</title>
+<link>http://www.cnn.com/SHOWBIZ/index.html?eref=rss_showbiz</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition_entertainment" rel="self" type="application/rss+xml"/>
+<feedburner:info uri="rss/edition_entertainment"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Pixies part ways with Kim Shattuck</title>
+<guid isPermaLink="false">http://www.cnn.com/2013/12/02/showbiz/music/kim-shattuck-pixies-rolling-stone/index.html</guid>
+<link>http://rss.cnn.com/~r/rss/edition_entertainment/~3/w2CjBDbRPtQ/index.html</link>
+<description>Only a few months after joining the Pixies, bassist Kim Shattuck is already out of the band.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_entertainment/~4/w2CjBDbRPtQ" height="1" width="1"/&gt;</description>
+<pubDate>Tue, 03 Dec 2013 10:06:39 EST</pubDate>
+<feedburner:origLink>http://www.cnn.com/2013/12/02/showbiz/music/kim-shattuck-pixies-rolling-stone/index.html</feedburner:origLink>
+<ExtractedText>Pixies part ways with Kim Shattuck
+By Miriam Coleman, RS.com
+December 2, 2013 -- Updated 2244 GMT (0644 HKT)
+Kim Shattuck performs with the Pixies in New York City on September 20.
+STORY HIGHLIGHTS
+Kim Shattuck has already left the Pixies
+The bassist shared the news on Twitter and Facebook
+Shattuck joined the Pixies in July after founding bassist Kim Deal quit
+( RollingStone.com ) -- Only a few months after joining the Pixies, bassist Kim Shattuck is already out of the band.
+The Muffs frontwoman shared the news on November 29 with a message on Twitter and Facebook.
+"Super disappointed to learn that my time with the Pixies ended today," she wrote. "Amazing experience. Looking forward to focusing my attention back on the Muffs and our upcoming new album. All the best to everyone."
+Rolling Stone: The Pixies keep rolling, minus one
+"[Deal] just had enough," the band's manager, Richard Jones, told Rolling Stone in an interview earlier this year. "She didn't want to do all the things that go with releasing new music, as in all the traveling and touring. She just decided that she wanted to move on."
+In the same interview, frontman Black Francis said that the band realized that they needed to replace Deal with another female bassist.
+Rolling Stone: Pixies detonate guitarist in 'What Goes Boom'
+"A lot of our songs have that romantic loss, romantic gain, sexuality thing," he said. "We need the female and male represented."
+Less than a month after the Pixies announced Deal's departure, Shattuck was on board and touring with the group.
+The Pixies kick off their North American tour on January 15 in Toronto. It's not currently clear who will be playing bass now in the absence of both Kims.
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,1750 @@
+Thu, 24 Oct 2013 10:06:39 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:06:39 CEST: class RSSThread, method update, Start to read new sources
+Thu, 24 Oct 2013 10:06:39 CEST: class RSSThread, method update, Finish to read new sources
+Thu, 24 Oct 2013 10:09:19 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:09:19 CEST: class RSSThread, method update, Finish to read new subscriptions
+Thu, 24 Oct 2013 10:09:19 CEST: class RSSThread, method update, Start to read new sources
+Thu, 24 Oct 2013 10:09:19 CEST: class RSSThread, method update, Finish to read new sources
+Thu, 24 Oct 2013 10:09:19 CEST: class RSSThread, method run, RSS Server started!
+Thu, 24 Oct 2013 10:09:19 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 24 Oct 2013 10:09:25 CEST: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 24 Oct 2013 10:09:25 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 24 Oct 2013 10:09:29 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:09:30 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 24 Oct 2013 10:09:42 CEST: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 24 Oct 2013 10:09:42 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 24 Oct 2013 10:09:47 CEST: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 24 Oct 2013 10:10:06 CEST: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Thu, 24 Oct 2013 10:10:06 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 24 Oct 2013 10:10:11 CEST: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 24 Oct 2013 10:10:11 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 24 Oct 2013 10:10:16 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 24 Oct 2013 10:12:13 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 24 Oct 2013 10:12:13 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 24 Oct 2013 10:12:19 CEST: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 24 Oct 2013 10:12:19 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 24 Oct 2013 10:12:41 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:12:41 CEST: class RSSThread, method update, Finish to read new subscriptions
+Thu, 24 Oct 2013 10:12:41 CEST: class RSSThread, method update, Start to read new sources
+Thu, 24 Oct 2013 10:12:42 CEST: class RSSThread, method update, Finish to read new sources
+Thu, 24 Oct 2013 10:12:42 CEST: class RSSThread, method run, RSS Server started!
+Thu, 24 Oct 2013 10:12:42 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 24 Oct 2013 10:12:45 CEST: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 24 Oct 2013 10:12:45 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 24 Oct 2013 10:12:49 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:12:50 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 24 Oct 2013 10:13:06 CEST: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 24 Oct 2013 10:13:06 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 24 Oct 2013 10:13:07 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Thu, 24 Oct 2013 10:13:07 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Thu, 24 Oct 2013 10:13:10 CEST: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Thu, 24 Oct 2013 10:13:10 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Thu, 24 Oct 2013 10:13:11 CEST: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 24 Oct 2013 10:13:15 CEST: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Thu, 24 Oct 2013 10:13:24 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Thu, 24 Oct 2013 10:13:39 CEST: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Thu, 24 Oct 2013 10:13:39 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 24 Oct 2013 10:13:48 CEST: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 24 Oct 2013 10:13:48 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 24 Oct 2013 10:13:53 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 24 Oct 2013 10:14:38 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Top Stories
+Thu, 24 Oct 2013 10:14:38 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wirtschaft/
+Thu, 24 Oct 2013 10:14:43 CEST: class RSSThread, method run, Override interval with 5 minutes for Wirtschaft - FAZ.NET
+Thu, 24 Oct 2013 10:14:43 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/reisen/index
+Thu, 24 Oct 2013 10:14:48 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 24 Oct 2013 10:14:48 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 24 Oct 2013 10:14:48 CEST: class RSSThread, method run, First visit: http://www.main-netz.de/rss/wissenschaft.xml
+Thu, 24 Oct 2013 10:14:53 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/lebensart/index
+Thu, 24 Oct 2013 10:15:03 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/beruf-chance/
+Thu, 24 Oct 2013 10:15:08 CEST: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 24 Oct 2013 10:15:08 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 24 Oct 2013 10:15:18 CEST: class RSSThread, method run, Override interval with 5 minutes for Beruf & Chance - FAZ.NET
+Thu, 24 Oct 2013 10:15:18 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/netzwelt/index.rss
+Thu, 24 Oct 2013 10:15:28 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/politik/
+Thu, 24 Oct 2013 10:16:38 CEST: class RSSThread, method run, Override interval with 5 minutes for Politik - FAZ.NET
+Thu, 24 Oct 2013 10:16:38 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/sport/index
+Thu, 24 Oct 2013 10:16:52 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_business.rss
+Thu, 24 Oct 2013 10:17:02 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Thu, 24 Oct 2013 10:17:02 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Thu, 24 Oct 2013 10:17:08 CEST: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Thu, 24 Oct 2013 10:17:08 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Thu, 24 Oct 2013 10:17:15 CEST: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Thu, 24 Oct 2013 10:17:26 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Thu, 24 Oct 2013 10:17:50 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Business
+Thu, 24 Oct 2013 10:17:50 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_space.rss
+Thu, 24 Oct 2013 10:17:55 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Science and Space
+Thu, 24 Oct 2013 10:17:55 CEST: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Thu, 24 Oct 2013 10:18:02 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:18:02 CEST: class RSSThread, method update, Finish to read new subscriptions
+Thu, 24 Oct 2013 10:18:02 CEST: class RSSThread, method update, Start to read new sources
+Thu, 24 Oct 2013 10:18:02 CEST: class RSSThread, method update, Finish to read new sources
+Thu, 24 Oct 2013 10:18:02 CEST: class RSSThread, method run, RSS Server started!
+Thu, 24 Oct 2013 10:18:02 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 24 Oct 2013 10:18:07 CEST: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 24 Oct 2013 10:18:07 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 24 Oct 2013 10:18:09 CEST: class RSSThread, method run, Override interval with 5 minutes for Sports: Sports News, Scores, Analysis, Schedules & More - The Washington Post
+Thu, 24 Oct 2013 10:18:09 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_sport.rss
+Thu, 24 Oct 2013 10:18:12 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:18:15 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 24 Oct 2013 10:18:34 CEST: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 24 Oct 2013 10:18:34 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 24 Oct 2013 10:18:39 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 24 Oct 2013 10:19:08 CEST: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 24 Oct 2013 10:19:08 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 24 Oct 2013 10:19:16 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 24 Oct 2013 10:19:18 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Top Stories
+Thu, 24 Oct 2013 10:19:18 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wirtschaft/
+Thu, 24 Oct 2013 10:19:34 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Sport
+Thu, 24 Oct 2013 10:19:34 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/kultur/index
+Thu, 24 Oct 2013 10:19:35 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:19:35 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:19:36 CEST: class RSSThread, method run, Override interval with 5 minutes for Wirtschaft - FAZ.NET
+Thu, 24 Oct 2013 10:19:36 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/reisen/index
+Thu, 24 Oct 2013 10:19:39 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:19:39 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/reise/
+Thu, 24 Oct 2013 10:19:43 CEST: class RSSThread, method run, First visit: http://www.main-netz.de/rss/wissenschaft.xml
+Thu, 24 Oct 2013 10:19:45 CEST: class RSSThread, method run, Override interval with 5 minutes for Reise - FAZ.NET
+Thu, 24 Oct 2013 10:19:45 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wirtschaft/index
+Thu, 24 Oct 2013 10:19:50 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:19:50 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/wirtschaft/index.rss
+Thu, 24 Oct 2013 10:19:51 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/lebensart/index
+Thu, 24 Oct 2013 10:19:54 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/wissenschaft/index.rss
+Thu, 24 Oct 2013 10:19:57 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/beruf-chance/
+Thu, 24 Oct 2013 10:20:02 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 24 Oct 2013 10:20:02 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 24 Oct 2013 10:20:04 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/kultur/index.rss
+Thu, 24 Oct 2013 10:20:12 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/politik/index.rss
+Thu, 24 Oct 2013 10:20:19 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/auto/index
+Thu, 24 Oct 2013 10:20:29 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/karriere/index
+Thu, 24 Oct 2013 10:20:33 CEST: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 24 Oct 2013 10:20:33 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 24 Oct 2013 10:20:37 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/studium/index
+Thu, 24 Oct 2013 10:20:44 CEST: class RSSThread, method run, Override interval with 5 minutes for Beruf & Chance - FAZ.NET
+Thu, 24 Oct 2013 10:20:44 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/netzwelt/index.rss
+Thu, 24 Oct 2013 10:20:52 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/meinung/index
+Thu, 24 Oct 2013 10:21:01 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/politik/
+Thu, 24 Oct 2013 10:21:06 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/politik/index
+Thu, 24 Oct 2013 10:21:12 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/technik-motor/
+Thu, 24 Oct 2013 10:21:16 CEST: class RSSThread, method run, Override interval with 5 minutes for Technik & Motor - FAZ.NET
+Thu, 24 Oct 2013 10:21:18 CEST: class RSSThread, method run, Override interval with 5 minutes for Politik - FAZ.NET
+Thu, 24 Oct 2013 10:21:18 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/sport/index
+Thu, 24 Oct 2013 10:21:26 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Thu, 24 Oct 2013 10:21:26 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Thu, 24 Oct 2013 10:21:30 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_business.rss
+Thu, 24 Oct 2013 10:21:30 CEST: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Thu, 24 Oct 2013 10:21:30 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Thu, 24 Oct 2013 10:21:53 CEST: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Thu, 24 Oct 2013 10:22:03 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Thu, 24 Oct 2013 10:22:05 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Business
+Thu, 24 Oct 2013 10:22:05 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_space.rss
+Thu, 24 Oct 2013 10:22:11 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Science and Space
+Thu, 24 Oct 2013 10:22:11 CEST: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Thu, 24 Oct 2013 10:23:16 CEST: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 24 Oct 2013 10:23:31 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:23:33 CEST: class RSSThread, method run, Visiting: http://www.spiegel.de/sport/index.rss
+Thu, 24 Oct 2013 10:23:38 CEST: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wissen/index
+Thu, 24 Oct 2013 10:23:44 CEST: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/digital/index
+Thu, 24 Oct 2013 10:23:51 CEST: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/politik.xml
+Thu, 24 Oct 2013 10:24:03 CEST: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/reisen/index
+Thu, 24 Oct 2013 10:24:09 CEST: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/wissenschaft.xml
+Thu, 24 Oct 2013 10:24:18 CEST: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/lebensart/index
+Thu, 24 Oct 2013 10:24:23 CEST: class RSSThread, method run, Visiting: http://www.spiegel.de/netzwelt/index.rss
+Thu, 24 Oct 2013 10:24:28 CEST: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/sport/index
+Thu, 24 Oct 2013 10:24:41 CEST: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/kultur/index
+Thu, 24 Oct 2013 10:24:43 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:24:43 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:24:46 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:24:46 CEST: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wirtschaft/index
+Thu, 24 Oct 2013 10:24:52 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:24:53 CEST: class RSSThread, method run, Visiting: http://www.spiegel.de/wirtschaft/index.rss
+Thu, 24 Oct 2013 10:24:58 CEST: class RSSThread, method run, Visiting: http://www.spiegel.de/wissenschaft/index.rss
+Thu, 24 Oct 2013 10:25:08 CEST: class RSSThread, method run, Visiting: http://www.spiegel.de/kultur/index.rss
+Thu, 24 Oct 2013 10:25:20 CEST: class RSSThread, method run, Visiting: http://www.spiegel.de/politik/index.rss
+Thu, 24 Oct 2013 10:25:33 CEST: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/auto/index
+Thu, 24 Oct 2013 10:26:07 CEST: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/karriere/index
+Thu, 24 Oct 2013 10:26:15 CEST: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/studium/index
+Thu, 24 Oct 2013 10:26:23 CEST: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/meinung/index
+Thu, 24 Oct 2013 10:26:31 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:26:32 CEST: class RSSThread, method update, Finish to read new subscriptions
+Thu, 24 Oct 2013 10:26:32 CEST: class RSSThread, method update, Start to read new sources
+Thu, 24 Oct 2013 10:26:32 CEST: class RSSThread, method update, Finish to read new sources
+Thu, 24 Oct 2013 10:26:32 CEST: class RSSThread, method run, RSS Server started!
+Thu, 24 Oct 2013 10:26:32 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 24 Oct 2013 10:26:34 CEST: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/politik/index
+Thu, 24 Oct 2013 10:26:36 CEST: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 24 Oct 2013 10:26:36 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 24 Oct 2013 10:26:41 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:26:42 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 24 Oct 2013 10:26:44 CEST: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/technik-motor/
+Thu, 24 Oct 2013 10:26:46 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:26:46 CEST: class RSSThread, method update, Finish to read new subscriptions
+Thu, 24 Oct 2013 10:26:46 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:26:46 CEST: class RSSThread, method update, Finish to read new subscriptions
+Thu, 24 Oct 2013 10:26:49 CEST: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 24 Oct 2013 10:26:49 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 24 Oct 2013 10:26:50 CEST: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 24 Oct 2013 10:27:04 CEST: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Thu, 24 Oct 2013 10:27:04 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 24 Oct 2013 10:27:34 CEST: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 24 Oct 2013 10:27:34 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 24 Oct 2013 10:27:40 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 24 Oct 2013 10:28:16 CEST: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/reise/
+Thu, 24 Oct 2013 10:28:16 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 24 Oct 2013 10:28:16 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 24 Oct 2013 10:28:24 CEST: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 24 Oct 2013 10:28:24 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 24 Oct 2013 10:28:25 CEST: class RSSThread, method run, Visiting: http://feeds.washingtonpost.com/rss/sports
+Thu, 24 Oct 2013 10:29:27 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:29:27 CEST: class RSSThread, method update, Finish to read new subscriptions
+Thu, 24 Oct 2013 10:29:27 CEST: class RSSThread, method update, Start to read new sources
+Thu, 24 Oct 2013 10:29:27 CEST: class RSSThread, method update, Finish to read new sources
+Thu, 24 Oct 2013 10:29:27 CEST: class RSSThread, method run, RSS Server started!
+Thu, 24 Oct 2013 10:29:27 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 24 Oct 2013 10:29:38 CEST: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 24 Oct 2013 10:29:38 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 24 Oct 2013 10:29:51 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:29:51 CEST: class RSSThread, method update, Finish to read new subscriptions
+Thu, 24 Oct 2013 10:29:51 CEST: class RSSThread, method update, Start to read new sources
+Thu, 24 Oct 2013 10:29:51 CEST: class RSSThread, method update, Finish to read new sources
+Thu, 24 Oct 2013 10:29:51 CEST: class RSSThread, method run, RSS Server started!
+Thu, 24 Oct 2013 10:29:51 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 24 Oct 2013 10:29:55 CEST: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 24 Oct 2013 10:29:55 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 24 Oct 2013 10:30:00 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:30:01 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 24 Oct 2013 10:30:11 CEST: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 24 Oct 2013 10:30:11 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 24 Oct 2013 10:30:21 CEST: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 24 Oct 2013 10:30:38 CEST: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Thu, 24 Oct 2013 10:30:38 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 24 Oct 2013 10:30:46 CEST: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 24 Oct 2013 10:30:46 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 24 Oct 2013 10:31:00 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 24 Oct 2013 10:32:27 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:32:27 CEST: class RSSThread, method update, Finish to read new subscriptions
+Thu, 24 Oct 2013 10:32:27 CEST: class RSSThread, method update, Start to read new sources
+Thu, 24 Oct 2013 10:32:28 CEST: class RSSThread, method update, Finish to read new sources
+Thu, 24 Oct 2013 10:32:28 CEST: class RSSThread, method run, RSS Server started!
+Thu, 24 Oct 2013 10:32:28 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 24 Oct 2013 10:32:34 CEST: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 24 Oct 2013 10:32:34 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 24 Oct 2013 10:32:39 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:32:42 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 24 Oct 2013 10:32:58 CEST: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 24 Oct 2013 10:32:58 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 24 Oct 2013 10:33:08 CEST: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Thu, 24 Oct 2013 10:33:25 CEST: class RSSThread, method run, Override interval with 5 minutes for Sports: Sports News, Scores, Analysis, Schedules & More - The Washington Post
+Thu, 24 Oct 2013 10:33:25 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 24 Oct 2013 10:33:35 CEST: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 24 Oct 2013 10:33:35 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 24 Oct 2013 10:33:45 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 24 Oct 2013 10:34:13 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 24 Oct 2013 10:34:13 CEST: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 24 Oct 2013 10:34:26 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:34:27 CEST: class RSSThread, method update, Finish to read new subscriptions
+Thu, 24 Oct 2013 10:34:27 CEST: class RSSThread, method update, Start to read new sources
+Thu, 24 Oct 2013 10:34:27 CEST: class RSSThread, method update, Finish to read new sources
+Thu, 24 Oct 2013 10:34:27 CEST: class RSSThread, method run, RSS Server started!
+Thu, 24 Oct 2013 10:34:27 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 24 Oct 2013 10:34:47 CEST: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 24 Oct 2013 10:34:47 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 24 Oct 2013 10:34:54 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:34:56 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 24 Oct 2013 10:35:03 CEST: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 24 Oct 2013 10:35:03 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 24 Oct 2013 10:35:08 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 24 Oct 2013 10:35:14 CEST: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 24 Oct 2013 10:35:14 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 24 Oct 2013 10:35:21 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 24 Oct 2013 10:37:07 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:37:07 CEST: class RSSThread, method update, Finish to read new subscriptions
+Thu, 24 Oct 2013 10:37:07 CEST: class RSSThread, method update, Start to read new sources
+Thu, 24 Oct 2013 10:37:07 CEST: class RSSThread, method update, Finish to read new sources
+Thu, 24 Oct 2013 10:37:07 CEST: class RSSThread, method run, RSS Server started!
+Thu, 24 Oct 2013 10:37:07 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 24 Oct 2013 10:37:11 CEST: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 24 Oct 2013 10:37:11 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 24 Oct 2013 10:37:17 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:37:19 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 24 Oct 2013 10:37:28 CEST: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 24 Oct 2013 10:37:28 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 24 Oct 2013 10:49:17 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:49:17 CEST: class RSSThread, method update, Finish to read new subscriptions
+Thu, 24 Oct 2013 10:49:17 CEST: class RSSThread, method update, Start to read new sources
+Thu, 24 Oct 2013 10:49:17 CEST: class RSSThread, method update, Finish to read new sources
+Thu, 24 Oct 2013 10:49:18 CEST: class RSSThread, method run, RSS Server started!
+Thu, 24 Oct 2013 10:49:18 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 24 Oct 2013 10:49:26 CEST: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 24 Oct 2013 10:49:26 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 24 Oct 2013 10:49:29 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:49:31 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 24 Oct 2013 10:49:40 CEST: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 24 Oct 2013 10:49:40 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 24 Oct 2013 10:49:45 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 24 Oct 2013 10:49:52 CEST: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 24 Oct 2013 10:49:52 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 24 Oct 2013 10:49:56 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 24 Oct 2013 10:50:25 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 24 Oct 2013 10:50:25 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 24 Oct 2013 10:50:34 CEST: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 24 Oct 2013 10:50:34 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 24 Oct 2013 10:51:15 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Thu, 24 Oct 2013 10:51:15 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Thu, 24 Oct 2013 10:51:19 CEST: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Thu, 24 Oct 2013 10:51:19 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Thu, 24 Oct 2013 10:51:24 CEST: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Thu, 24 Oct 2013 10:51:32 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Thu, 24 Oct 2013 10:53:04 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Top Stories
+Thu, 24 Oct 2013 10:53:04 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wirtschaft/
+Thu, 24 Oct 2013 10:53:20 CEST: class RSSThread, method run, Override interval with 5 minutes for Wirtschaft - FAZ.NET
+Thu, 24 Oct 2013 10:53:20 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/reisen/index
+Thu, 24 Oct 2013 10:53:28 CEST: class RSSThread, method run, First visit: http://www.main-netz.de/rss/wissenschaft.xml
+Thu, 24 Oct 2013 10:53:35 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/lebensart/index
+Thu, 24 Oct 2013 10:53:41 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/beruf-chance/
+Thu, 24 Oct 2013 10:54:09 CEST: class RSSThread, method run, Override interval with 5 minutes for Beruf & Chance - FAZ.NET
+Thu, 24 Oct 2013 10:54:09 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/netzwelt/index.rss
+Thu, 24 Oct 2013 10:54:14 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/politik/
+Thu, 24 Oct 2013 10:54:27 CEST: class RSSThread, method run, Override interval with 5 minutes for Politik - FAZ.NET
+Thu, 24 Oct 2013 10:54:27 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/sport/index
+Thu, 24 Oct 2013 10:54:30 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_business.rss
+Thu, 24 Oct 2013 10:56:27 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Business
+Thu, 24 Oct 2013 10:56:27 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_space.rss
+Thu, 24 Oct 2013 10:56:34 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Science and Space
+Thu, 24 Oct 2013 10:56:34 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_sport.rss
+Thu, 24 Oct 2013 10:57:21 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Sport
+Thu, 24 Oct 2013 10:57:21 CEST: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Thu, 24 Oct 2013 10:57:34 CEST: class RSSThread, method run, Override interval with 5 minutes for Sports: Sports News, Scores, Analysis, Schedules & More - The Washington Post
+Thu, 24 Oct 2013 10:57:34 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/kultur/index
+Thu, 24 Oct 2013 10:57:35 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:57:35 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:57:37 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/reise/
+Thu, 24 Oct 2013 10:57:40 CEST: class RSSThread, method run, Override interval with 5 minutes for Reise - FAZ.NET
+Thu, 24 Oct 2013 10:57:40 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wirtschaft/index
+Thu, 24 Oct 2013 10:57:44 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:57:44 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/wirtschaft/index.rss
+Thu, 24 Oct 2013 10:57:46 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/wissenschaft/index.rss
+Thu, 24 Oct 2013 10:57:49 CEST: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 24 Oct 2013 10:58:00 CEST: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Thu, 24 Oct 2013 10:58:00 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/kultur/index.rss
+Thu, 24 Oct 2013 10:58:01 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/politik/index.rss
+Thu, 24 Oct 2013 10:58:05 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/auto/index
+Thu, 24 Oct 2013 10:58:08 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/karriere/index
+Thu, 24 Oct 2013 10:58:12 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/studium/index
+Thu, 24 Oct 2013 10:58:17 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/meinung/index
+Thu, 24 Oct 2013 10:58:23 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/politik/index
+Thu, 24 Oct 2013 10:58:26 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/technik-motor/
+Thu, 24 Oct 2013 10:58:30 CEST: class RSSThread, method run, Override interval with 5 minutes for Technik & Motor - FAZ.NET
+Thu, 24 Oct 2013 10:58:58 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:58:58 CEST: class RSSThread, method update, Finish to read new subscriptions
+Thu, 24 Oct 2013 10:59:41 CEST: class RSSThread, method update, Start to read new subscriptions
+Thu, 24 Oct 2013 10:59:41 CEST: class RSSThread, method update, Finish to read new subscriptions
+Thu, 24 Oct 2013 10:59:41 CEST: class RSSThread, method update, Start to read new sources
+Thu, 24 Oct 2013 10:59:42 CEST: class RSSThread, method update, Finish to read new sources
+Thu, 24 Oct 2013 10:59:42 CEST: class RSSThread, method run, RSS Server started!
+Thu, 24 Oct 2013 10:59:42 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 24 Oct 2013 10:59:46 CEST: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 24 Oct 2013 10:59:46 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 24 Oct 2013 10:59:49 CEST: class RSSParser, method genItem, Invalid time format: null
+Thu, 24 Oct 2013 10:59:51 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 24 Oct 2013 10:59:57 CEST: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 24 Oct 2013 10:59:57 CEST: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 24 Oct 2013 11:03:42 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 24 Oct 2013 11:03:59 CEST: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 24 Oct 2013 11:03:59 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 24 Oct 2013 11:04:03 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 24 Oct 2013 11:07:39 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 24 Oct 2013 11:07:39 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 24 Oct 2013 11:07:45 CEST: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 24 Oct 2013 11:07:45 CEST: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 24 Oct 2013 11:08:32 CEST: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Thu, 24 Oct 2013 11:08:32 CEST: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Thu, 24 Oct 2013 11:08:38 CEST: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Thu, 24 Oct 2013 11:08:38 CEST: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Thu, 24 Oct 2013 11:08:49 CEST: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Mon, 28 Oct 2013 13:44:57 CET: class RSSThread, method update, Start to read new subscriptions
+Mon, 28 Oct 2013 13:44:57 CET: class RSSThread, method update, Finish to read new subscriptions
+Mon, 28 Oct 2013 13:44:57 CET: class RSSThread, method update, Start to read new sources
+Mon, 28 Oct 2013 13:44:57 CET: class RSSThread, method update, Finish to read new sources
+Mon, 28 Oct 2013 13:44:57 CET: class RSSThread, method run, RSS Server started!
+Mon, 28 Oct 2013 13:44:57 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Mon, 28 Oct 2013 13:45:03 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Mon, 28 Oct 2013 13:45:03 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Mon, 28 Oct 2013 13:45:13 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Mon, 28 Oct 2013 13:45:36 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Mon, 28 Oct 2013 13:45:36 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Mon, 28 Oct 2013 13:45:42 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Mon, 28 Oct 2013 13:46:15 CET: class RSSThread, method run, Override interval with 5 minutes for Sports: Sports News, Scores, Analysis, Schedules & More - The Washington Post
+Mon, 28 Oct 2013 13:46:15 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Mon, 28 Oct 2013 13:46:29 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Mon, 28 Oct 2013 13:46:29 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Mon, 28 Oct 2013 13:46:40 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Mon, 28 Oct 2013 13:49:34 CET: class RSSThread, method update, Start to read new subscriptions
+Mon, 28 Oct 2013 13:49:34 CET: class RSSThread, method update, Finish to read new subscriptions
+Mon, 28 Oct 2013 13:49:34 CET: class RSSThread, method update, Start to read new sources
+Mon, 28 Oct 2013 13:49:34 CET: class RSSThread, method update, Finish to read new sources
+Mon, 28 Oct 2013 13:49:34 CET: class RSSThread, method run, RSS Server started!
+Mon, 28 Oct 2013 13:49:34 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Mon, 28 Oct 2013 13:49:40 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Mon, 28 Oct 2013 13:49:40 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Mon, 28 Oct 2013 13:49:45 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Mon, 28 Oct 2013 13:50:01 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Mon, 28 Oct 2013 13:50:01 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Mon, 28 Oct 2013 13:50:09 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Mon, 28 Oct 2013 13:50:17 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Mon, 28 Oct 2013 13:50:17 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Mon, 28 Oct 2013 13:50:26 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Mon, 28 Oct 2013 13:51:47 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Mon, 28 Oct 2013 13:51:47 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Mon, 28 Oct 2013 13:51:56 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Mon, 28 Oct 2013 13:51:56 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Mon, 28 Oct 2013 13:53:08 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Mon, 28 Oct 2013 13:53:08 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Mon, 28 Oct 2013 13:53:10 CET: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Mon, 28 Oct 2013 13:53:10 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Mon, 28 Oct 2013 13:53:20 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Mon, 28 Oct 2013 13:53:29 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Mon, 28 Oct 2013 13:55:31 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Top Stories
+Mon, 28 Oct 2013 13:55:31 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wirtschaft/
+Mon, 28 Oct 2013 13:55:39 CET: class RSSThread, method run, Override interval with 5 minutes for Wirtschaft - FAZ.NET
+Mon, 28 Oct 2013 13:55:39 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/reisen/index
+Mon, 28 Oct 2013 13:55:42 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/wissenschaft.xml
+Mon, 28 Oct 2013 13:55:49 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/lebensart/index
+Mon, 28 Oct 2013 13:55:50 CET: class RSSParser, method genItem, Invalid time format: null
+Mon, 28 Oct 2013 13:55:57 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/beruf-chance/
+Mon, 28 Oct 2013 13:56:13 CET: class RSSThread, method run, Override interval with 5 minutes for Beruf & Chance - FAZ.NET
+Mon, 28 Oct 2013 13:56:13 CET: class RSSThread, method run, First visit: http://www.spiegel.de/netzwelt/index.rss
+Mon, 28 Oct 2013 13:56:22 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/politik/
+Mon, 28 Oct 2013 13:56:29 CET: class RSSThread, method run, Override interval with 5 minutes for Politik - FAZ.NET
+Mon, 28 Oct 2013 13:56:29 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/sport/index
+Mon, 28 Oct 2013 13:56:39 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_business.rss
+Mon, 28 Oct 2013 13:57:20 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Business
+Mon, 28 Oct 2013 13:57:20 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_space.rss
+Mon, 28 Oct 2013 13:57:29 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Science and Space
+Mon, 28 Oct 2013 13:57:29 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_sport.rss
+Mon, 28 Oct 2013 14:00:33 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Sport
+Mon, 28 Oct 2013 14:00:33 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Mon, 28 Oct 2013 14:00:45 CET: class RSSThread, method run, Override interval with 5 minutes for Sports: Sports News, Scores, Analysis, Schedules & More - The Washington Post
+Mon, 28 Oct 2013 14:00:45 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/kultur/index
+Mon, 28 Oct 2013 14:00:45 CET: class RSSParser, method genItem, Invalid time format: null
+Mon, 28 Oct 2013 14:00:47 CET: class RSSParser, method genItem, Invalid time format: null
+Mon, 28 Oct 2013 14:00:49 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/reise/
+Mon, 28 Oct 2013 14:00:51 CET: class RSSThread, method run, Override interval with 5 minutes for Reise - FAZ.NET
+Mon, 28 Oct 2013 14:00:51 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wirtschaft/index
+Mon, 28 Oct 2013 14:00:56 CET: class RSSThread, method run, First visit: http://www.spiegel.de/wirtschaft/index.rss
+Mon, 28 Oct 2013 14:01:03 CET: class RSSThread, method run, First visit: http://www.spiegel.de/wissenschaft/index.rss
+Mon, 28 Oct 2013 14:01:06 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Mon, 28 Oct 2013 14:01:17 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Mon, 28 Oct 2013 14:01:17 CET: class RSSThread, method run, First visit: http://www.spiegel.de/kultur/index.rss
+Mon, 28 Oct 2013 14:01:23 CET: class RSSThread, method run, First visit: http://www.spiegel.de/politik/index.rss
+Mon, 28 Oct 2013 14:01:29 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/auto/index
+Mon, 28 Oct 2013 14:01:44 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/karriere/index
+Mon, 28 Oct 2013 14:01:52 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/studium/index
+Mon, 28 Oct 2013 14:02:04 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/meinung/index
+Mon, 28 Oct 2013 14:02:14 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/politik/index
+Mon, 28 Oct 2013 14:02:18 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/technik-motor/
+Mon, 28 Oct 2013 14:02:24 CET: class RSSThread, method run, Override interval with 5 minutes for Technik & Motor - FAZ.NET
+Wed, 30 Oct 2013 09:54:13 CET: class RSSThread, method update, Start to read new subscriptions
+Wed, 30 Oct 2013 09:54:13 CET: class RSSThread, method update, Finish to read new subscriptions
+Wed, 30 Oct 2013 09:54:13 CET: class RSSThread, method update, Start to read new sources
+Wed, 30 Oct 2013 09:54:13 CET: class RSSThread, method update, Finish to read new sources
+Wed, 30 Oct 2013 09:54:13 CET: class RSSThread, method run, RSS Server started!
+Wed, 30 Oct 2013 09:54:13 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Wed, 30 Oct 2013 09:54:16 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Wed, 30 Oct 2013 09:54:16 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Wed, 30 Oct 2013 09:54:24 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Wed, 30 Oct 2013 09:54:30 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Wed, 30 Oct 2013 09:54:30 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Wed, 30 Oct 2013 09:54:39 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Wed, 30 Oct 2013 09:54:45 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Wed, 30 Oct 2013 09:54:45 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Wed, 30 Oct 2013 09:54:50 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Wed, 30 Oct 2013 09:55:16 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Wed, 30 Oct 2013 09:55:16 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Wed, 30 Oct 2013 09:55:24 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Wed, 30 Oct 2013 09:55:24 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Wed, 30 Oct 2013 09:56:33 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Wed, 30 Oct 2013 09:56:33 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Wed, 30 Oct 2013 09:56:35 CET: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Wed, 30 Oct 2013 09:56:35 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Wed, 30 Oct 2013 09:56:39 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Wed, 30 Oct 2013 09:56:47 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Wed, 30 Oct 2013 10:00:01 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Top Stories
+Wed, 30 Oct 2013 10:00:01 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wirtschaft/
+Wed, 30 Oct 2013 10:00:09 CET: class RSSThread, method run, Override interval with 5 minutes for Wirtschaft - FAZ.NET
+Wed, 30 Oct 2013 10:00:09 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/reisen/index
+Wed, 30 Oct 2013 10:00:16 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/wissenschaft.xml
+Wed, 30 Oct 2013 10:00:23 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/lebensart/index
+Wed, 30 Oct 2013 10:00:27 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:00:28 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/beruf-chance/
+Wed, 30 Oct 2013 10:00:41 CET: class RSSThread, method run, Override interval with 5 minutes for Beruf & Chance - FAZ.NET
+Wed, 30 Oct 2013 10:00:41 CET: class RSSThread, method run, First visit: http://www.spiegel.de/netzwelt/index.rss
+Wed, 30 Oct 2013 10:00:46 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/politik/
+Wed, 30 Oct 2013 10:00:52 CET: class RSSThread, method run, Override interval with 5 minutes for Politik - FAZ.NET
+Wed, 30 Oct 2013 10:00:52 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/sport/index
+Wed, 30 Oct 2013 10:01:01 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_business.rss
+Wed, 30 Oct 2013 10:01:35 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Business
+Wed, 30 Oct 2013 10:01:35 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_space.rss
+Wed, 30 Oct 2013 10:01:39 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Science and Space
+Wed, 30 Oct 2013 10:01:39 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_sport.rss
+Wed, 30 Oct 2013 10:03:54 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Sport
+Wed, 30 Oct 2013 10:03:54 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Wed, 30 Oct 2013 10:04:15 CET: class RSSThread, method run, Override interval with 5 minutes for Sports: Sports News, Scores, Analysis, Schedules & More - The Washington Post
+Wed, 30 Oct 2013 10:04:15 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Wed, 30 Oct 2013 10:04:42 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Wed, 30 Oct 2013 10:04:42 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/kultur/index
+Wed, 30 Oct 2013 10:04:43 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:04:44 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:04:45 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/reise/
+Wed, 30 Oct 2013 10:04:46 CET: class RSSThread, method run, Override interval with 5 minutes for Reise - FAZ.NET
+Wed, 30 Oct 2013 10:04:46 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wirtschaft/index
+Wed, 30 Oct 2013 10:04:47 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:04:49 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:04:50 CET: class RSSThread, method run, First visit: http://www.spiegel.de/wirtschaft/index.rss
+Wed, 30 Oct 2013 10:04:53 CET: class RSSThread, method run, First visit: http://www.spiegel.de/wissenschaft/index.rss
+Wed, 30 Oct 2013 10:04:57 CET: class RSSThread, method run, First visit: http://www.spiegel.de/kultur/index.rss
+Wed, 30 Oct 2013 10:05:03 CET: class RSSThread, method run, First visit: http://www.spiegel.de/politik/index.rss
+Wed, 30 Oct 2013 10:05:58 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/auto/index
+Wed, 30 Oct 2013 10:06:09 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/karriere/index
+Wed, 30 Oct 2013 10:06:20 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/studium/index
+Wed, 30 Oct 2013 10:06:26 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/meinung/index
+Wed, 30 Oct 2013 10:06:33 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/politik/index
+Wed, 30 Oct 2013 10:06:35 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/technik-motor/
+Wed, 30 Oct 2013 10:06:37 CET: class RSSThread, method run, Override interval with 5 minutes for Technik & Motor - FAZ.NET
+Wed, 30 Oct 2013 10:08:37 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/gesellschaft/index
+Wed, 30 Oct 2013 10:08:40 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/sport/index.rss
+Wed, 30 Oct 2013 10:08:42 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wissen/index
+Wed, 30 Oct 2013 10:08:46 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/digital/index
+Wed, 30 Oct 2013 10:08:56 CET: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/politik.xml
+Wed, 30 Oct 2013 10:09:04 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/reisen/index
+Wed, 30 Oct 2013 10:09:06 CET: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/wissenschaft.xml
+Wed, 30 Oct 2013 10:09:15 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/lebensart/index
+Wed, 30 Oct 2013 10:09:20 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:09:21 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/netzwelt/index.rss
+Wed, 30 Oct 2013 10:09:27 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/sport/index
+Wed, 30 Oct 2013 10:09:35 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/kultur/index
+Wed, 30 Oct 2013 10:09:36 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:09:37 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:09:40 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wirtschaft/index
+Wed, 30 Oct 2013 10:09:45 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:09:54 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:09:57 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wirtschaft/index.rss
+Wed, 30 Oct 2013 10:10:10 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wissenschaft/index.rss
+Wed, 30 Oct 2013 10:19:34 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/kultur/index.rss
+Wed, 30 Oct 2013 10:19:52 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/politik/index.rss
+Wed, 30 Oct 2013 10:20:08 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/auto/index
+Wed, 30 Oct 2013 10:20:38 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/karriere/index
+Wed, 30 Oct 2013 10:20:56 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/studium/index
+Wed, 30 Oct 2013 10:21:05 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/meinung/index
+Wed, 30 Oct 2013 10:21:11 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/politik/index
+Wed, 30 Oct 2013 10:21:20 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/technik-motor/
+Wed, 30 Oct 2013 10:23:22 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/reise/
+Wed, 30 Oct 2013 10:23:25 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wirtschaft/index
+Wed, 30 Oct 2013 10:23:26 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:23:27 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:23:28 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wirtschaft/index.rss
+Wed, 30 Oct 2013 10:23:30 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wissenschaft/index.rss
+Wed, 30 Oct 2013 10:23:32 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/kultur/index.rss
+Wed, 30 Oct 2013 10:23:33 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/politik/index.rss
+Wed, 30 Oct 2013 10:23:35 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/auto/index
+Wed, 30 Oct 2013 10:23:44 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/karriere/index
+Wed, 30 Oct 2013 10:23:49 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/studium/index
+Wed, 30 Oct 2013 10:23:55 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/meinung/index
+Wed, 30 Oct 2013 10:24:01 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/politik/index
+Wed, 30 Oct 2013 10:24:06 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/gesellschaft/index
+Wed, 30 Oct 2013 10:24:09 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/sport/index.rss
+Wed, 30 Oct 2013 10:24:13 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wissen/index
+Wed, 30 Oct 2013 10:24:17 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/digital/index
+Wed, 30 Oct 2013 10:24:24 CET: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/politik.xml
+Wed, 30 Oct 2013 10:24:36 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/reisen/index
+Wed, 30 Oct 2013 10:24:44 CET: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/wissenschaft.xml
+Wed, 30 Oct 2013 10:24:50 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/lebensart/index
+Wed, 30 Oct 2013 10:24:56 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:24:57 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/beruf-chance/
+Wed, 30 Oct 2013 10:25:34 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/netzwelt/index.rss
+Wed, 30 Oct 2013 10:25:36 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/politik/
+Wed, 30 Oct 2013 10:26:01 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/sport/index
+Wed, 30 Oct 2013 10:26:05 CET: class RSSThread, method run, Visiting: http://feeds.washingtonpost.com/rss/sports
+Wed, 30 Oct 2013 10:26:23 CET: class RSSThread, method run, Visiting: http://feeds.washingtonpost.com/rss/politics
+Wed, 30 Oct 2013 10:26:32 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/kultur/index
+Wed, 30 Oct 2013 10:26:35 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:26:36 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:26:37 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wirtschaft/index
+Wed, 30 Oct 2013 10:26:37 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:26:40 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:26:42 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wirtschaft/index.rss
+Wed, 30 Oct 2013 10:26:47 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wissenschaft/index.rss
+Wed, 30 Oct 2013 10:26:50 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/kultur/index.rss
+Wed, 30 Oct 2013 10:26:51 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/politik/index.rss
+Wed, 30 Oct 2013 10:26:53 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/auto/index
+Wed, 30 Oct 2013 10:26:56 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/karriere/index
+Wed, 30 Oct 2013 10:26:58 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/studium/index
+Wed, 30 Oct 2013 10:27:02 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/meinung/index
+Wed, 30 Oct 2013 10:27:05 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/politik/index
+Wed, 30 Oct 2013 10:27:08 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/technik-motor/
+Wed, 30 Oct 2013 10:27:28 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/wirtschaft/
+Wed, 30 Oct 2013 10:28:28 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/feuilleton/
+Wed, 30 Oct 2013 10:28:42 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/wissen/
+Wed, 30 Oct 2013 10:28:54 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/gesellschaft/
+Wed, 30 Oct 2013 10:29:09 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/sport/
+Wed, 30 Oct 2013 10:30:17 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/sport/index.rss
+Wed, 30 Oct 2013 10:30:22 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wissen/index
+Wed, 30 Oct 2013 10:30:26 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/digital/index
+Wed, 30 Oct 2013 10:30:29 CET: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/politik.xml
+Wed, 30 Oct 2013 10:30:48 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/reisen/index
+Wed, 30 Oct 2013 10:30:53 CET: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/wissenschaft.xml
+Wed, 30 Oct 2013 10:31:04 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/lebensart/index
+Wed, 30 Oct 2013 10:31:11 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:31:11 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/netzwelt/index.rss
+Wed, 30 Oct 2013 10:31:16 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/sport/index
+Wed, 30 Oct 2013 10:31:20 CET: class RSSThread, method run, Visiting: http://rss.cnn.com/rss/edition_business.rss
+Wed, 30 Oct 2013 10:32:21 CET: class RSSThread, method run, Visiting: http://rss.cnn.com/rss/edition_space.rss
+Wed, 30 Oct 2013 10:32:28 CET: class RSSThread, method run, Visiting: http://rss.cnn.com/rss/edition_sport.rss
+Wed, 30 Oct 2013 10:33:50 CET: class RSSThread, method run, Visiting: http://feeds.washingtonpost.com/rss/sports
+Wed, 30 Oct 2013 10:41:05 CET: class RSSThread, method run, Visiting: http://feeds.washingtonpost.com/rss/politics
+Wed, 30 Oct 2013 10:41:12 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/kultur/index
+Wed, 30 Oct 2013 10:41:14 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:41:14 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:41:15 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/reise/
+Wed, 30 Oct 2013 10:41:43 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wirtschaft/index
+Wed, 30 Oct 2013 10:41:44 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:41:46 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:41:47 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wirtschaft/index.rss
+Wed, 30 Oct 2013 10:41:48 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wissenschaft/index.rss
+Wed, 30 Oct 2013 10:41:50 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/kultur/index.rss
+Wed, 30 Oct 2013 10:41:51 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/politik/index.rss
+Wed, 30 Oct 2013 10:41:53 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/auto/index
+Wed, 30 Oct 2013 10:42:01 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/karriere/index
+Wed, 30 Oct 2013 10:42:08 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/studium/index
+Wed, 30 Oct 2013 10:42:17 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/meinung/index
+Wed, 30 Oct 2013 10:42:24 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/politik/index
+Wed, 30 Oct 2013 10:42:28 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/technik-motor/
+Wed, 30 Oct 2013 10:42:37 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/finanzen/
+Wed, 30 Oct 2013 10:43:37 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/gesellschaft/index
+Wed, 30 Oct 2013 10:43:39 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/politik/
+Wed, 30 Oct 2013 10:43:51 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/beruf-chance/
+Wed, 30 Oct 2013 10:44:32 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/sport/index
+Wed, 30 Oct 2013 10:44:43 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/kultur/index
+Wed, 30 Oct 2013 10:44:45 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:44:46 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:44:48 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wirtschaft/index
+Wed, 30 Oct 2013 10:44:51 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:44:52 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:44:53 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wirtschaft/index.rss
+Wed, 30 Oct 2013 10:44:55 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wissenschaft/index.rss
+Wed, 30 Oct 2013 10:44:57 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/kultur/index.rss
+Wed, 30 Oct 2013 10:44:59 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/politik/index.rss
+Wed, 30 Oct 2013 10:45:01 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/auto/index
+Wed, 30 Oct 2013 10:45:07 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/karriere/index
+Wed, 30 Oct 2013 10:45:15 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/studium/index
+Wed, 30 Oct 2013 10:45:22 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/meinung/index
+Wed, 30 Oct 2013 10:45:30 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/politik/index
+Wed, 30 Oct 2013 10:45:40 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/netzwelt/index.rss
+Wed, 30 Oct 2013 10:46:26 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/sport/index.rss
+Wed, 30 Oct 2013 10:46:30 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wissen/index
+Wed, 30 Oct 2013 10:46:36 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/digital/index
+Wed, 30 Oct 2013 10:46:49 CET: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/politik.xml
+Wed, 30 Oct 2013 10:46:57 CET: class RSSThread, method run, Visiting: http://rss.cnn.com/rss/edition.rss
+Wed, 30 Oct 2013 10:48:35 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/wirtschaft/
+Wed, 30 Oct 2013 10:48:43 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/reisen/index
+Wed, 30 Oct 2013 10:48:53 CET: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/wissenschaft.xml
+Wed, 30 Oct 2013 10:49:00 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/lebensart/index
+Wed, 30 Oct 2013 10:49:03 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:49:04 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/netzwelt/index.rss
+Wed, 30 Oct 2013 10:49:09 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/sport/index
+Wed, 30 Oct 2013 10:49:13 CET: class RSSThread, method run, Visiting: http://feeds.washingtonpost.com/rss/sports
+Wed, 30 Oct 2013 10:49:23 CET: class RSSThread, method run, Visiting: http://feeds.washingtonpost.com/rss/politics
+Wed, 30 Oct 2013 10:49:53 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/kultur/index
+Wed, 30 Oct 2013 10:49:55 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:49:56 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:49:57 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/reise/
+Wed, 30 Oct 2013 10:49:59 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wirtschaft/index
+Wed, 30 Oct 2013 10:50:00 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:50:02 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:50:04 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wirtschaft/index.rss
+Wed, 30 Oct 2013 10:50:06 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wissenschaft/index.rss
+Wed, 30 Oct 2013 10:50:07 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/kultur/index.rss
+Wed, 30 Oct 2013 10:50:09 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/politik/index.rss
+Wed, 30 Oct 2013 10:50:10 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/auto/index
+Wed, 30 Oct 2013 10:50:13 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/karriere/index
+Wed, 30 Oct 2013 10:50:15 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/studium/index
+Wed, 30 Oct 2013 10:50:18 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/meinung/index
+Wed, 30 Oct 2013 10:50:21 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/politik/index
+Wed, 30 Oct 2013 10:50:25 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/technik-motor/
+Wed, 30 Oct 2013 10:51:08 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/politik/
+Wed, 30 Oct 2013 10:51:29 CET: class RSSThread, method run, Visiting: http://rss.cnn.com/rss/edition_entertainment.rss
+Wed, 30 Oct 2013 10:52:48 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/wissen/
+Wed, 30 Oct 2013 10:52:59 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/digital/index
+Wed, 30 Oct 2013 10:53:10 CET: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/politik.xml
+Wed, 30 Oct 2013 10:53:23 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/reisen/index
+Wed, 30 Oct 2013 10:53:28 CET: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/wissenschaft.xml
+Wed, 30 Oct 2013 10:53:42 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/lebensart/index
+Wed, 30 Oct 2013 10:53:48 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:53:49 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/beruf-chance/
+Wed, 30 Oct 2013 10:54:11 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/netzwelt/index.rss
+Wed, 30 Oct 2013 10:54:16 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/sport/index
+Wed, 30 Oct 2013 10:54:28 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/kultur/index
+Wed, 30 Oct 2013 10:54:36 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:54:42 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:54:47 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wirtschaft/index
+Wed, 30 Oct 2013 10:54:51 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:54:54 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:54:55 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wirtschaft/index.rss
+Wed, 30 Oct 2013 10:54:59 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wissenschaft/index.rss
+Wed, 30 Oct 2013 10:55:04 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/kultur/index.rss
+Wed, 30 Oct 2013 10:55:08 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/politik/index.rss
+Wed, 30 Oct 2013 10:55:12 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/auto/index
+Wed, 30 Oct 2013 10:55:15 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/karriere/index
+Wed, 30 Oct 2013 10:55:20 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/studium/index
+Wed, 30 Oct 2013 10:55:23 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/meinung/index
+Wed, 30 Oct 2013 10:55:29 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/politik/index
+Wed, 30 Oct 2013 10:55:34 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/technik-motor/
+Wed, 30 Oct 2013 10:55:47 CET: class RSSThread, method run, Visiting: http://rss.cnn.com/rss/edition_business.rss
+Wed, 30 Oct 2013 10:56:46 CET: class RSSThread, method run, Visiting: http://rss.cnn.com/rss/edition_space.rss
+Wed, 30 Oct 2013 10:56:51 CET: class RSSThread, method run, Visiting: http://rss.cnn.com/rss/edition_sport.rss
+Wed, 30 Oct 2013 10:57:53 CET: class RSSThread, method run, Visiting: http://feeds.washingtonpost.com/rss/sports
+Wed, 30 Oct 2013 10:58:11 CET: class RSSThread, method run, Visiting: http://feeds.washingtonpost.com/rss/politics
+Wed, 30 Oct 2013 10:58:18 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/kultur/index
+Wed, 30 Oct 2013 10:58:25 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:58:27 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:58:29 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/reise/
+Wed, 30 Oct 2013 10:59:25 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wirtschaft/index
+Wed, 30 Oct 2013 10:59:27 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:59:28 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 10:59:30 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wirtschaft/index.rss
+Wed, 30 Oct 2013 10:59:34 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wissenschaft/index.rss
+Wed, 30 Oct 2013 10:59:38 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/kultur/index.rss
+Wed, 30 Oct 2013 10:59:45 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/politik/index.rss
+Wed, 30 Oct 2013 10:59:49 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/auto/index
+Wed, 30 Oct 2013 10:59:54 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/karriere/index
+Wed, 30 Oct 2013 11:00:01 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/studium/index
+Wed, 30 Oct 2013 11:00:07 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/meinung/index
+Wed, 30 Oct 2013 11:00:18 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/politik/index
+Wed, 30 Oct 2013 11:00:25 CET: class RSSThread, method run, Visiting: http://rss.cnn.com/rss/edition_technology.rss
+Wed, 30 Oct 2013 11:01:21 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/feuilleton/
+Wed, 30 Oct 2013 11:02:41 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/digital/index
+Wed, 30 Oct 2013 11:02:44 CET: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/politik.xml
+Wed, 30 Oct 2013 11:02:51 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/wirtschaft/
+Wed, 30 Oct 2013 11:03:54 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/reisen/index
+Wed, 30 Oct 2013 11:04:00 CET: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/wissenschaft.xml
+Wed, 30 Oct 2013 11:04:06 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/lebensart/index
+Wed, 30 Oct 2013 11:04:10 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 11:04:10 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/netzwelt/index.rss
+Wed, 30 Oct 2013 11:04:12 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/politik/
+Wed, 30 Oct 2013 11:04:31 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/sport/index
+Wed, 30 Oct 2013 11:04:40 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/kultur/index
+Wed, 30 Oct 2013 11:04:42 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 11:04:44 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 11:04:45 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wirtschaft/index
+Wed, 30 Oct 2013 11:04:46 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 11:04:49 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 11:04:51 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wirtschaft/index.rss
+Wed, 30 Oct 2013 11:04:53 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wissenschaft/index.rss
+Wed, 30 Oct 2013 11:04:54 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/kultur/index.rss
+Wed, 30 Oct 2013 11:04:56 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/politik/index.rss
+Wed, 30 Oct 2013 11:04:57 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/auto/index
+Wed, 30 Oct 2013 11:05:00 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/karriere/index
+Wed, 30 Oct 2013 11:05:04 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/studium/index
+Wed, 30 Oct 2013 11:05:06 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/meinung/index
+Wed, 30 Oct 2013 11:05:10 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/politik/index
+Wed, 30 Oct 2013 11:05:13 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/technik-motor/
+Wed, 30 Oct 2013 11:05:16 CET: class RSSThread, method update, Start to read new subscriptions
+Wed, 30 Oct 2013 11:05:16 CET: class RSSThread, method update, Finish to read new subscriptions
+Wed, 30 Oct 2013 11:05:17 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/gesellschaft/index
+Wed, 30 Oct 2013 11:05:17 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 30 Oct 2013 11:05:46 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/gesellschaft/
+Wed, 30 Oct 2013 11:05:55 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/reise/
+Wed, 30 Oct 2013 11:06:01 CET: class RSSThread, method run, Visiting: http://feeds.washingtonpost.com/rss/sports
+Wed, 30 Oct 2013 11:06:11 CET: class RSSThread, method run, Visiting: http://feeds.washingtonpost.com/rss/politics
+Thu, 31 Oct 2013 10:27:06 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 31 Oct 2013 10:27:10 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 31 Oct 2013 10:27:10 CET: class RSSThread, method update, Start to read new sources
+Thu, 31 Oct 2013 10:27:11 CET: class RSSThread, method update, Finish to read new sources
+Thu, 31 Oct 2013 10:27:11 CET: class RSSThread, method run, RSS Server started!
+Thu, 31 Oct 2013 10:27:11 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 31 Oct 2013 10:27:15 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 31 Oct 2013 10:27:15 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 31 Oct 2013 10:27:15 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 31 Oct 2013 10:27:16 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 31 Oct 2013 10:27:19 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 31 Oct 2013 10:27:28 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 31 Oct 2013 10:27:28 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 31 Oct 2013 10:27:33 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 31 Oct 2013 10:27:49 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Thu, 31 Oct 2013 10:27:49 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 31 Oct 2013 10:27:56 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 31 Oct 2013 10:27:56 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 31 Oct 2013 10:27:58 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 31 Oct 2013 10:28:25 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 31 Oct 2013 10:28:25 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 31 Oct 2013 10:31:20 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 31 Oct 2013 10:31:20 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 31 Oct 2013 10:31:20 CET: class RSSThread, method update, Start to read new sources
+Thu, 31 Oct 2013 10:31:20 CET: class RSSThread, method update, Finish to read new sources
+Thu, 31 Oct 2013 10:31:20 CET: class RSSThread, method run, RSS Server started!
+Thu, 31 Oct 2013 10:31:20 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 31 Oct 2013 10:31:22 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 31 Oct 2013 10:31:22 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 31 Oct 2013 10:31:23 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 31 Oct 2013 10:31:24 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 31 Oct 2013 10:31:31 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 31 Oct 2013 10:31:41 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 31 Oct 2013 10:31:41 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 31 Oct 2013 10:31:46 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 31 Oct 2013 10:32:13 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 31 Oct 2013 10:32:13 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 31 Oct 2013 10:32:20 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 31 Oct 2013 10:32:44 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 31 Oct 2013 10:32:44 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 31 Oct 2013 10:32:50 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 31 Oct 2013 10:32:50 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 31 Oct 2013 10:34:02 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Thu, 31 Oct 2013 10:34:02 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Thu, 31 Oct 2013 10:34:04 CET: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Thu, 31 Oct 2013 10:34:04 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Thu, 31 Oct 2013 10:34:09 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Thu, 31 Oct 2013 10:34:20 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Thu, 31 Oct 2013 10:35:35 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Top Stories
+Thu, 31 Oct 2013 10:35:35 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wirtschaft/
+Thu, 31 Oct 2013 10:36:09 CET: class RSSThread, method run, Override interval with 5 minutes for Wirtschaft - FAZ.NET
+Thu, 31 Oct 2013 10:36:09 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/reisen/index
+Thu, 31 Oct 2013 10:36:18 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/wissenschaft.xml
+Thu, 31 Oct 2013 10:36:29 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/lebensart/index
+Thu, 31 Oct 2013 10:36:37 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/beruf-chance/
+Thu, 31 Oct 2013 10:37:41 CET: class RSSThread, method run, Override interval with 5 minutes for Beruf & Chance - FAZ.NET
+Thu, 31 Oct 2013 10:37:41 CET: class RSSThread, method run, First visit: http://www.spiegel.de/netzwelt/index.rss
+Thu, 31 Oct 2013 10:37:46 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/politik/
+Thu, 31 Oct 2013 10:37:52 CET: class RSSThread, method run, Override interval with 5 minutes for Politik - FAZ.NET
+Thu, 31 Oct 2013 10:37:52 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/sport/index
+Thu, 31 Oct 2013 10:38:03 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_business.rss
+Thu, 31 Oct 2013 10:38:31 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Business
+Thu, 31 Oct 2013 10:38:31 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_space.rss
+Thu, 31 Oct 2013 10:38:35 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Science and Space
+Thu, 31 Oct 2013 10:38:35 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_sport.rss
+Wed, 20 Nov 2013 10:10:36 CET: class RSSThread, method update, Start to read new subscriptions
+Wed, 20 Nov 2013 10:10:37 CET: class RSSThread, method update, Finish to read new subscriptions
+Wed, 20 Nov 2013 10:10:37 CET: class RSSThread, method update, Start to read new sources
+Wed, 20 Nov 2013 10:10:37 CET: class RSSThread, method update, Finish to read new sources
+Wed, 20 Nov 2013 10:10:37 CET: class RSSThread, method run, RSS Server started!
+Wed, 20 Nov 2013 10:10:37 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Wed, 20 Nov 2013 10:10:41 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Wed, 20 Nov 2013 10:10:41 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Wed, 20 Nov 2013 10:10:41 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:10:43 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:10:49 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Wed, 20 Nov 2013 10:10:56 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Wed, 20 Nov 2013 10:10:56 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Wed, 20 Nov 2013 10:13:10 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Top Stories
+Wed, 20 Nov 2013 10:13:10 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Wed, 20 Nov 2013 10:13:19 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Wed, 20 Nov 2013 10:13:46 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Wed, 20 Nov 2013 10:13:46 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Wed, 20 Nov 2013 10:13:59 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_business.rss
+Wed, 20 Nov 2013 10:14:38 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Business
+Wed, 20 Nov 2013 10:14:38 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Wed, 20 Nov 2013 10:14:53 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Wed, 20 Nov 2013 10:14:53 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_space.rss
+Wed, 20 Nov 2013 10:15:00 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Science and Space
+Wed, 20 Nov 2013 10:15:00 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Wed, 20 Nov 2013 10:15:03 CET: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Wed, 20 Nov 2013 10:15:03 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Wed, 20 Nov 2013 10:15:14 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:15:15 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Wed, 20 Nov 2013 10:15:26 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wirtschaft/
+Wed, 20 Nov 2013 10:15:50 CET: class RSSThread, method run, Override interval with 5 minutes for Wirtschaft - FAZ.NET
+Wed, 20 Nov 2013 10:15:50 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/reisen/index
+Wed, 20 Nov 2013 10:15:51 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:15:53 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/wissenschaft.xml
+Wed, 20 Nov 2013 10:16:04 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/lebensart/index
+Wed, 20 Nov 2013 10:16:06 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:16:09 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/beruf-chance/
+Wed, 20 Nov 2013 10:16:15 CET: class RSSThread, method run, Override interval with 5 minutes for Beruf & Chance - FAZ.NET
+Wed, 20 Nov 2013 10:16:15 CET: class RSSThread, method run, First visit: http://www.spiegel.de/netzwelt/index.rss
+Wed, 20 Nov 2013 10:16:20 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/politik/
+Wed, 20 Nov 2013 10:16:42 CET: class RSSThread, method run, Override interval with 5 minutes for Politik - FAZ.NET
+Wed, 20 Nov 2013 10:16:42 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Wed, 20 Nov 2013 10:18:00 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Wed, 20 Nov 2013 10:18:00 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Wed, 20 Nov 2013 10:18:20 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Wed, 20 Nov 2013 10:18:20 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/sport/index
+Wed, 20 Nov 2013 10:18:30 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Wed, 20 Nov 2013 10:18:44 CET: class RSSThread, method run, Override interval with 5 minutes for Sports: Sports News, Scores, Analysis, Schedules & More - The Washington Post
+Wed, 20 Nov 2013 10:18:44 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Wed, 20 Nov 2013 10:18:55 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Wed, 20 Nov 2013 10:18:55 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/kultur/index
+Wed, 20 Nov 2013 10:18:58 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:19:03 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/reise/
+Wed, 20 Nov 2013 10:19:20 CET: class RSSThread, method run, Override interval with 5 minutes for Reise - FAZ.NET
+Wed, 20 Nov 2013 10:19:20 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wirtschaft/index
+Wed, 20 Nov 2013 10:19:21 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:19:25 CET: class RSSThread, method run, First visit: http://www.spiegel.de/wirtschaft/index.rss
+Wed, 20 Nov 2013 10:19:32 CET: class RSSThread, method run, First visit: http://www.spiegel.de/wissenschaft/index.rss
+Wed, 20 Nov 2013 10:19:38 CET: class RSSThread, method run, First visit: http://www.spiegel.de/kultur/index.rss
+Wed, 20 Nov 2013 10:19:43 CET: class RSSThread, method run, First visit: http://www.spiegel.de/politik/index.rss
+Wed, 20 Nov 2013 10:19:48 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/auto/index
+Wed, 20 Nov 2013 10:19:51 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/karriere/index
+Wed, 20 Nov 2013 10:19:57 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/studium/index
+Wed, 20 Nov 2013 10:20:00 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:20:00 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_sport.rss
+Wed, 20 Nov 2013 10:21:21 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Sport
+Wed, 20 Nov 2013 10:21:21 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/meinung/index
+Wed, 20 Nov 2013 10:21:34 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/politik/index
+Wed, 20 Nov 2013 10:21:42 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/technik-motor/
+Wed, 20 Nov 2013 10:21:46 CET: class RSSThread, method run, Override interval with 5 minutes for Technik & Motor - FAZ.NET
+Wed, 20 Nov 2013 10:23:46 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/gesellschaft/index
+Wed, 20 Nov 2013 10:23:46 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:23:48 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:23:54 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/sport/index.rss
+Wed, 20 Nov 2013 10:24:00 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wissen/index
+Wed, 20 Nov 2013 10:24:11 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/digital/index
+Wed, 20 Nov 2013 10:24:14 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:24:15 CET: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/politik.xml
+Wed, 20 Nov 2013 10:24:23 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/reisen/index
+Wed, 20 Nov 2013 10:24:25 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:24:27 CET: class RSSThread, method run, Visiting: http://www.main-netz.de/rss/wissenschaft.xml
+Wed, 20 Nov 2013 10:24:37 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/lebensart/index
+Wed, 20 Nov 2013 10:24:37 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:24:39 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/netzwelt/index.rss
+Wed, 20 Nov 2013 10:24:47 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/sport/index
+Wed, 20 Nov 2013 10:24:53 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/kultur/index
+Wed, 20 Nov 2013 10:24:54 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:25:00 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wirtschaft/index
+Wed, 20 Nov 2013 10:25:01 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:25:04 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wirtschaft/index.rss
+Wed, 20 Nov 2013 10:25:09 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wissenschaft/index.rss
+Wed, 20 Nov 2013 10:25:14 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/kultur/index.rss
+Wed, 20 Nov 2013 10:25:22 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/politik/index.rss
+Wed, 20 Nov 2013 10:25:27 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/auto/index
+Wed, 20 Nov 2013 10:25:51 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/karriere/index
+Wed, 20 Nov 2013 10:25:57 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/studium/index
+Wed, 20 Nov 2013 10:26:04 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:26:05 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/meinung/index
+Wed, 20 Nov 2013 10:26:08 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/politik/index
+Wed, 20 Nov 2013 10:26:46 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/technik-motor/
+Wed, 20 Nov 2013 10:28:10 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/reise/
+Wed, 20 Nov 2013 10:28:19 CET: class RSSThread, method run, Visiting: http://feeds.washingtonpost.com/rss/sports
+Wed, 20 Nov 2013 10:28:23 CET: class RSSThread, method update, Start to read new subscriptions
+Wed, 20 Nov 2013 10:28:23 CET: class RSSThread, method update, Finish to read new subscriptions
+Wed, 20 Nov 2013 10:28:23 CET: class RSSThread, method update, Start to read new sources
+Wed, 20 Nov 2013 10:28:24 CET: class RSSThread, method update, Finish to read new sources
+Wed, 20 Nov 2013 10:28:24 CET: class RSSThread, method run, RSS Server started!
+Wed, 20 Nov 2013 10:28:24 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Wed, 20 Nov 2013 10:28:28 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Wed, 20 Nov 2013 10:28:28 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Wed, 20 Nov 2013 10:28:28 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:28:30 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:28:36 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Wed, 20 Nov 2013 10:28:40 CET: class RSSThread, method run, Visiting: http://feeds.washingtonpost.com/rss/politics
+Wed, 20 Nov 2013 10:28:58 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Wed, 20 Nov 2013 10:28:58 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Wed, 20 Nov 2013 10:32:53 CET: class RSSThread, method update, Start to read new sources
+Wed, 20 Nov 2013 10:32:54 CET: class RSSThread, method update, Finish to read new sources
+Wed, 20 Nov 2013 10:32:54 CET: class RSSThread, method update, Start to read new subscriptions
+Wed, 20 Nov 2013 10:32:54 CET: class RSSThread, method update, Finish to read new subscriptions
+Wed, 20 Nov 2013 10:32:54 CET: class RSSThread, method run, RSS Server started!
+Wed, 20 Nov 2013 10:32:54 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Wed, 20 Nov 2013 10:32:59 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Wed, 20 Nov 2013 10:32:59 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Wed, 20 Nov 2013 10:32:59 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:34:32 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/kultur/index
+Wed, 20 Nov 2013 10:34:34 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:34:40 CET: class RSSThread, method run, Visiting: http://www.faz.net/rss/aktuell/reise/
+Wed, 20 Nov 2013 10:35:10 CET: class RSSThread, method run, Visiting: http://newsfeed.zeit.de/wirtschaft/index
+Wed, 20 Nov 2013 10:35:11 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:35:18 CET: class RSSThread, method run, Visiting: http://www.spiegel.de/wirtschaft/index.rss
+Wed, 20 Nov 2013 10:35:34 CET: class RSSThread, method update, Start to read new subscriptions
+Wed, 20 Nov 2013 10:35:34 CET: class RSSThread, method update, Finish to read new subscriptions
+Wed, 20 Nov 2013 10:35:34 CET: class RSSThread, method update, Start to read new sources
+Wed, 20 Nov 2013 10:35:34 CET: class RSSThread, method update, Finish to read new sources
+Wed, 20 Nov 2013 10:35:34 CET: class RSSThread, method run, RSS Server started!
+Wed, 20 Nov 2013 10:35:34 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Wed, 20 Nov 2013 10:35:38 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Wed, 20 Nov 2013 10:35:38 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Wed, 20 Nov 2013 10:35:38 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:35:41 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 10:35:46 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Wed, 20 Nov 2013 10:35:52 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Wed, 20 Nov 2013 10:35:52 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Wed, 20 Nov 2013 11:17:55 CET: class RSSThread, method update, Start to read new subscriptions
+Wed, 20 Nov 2013 11:17:55 CET: class RSSThread, method update, Finish to read new subscriptions
+Wed, 20 Nov 2013 11:17:55 CET: class RSSThread, method update, Start to read new sources
+Wed, 20 Nov 2013 11:17:55 CET: class RSSThread, method update, Finish to read new sources
+Wed, 20 Nov 2013 11:17:55 CET: class RSSThread, method run, RSS Server started!
+Wed, 20 Nov 2013 11:17:55 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Wed, 20 Nov 2013 11:18:03 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Wed, 20 Nov 2013 11:18:03 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Wed, 20 Nov 2013 11:18:04 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 11:18:07 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 20 Nov 2013 11:18:13 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Wed, 20 Nov 2013 11:18:23 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Wed, 20 Nov 2013 11:18:23 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Thu, 21 Nov 2013 09:48:11 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 21 Nov 2013 09:48:13 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 21 Nov 2013 09:48:13 CET: class RSSThread, method update, Start to read new sources
+Thu, 21 Nov 2013 09:48:13 CET: class RSSThread, method update, Finish to read new sources
+Thu, 21 Nov 2013 09:48:13 CET: class RSSThread, method run, RSS Server started!
+Thu, 21 Nov 2013 09:48:13 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 21 Nov 2013 09:48:16 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 21 Nov 2013 09:48:16 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 21 Nov 2013 09:48:16 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 21 Nov 2013 09:48:20 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 21 Nov 2013 09:48:24 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 21 Nov 2013 09:48:37 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 21 Nov 2013 09:48:37 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 21 Nov 2013 09:48:42 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 21 Nov 2013 09:49:06 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 21 Nov 2013 09:49:06 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 21 Nov 2013 09:49:13 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 21 Nov 2013 09:49:35 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 21 Nov 2013 09:49:36 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 21 Nov 2013 09:50:04 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 21 Nov 2013 09:50:04 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 21 Nov 2013 09:50:47 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Thu, 21 Nov 2013 09:50:47 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Thu, 21 Nov 2013 09:50:51 CET: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Thu, 21 Nov 2013 09:50:51 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Thu, 21 Nov 2013 09:50:51 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 21 Nov 2013 09:50:55 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Thu, 21 Nov 2013 09:51:06 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Thu, 21 Nov 2013 09:54:27 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 21 Nov 2013 09:54:27 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 21 Nov 2013 09:54:27 CET: class RSSThread, method update, Start to read new sources
+Thu, 21 Nov 2013 09:54:28 CET: class RSSThread, method update, Finish to read new sources
+Thu, 21 Nov 2013 09:54:28 CET: class RSSThread, method run, RSS Server started!
+Thu, 21 Nov 2013 09:54:28 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 21 Nov 2013 09:54:31 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 21 Nov 2013 09:54:31 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 21 Nov 2013 09:54:31 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 21 Nov 2013 09:54:34 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 21 Nov 2013 09:54:38 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 21 Nov 2013 09:54:49 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 21 Nov 2013 09:54:49 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 21 Nov 2013 09:54:54 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 21 Nov 2013 09:55:13 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 21 Nov 2013 09:55:13 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 21 Nov 2013 09:55:19 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 21 Nov 2013 09:55:42 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 21 Nov 2013 09:55:42 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 21 Nov 2013 09:55:55 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 21 Nov 2013 09:55:55 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 21 Nov 2013 09:56:34 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 21 Nov 2013 09:56:35 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 21 Nov 2013 09:56:35 CET: class RSSThread, method update, Start to read new sources
+Thu, 21 Nov 2013 09:56:35 CET: class RSSThread, method update, Finish to read new sources
+Thu, 21 Nov 2013 09:56:35 CET: class RSSThread, method run, RSS Server started!
+Thu, 21 Nov 2013 09:56:35 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 21 Nov 2013 09:56:38 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 21 Nov 2013 09:56:38 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 21 Nov 2013 09:56:38 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 21 Nov 2013 09:56:44 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 21 Nov 2013 09:56:48 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 21 Nov 2013 09:57:07 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 21 Nov 2013 09:57:07 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 21 Nov 2013 09:57:11 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 21 Nov 2013 09:57:18 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 21 Nov 2013 09:57:18 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 21 Nov 2013 09:57:23 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 21 Nov 2013 09:58:09 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 21 Nov 2013 09:58:09 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 21 Nov 2013 09:58:18 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 21 Nov 2013 09:58:18 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 21 Nov 2013 09:59:21 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 21 Nov 2013 09:59:21 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 21 Nov 2013 09:59:21 CET: class RSSThread, method update, Start to read new sources
+Thu, 21 Nov 2013 09:59:21 CET: class RSSThread, method update, Finish to read new sources
+Thu, 21 Nov 2013 09:59:21 CET: class RSSThread, method run, RSS Server started!
+Thu, 21 Nov 2013 09:59:21 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 21 Nov 2013 09:59:24 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 21 Nov 2013 09:59:24 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 21 Nov 2013 09:59:24 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 21 Nov 2013 09:59:26 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 21 Nov 2013 09:59:28 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 21 Nov 2013 09:59:34 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 21 Nov 2013 09:59:34 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 21 Nov 2013 09:59:39 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 21 Nov 2013 09:59:44 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 21 Nov 2013 09:59:44 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 21 Nov 2013 09:59:50 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 21 Nov 2013 10:00:11 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 21 Nov 2013 10:00:11 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 21 Nov 2013 10:00:16 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 21 Nov 2013 10:00:16 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Mon, 25 Nov 2013 13:29:07 CET: class RSSThread, method update, Start to read new subscriptions
+Mon, 25 Nov 2013 13:29:25 CET: class RSSThread, method update, Finish to read new subscriptions
+Mon, 25 Nov 2013 13:29:25 CET: class RSSThread, method update, Start to read new sources
+Mon, 25 Nov 2013 13:29:25 CET: class RSSThread, method update, Finish to read new sources
+Mon, 25 Nov 2013 13:29:25 CET: class RSSThread, method run, RSS Server started!
+Mon, 25 Nov 2013 13:29:25 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Mon, 25 Nov 2013 13:29:37 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Mon, 25 Nov 2013 13:29:37 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Mon, 25 Nov 2013 13:29:37 CET: class RSSParser, method genItem, Invalid time format: null
+Mon, 25 Nov 2013 13:29:43 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Mon, 25 Nov 2013 13:29:53 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Mon, 25 Nov 2013 13:29:53 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Mon, 25 Nov 2013 13:29:58 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Mon, 25 Nov 2013 13:30:24 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Mon, 25 Nov 2013 13:30:24 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Mon, 25 Nov 2013 13:30:39 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Mon, 25 Nov 2013 13:30:39 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Mon, 25 Nov 2013 13:30:47 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Mon, 25 Nov 2013 13:31:52 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Mon, 25 Nov 2013 13:31:52 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Mon, 25 Nov 2013 13:34:54 CET: class RSSThread, method update, Start to read new subscriptions
+Mon, 25 Nov 2013 13:34:54 CET: class RSSThread, method update, Finish to read new subscriptions
+Mon, 25 Nov 2013 13:34:54 CET: class RSSThread, method update, Start to read new sources
+Mon, 25 Nov 2013 13:34:54 CET: class RSSThread, method update, Finish to read new sources
+Mon, 25 Nov 2013 13:34:54 CET: class RSSThread, method run, RSS Server started!
+Mon, 25 Nov 2013 13:34:54 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Mon, 25 Nov 2013 13:34:58 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Mon, 25 Nov 2013 13:34:58 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Mon, 25 Nov 2013 13:34:59 CET: class RSSParser, method genItem, Invalid time format: null
+Mon, 25 Nov 2013 13:35:07 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Mon, 25 Nov 2013 13:35:30 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Mon, 25 Nov 2013 13:35:30 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Mon, 25 Nov 2013 13:35:35 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Mon, 25 Nov 2013 13:35:59 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Mon, 25 Nov 2013 13:35:59 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Mon, 25 Nov 2013 13:36:04 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Mon, 25 Nov 2013 13:36:30 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Mon, 25 Nov 2013 13:36:30 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Mon, 25 Nov 2013 13:36:42 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Mon, 25 Nov 2013 13:36:42 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Mon, 25 Nov 2013 13:38:20 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Mon, 25 Nov 2013 13:38:20 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Mon, 25 Nov 2013 13:41:21 CET: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Mon, 25 Nov 2013 13:41:21 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Mon, 25 Nov 2013 13:41:29 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Mon, 25 Nov 2013 13:41:39 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Mon, 25 Nov 2013 13:43:01 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Top Stories
+Mon, 25 Nov 2013 13:43:01 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wirtschaft/
+Mon, 25 Nov 2013 13:43:34 CET: class RSSThread, method run, Override interval with 5 minutes for Wirtschaft - FAZ.NET
+Mon, 25 Nov 2013 13:43:34 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/reisen/index
+Mon, 25 Nov 2013 13:43:42 CET: class RSSParser, method genItem, Invalid time format: null
+Mon, 25 Nov 2013 13:43:44 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/wissenschaft.xml
+Mon, 25 Nov 2013 13:43:52 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/lebensart/index
+Mon, 25 Nov 2013 13:43:52 CET: class RSSParser, method genItem, Invalid time format: null
+Mon, 25 Nov 2013 13:43:54 CET: class RSSParser, method genItem, Invalid time format: null
+Mon, 25 Nov 2013 13:43:55 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/beruf-chance/
+Mon, 25 Nov 2013 13:44:12 CET: class RSSThread, method run, Override interval with 5 minutes for Beruf & Chance - FAZ.NET
+Mon, 25 Nov 2013 13:44:12 CET: class RSSThread, method run, First visit: http://www.spiegel.de/netzwelt/index.rss
+Mon, 25 Nov 2013 13:44:18 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/politik/
+Mon, 25 Nov 2013 13:44:35 CET: class RSSThread, method run, Override interval with 5 minutes for Politik - FAZ.NET
+Mon, 25 Nov 2013 13:44:35 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/sport/index
+Mon, 25 Nov 2013 13:44:44 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_business.rss
+Mon, 25 Nov 2013 13:47:33 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Business
+Mon, 25 Nov 2013 13:47:33 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_space.rss
+Mon, 25 Nov 2013 13:47:38 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Science and Space
+Mon, 25 Nov 2013 13:47:38 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_sport.rss
+Mon, 25 Nov 2013 13:52:18 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Sport
+Mon, 25 Nov 2013 13:52:18 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Mon, 25 Nov 2013 13:52:37 CET: class RSSThread, method run, Override interval with 5 minutes for Sports: Sports News, Scores, Analysis, Schedules & More - The Washington Post
+Mon, 25 Nov 2013 13:52:37 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Mon, 25 Nov 2013 13:53:05 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Mon, 25 Nov 2013 13:53:05 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/kultur/index
+Mon, 25 Nov 2013 13:53:05 CET: class RSSParser, method genItem, Invalid time format: null
+Mon, 25 Nov 2013 13:53:06 CET: class RSSParser, method genItem, Invalid time format: null
+Mon, 25 Nov 2013 13:53:08 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/reise/
+Mon, 25 Nov 2013 13:53:11 CET: class RSSThread, method run, Override interval with 5 minutes for Reise - FAZ.NET
+Mon, 25 Nov 2013 13:53:11 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wirtschaft/index
+Mon, 25 Nov 2013 13:53:17 CET: class RSSThread, method run, First visit: http://www.spiegel.de/wirtschaft/index.rss
+Mon, 25 Nov 2013 13:53:23 CET: class RSSThread, method run, First visit: http://www.spiegel.de/wissenschaft/index.rss
+Mon, 25 Nov 2013 13:53:28 CET: class RSSThread, method run, First visit: http://www.spiegel.de/kultur/index.rss
+Mon, 25 Nov 2013 13:53:34 CET: class RSSThread, method run, First visit: http://www.spiegel.de/politik/index.rss
+Mon, 25 Nov 2013 13:53:40 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/auto/index
+Mon, 25 Nov 2013 13:53:55 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/karriere/index
+Mon, 25 Nov 2013 13:54:04 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/studium/index
+Mon, 25 Nov 2013 13:54:05 CET: class RSSParser, method genItem, Invalid time format: null
+Mon, 25 Nov 2013 13:54:07 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/meinung/index
+Mon, 25 Nov 2013 13:54:07 CET: class RSSParser, method genItem, Invalid time format: null
+Mon, 25 Nov 2013 13:54:19 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/politik/index
+Mon, 25 Nov 2013 13:54:26 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/technik-motor/
+Mon, 25 Nov 2013 13:54:31 CET: class RSSThread, method run, Override interval with 5 minutes for Technik & Motor - FAZ.NET
+Wed, 27 Nov 2013 10:01:37 CET: class RSSThread, method update, Start to read new subscriptions
+Wed, 27 Nov 2013 10:01:40 CET: class RSSThread, method update, Finish to read new subscriptions
+Wed, 27 Nov 2013 10:01:40 CET: class RSSThread, method update, Start to read new sources
+Wed, 27 Nov 2013 10:01:41 CET: class RSSThread, method update, Finish to read new sources
+Wed, 27 Nov 2013 10:01:41 CET: class RSSThread, method run, RSS Server started!
+Wed, 27 Nov 2013 10:01:41 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Wed, 27 Nov 2013 10:01:44 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Wed, 27 Nov 2013 10:01:44 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Wed, 27 Nov 2013 10:01:45 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 27 Nov 2013 10:01:47 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 27 Nov 2013 10:01:49 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Wed, 27 Nov 2013 10:01:59 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Wed, 27 Nov 2013 10:01:59 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Wed, 27 Nov 2013 10:02:04 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Wed, 27 Nov 2013 10:04:03 CET: class RSSThread, method update, Start to read new subscriptions
+Wed, 27 Nov 2013 10:04:03 CET: class RSSThread, method update, Finish to read new subscriptions
+Wed, 27 Nov 2013 10:04:03 CET: class RSSThread, method update, Start to read new sources
+Wed, 27 Nov 2013 10:04:03 CET: class RSSThread, method update, Finish to read new sources
+Wed, 27 Nov 2013 10:04:03 CET: class RSSThread, method run, RSS Server started!
+Wed, 27 Nov 2013 10:04:03 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Wed, 27 Nov 2013 10:04:09 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Wed, 27 Nov 2013 10:04:09 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Wed, 27 Nov 2013 10:04:09 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 27 Nov 2013 10:04:11 CET: class RSSParser, method genItem, Invalid time format: null
+Wed, 27 Nov 2013 10:04:15 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Wed, 27 Nov 2013 10:04:19 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Wed, 27 Nov 2013 10:04:19 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Wed, 27 Nov 2013 10:04:30 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Wed, 27 Nov 2013 10:04:43 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Wed, 27 Nov 2013 10:04:43 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Wed, 27 Nov 2013 10:04:55 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Wed, 27 Nov 2013 10:04:55 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 09:45:39 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 09:45:40 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 09:45:40 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 09:45:40 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 09:45:40 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 09:45:40 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 09:45:44 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 09:45:44 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 09:45:46 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 09:45:48 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 09:45:49 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 09:45:55 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 09:45:55 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 09:46:02 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 28 Nov 2013 09:46:20 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Thu, 28 Nov 2013 09:46:20 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 09:46:26 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 28 Nov 2013 09:46:26 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 09:46:30 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 28 Nov 2013 09:51:12 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 09:51:13 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 09:51:13 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 09:51:13 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 09:51:13 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 09:51:13 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 09:51:18 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 09:51:18 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 09:51:20 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 09:51:22 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 09:51:23 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 09:51:31 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 09:51:31 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 09:51:36 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 09:51:45 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 28 Nov 2013 09:51:45 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 09:51:48 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 28 Nov 2013 09:52:13 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 28 Nov 2013 09:52:13 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 28 Nov 2013 09:55:13 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 09:55:14 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 09:55:14 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 09:55:14 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 09:55:15 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 09:55:15 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 09:55:19 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 09:55:19 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 09:55:20 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 09:55:23 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 09:55:23 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 09:55:29 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 09:55:29 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 09:55:33 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 28 Nov 2013 09:55:47 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Thu, 28 Nov 2013 09:55:47 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 09:55:55 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 28 Nov 2013 09:55:55 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 09:56:38 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 09:56:38 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 09:56:38 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 09:56:39 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 09:56:39 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 09:56:39 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 09:56:43 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 09:56:43 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 09:56:44 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 09:56:46 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 09:56:46 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 09:56:57 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 09:56:57 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 09:56:59 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 28 Nov 2013 09:57:07 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Thu, 28 Nov 2013 09:57:07 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 09:57:17 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 28 Nov 2013 09:57:17 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 09:57:41 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 09:57:41 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 09:57:41 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 09:57:42 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 09:57:42 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 09:57:42 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 09:57:46 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 09:57:46 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 09:57:47 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 09:58:08 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 09:58:08 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 09:58:08 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 09:58:08 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 09:58:08 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 09:58:08 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 09:58:12 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 09:58:12 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 09:58:15 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 09:58:18 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 09:58:18 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 09:58:24 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 09:58:24 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 09:58:31 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 09:58:36 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 28 Nov 2013 09:58:36 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 09:58:42 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 28 Nov 2013 09:59:08 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 28 Nov 2013 09:59:08 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 28 Nov 2013 10:03:25 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 10:03:29 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 10:03:29 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 10:03:29 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 10:03:29 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 10:03:29 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 10:03:33 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 10:03:33 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 10:03:35 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:03:38 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:03:38 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 10:03:43 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 10:03:43 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 10:03:48 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Thu, 28 Nov 2013 10:04:12 CET: class RSSThread, method run, Override interval with 5 minutes for Sports: Sports News, Scores, Analysis, Schedules & More - The Washington Post
+Thu, 28 Nov 2013 10:04:12 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 10:04:21 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 28 Nov 2013 10:04:21 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 10:08:46 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 10:08:46 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 10:08:46 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 10:08:47 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 10:08:47 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 10:08:47 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 10:08:51 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 10:08:51 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 10:08:52 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:08:57 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:08:57 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 10:09:04 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 10:09:05 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 10:09:05 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 10:09:05 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 10:09:05 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 10:09:05 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 10:09:09 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 10:09:09 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 10:09:11 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:09:13 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:09:13 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 10:09:20 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 10:09:20 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 10:09:25 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 10:09:34 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 28 Nov 2013 10:09:34 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 10:09:38 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 28 Nov 2013 10:10:01 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 28 Nov 2013 10:10:01 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 28 Nov 2013 10:10:09 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 28 Nov 2013 10:10:09 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 28 Nov 2013 10:10:39 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 10:10:40 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 10:10:40 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 10:10:41 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 10:10:41 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 10:10:41 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 10:10:44 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 10:10:44 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 10:10:46 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:10:49 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:10:50 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 10:10:56 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 10:10:56 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 10:11:00 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 10:11:09 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 10:11:12 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 10:11:12 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 10:11:13 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 10:11:13 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 10:11:13 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 10:11:16 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 10:11:16 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 10:11:17 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:11:23 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:11:23 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 10:11:28 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 10:11:28 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 10:11:30 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 10:11:33 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Thu, 28 Nov 2013 10:11:33 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Thu, 28 Nov 2013 10:11:35 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 28 Nov 2013 10:11:35 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 10:11:36 CET: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Thu, 28 Nov 2013 10:11:36 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Thu, 28 Nov 2013 10:11:41 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 28 Nov 2013 10:11:42 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Thu, 28 Nov 2013 10:11:49 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Thu, 28 Nov 2013 10:12:03 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 28 Nov 2013 10:12:03 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 28 Nov 2013 10:12:14 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 28 Nov 2013 10:12:14 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 28 Nov 2013 10:13:02 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Top Stories
+Thu, 28 Nov 2013 10:13:02 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wirtschaft/
+Thu, 28 Nov 2013 10:13:05 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Thu, 28 Nov 2013 10:13:05 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Thu, 28 Nov 2013 10:13:06 CET: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Thu, 28 Nov 2013 10:13:06 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Thu, 28 Nov 2013 10:13:12 CET: class RSSThread, method run, Override interval with 5 minutes for Wirtschaft - FAZ.NET
+Thu, 28 Nov 2013 10:13:12 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/reisen/index
+Thu, 28 Nov 2013 10:13:16 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/wissenschaft.xml
+Thu, 28 Nov 2013 10:13:18 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Thu, 28 Nov 2013 10:13:24 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/lebensart/index
+Thu, 28 Nov 2013 10:13:25 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Thu, 28 Nov 2013 10:13:28 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:13:32 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:13:32 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/beruf-chance/
+Thu, 28 Nov 2013 10:13:45 CET: class RSSThread, method run, Override interval with 5 minutes for Beruf & Chance - FAZ.NET
+Thu, 28 Nov 2013 10:13:45 CET: class RSSThread, method run, First visit: http://www.spiegel.de/netzwelt/index.rss
+Thu, 28 Nov 2013 10:16:29 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 10:16:30 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 10:16:30 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 10:16:30 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 10:16:30 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 10:16:30 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 10:16:34 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 10:16:34 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 10:16:35 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:16:38 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:16:39 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 10:16:44 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 10:16:44 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 10:16:49 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 28 Nov 2013 10:16:56 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Thu, 28 Nov 2013 10:16:56 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 10:21:13 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 10:21:14 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 10:21:14 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 10:21:14 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 10:21:14 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 10:21:14 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 10:21:20 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 10:21:20 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 10:21:21 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:21:25 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:21:25 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 10:21:39 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 10:21:39 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 10:21:43 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 28 Nov 2013 10:21:59 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Thu, 28 Nov 2013 10:21:59 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 10:22:11 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 28 Nov 2013 10:22:11 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 10:22:16 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 28 Nov 2013 10:31:42 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 10:31:42 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 10:31:42 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 10:31:43 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 10:31:43 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 10:31:43 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 10:31:46 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 10:31:46 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 10:31:48 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:31:54 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:31:55 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 10:32:02 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 10:32:02 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 10:32:07 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Thu, 28 Nov 2013 10:32:32 CET: class RSSThread, method run, Override interval with 5 minutes for Sports: Sports News, Scores, Analysis, Schedules & More - The Washington Post
+Thu, 28 Nov 2013 10:32:32 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 10:32:39 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 28 Nov 2013 10:32:39 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 10:32:46 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 28 Nov 2013 10:33:11 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 28 Nov 2013 10:33:11 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 28 Nov 2013 10:33:30 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Thu, 28 Nov 2013 10:33:30 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 28 Nov 2013 10:33:39 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 28 Nov 2013 10:33:39 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 28 Nov 2013 10:35:03 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Thu, 28 Nov 2013 10:35:03 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Thu, 28 Nov 2013 10:35:06 CET: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Thu, 28 Nov 2013 10:35:06 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Thu, 28 Nov 2013 10:35:14 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Thu, 28 Nov 2013 10:35:21 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Thu, 28 Nov 2013 10:36:28 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Top Stories
+Thu, 28 Nov 2013 10:36:28 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wirtschaft/
+Thu, 28 Nov 2013 10:36:38 CET: class RSSThread, method run, Override interval with 5 minutes for Wirtschaft - FAZ.NET
+Thu, 28 Nov 2013 10:36:38 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/reisen/index
+Thu, 28 Nov 2013 10:36:45 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/wissenschaft.xml
+Thu, 28 Nov 2013 10:36:52 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/lebensart/index
+Thu, 28 Nov 2013 10:39:29 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 10:39:29 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 10:39:29 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 10:39:30 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 10:39:30 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 10:39:30 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 10:39:33 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 10:39:33 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 10:39:36 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:39:42 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:39:42 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 10:39:57 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 10:39:57 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 10:40:02 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 10:40:13 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 28 Nov 2013 10:40:13 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 10:40:22 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 28 Nov 2013 10:40:46 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 28 Nov 2013 10:40:46 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 28 Nov 2013 10:40:59 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 28 Nov 2013 10:40:59 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 28 Nov 2013 10:43:45 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 10:43:45 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 10:43:45 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 10:43:46 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 10:43:46 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 10:43:46 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 10:43:49 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 10:43:49 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 10:43:52 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:43:54 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:43:55 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 10:44:01 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 10:44:01 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 10:44:05 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Thu, 28 Nov 2013 10:44:27 CET: class RSSThread, method run, Override interval with 5 minutes for Sports: Sports News, Scores, Analysis, Schedules & More - The Washington Post
+Thu, 28 Nov 2013 10:44:27 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 10:44:33 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 28 Nov 2013 10:44:33 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 10:44:45 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 28 Nov 2013 10:45:04 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 28 Nov 2013 10:45:04 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 28 Nov 2013 10:45:27 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Thu, 28 Nov 2013 10:45:27 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 28 Nov 2013 10:45:33 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 28 Nov 2013 10:45:33 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 28 Nov 2013 10:46:18 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Thu, 28 Nov 2013 10:46:18 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Thu, 28 Nov 2013 10:46:21 CET: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Thu, 28 Nov 2013 10:46:21 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Thu, 28 Nov 2013 10:46:23 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Thu, 28 Nov 2013 10:46:23 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Thu, 28 Nov 2013 10:51:46 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 10:51:47 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 10:51:47 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 10:51:47 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 10:51:47 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 10:51:47 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 10:51:51 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 10:51:51 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 10:51:53 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:51:58 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:51:58 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 10:52:14 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 10:52:14 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 10:52:19 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 10:52:41 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 28 Nov 2013 10:52:41 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 10:52:44 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 28 Nov 2013 10:53:03 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 28 Nov 2013 10:53:03 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Thu, 28 Nov 2013 10:53:27 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Thu, 28 Nov 2013 10:53:27 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Thu, 28 Nov 2013 10:58:26 CET: class RSSThread, method update, Start to read new subscriptions
+Thu, 28 Nov 2013 10:58:26 CET: class RSSThread, method update, Finish to read new subscriptions
+Thu, 28 Nov 2013 10:58:26 CET: class RSSThread, method update, Start to read new sources
+Thu, 28 Nov 2013 10:58:27 CET: class RSSThread, method update, Finish to read new sources
+Thu, 28 Nov 2013 10:58:27 CET: class RSSThread, method run, RSS Server started!
+Thu, 28 Nov 2013 10:58:27 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Thu, 28 Nov 2013 10:58:32 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Thu, 28 Nov 2013 10:58:32 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Thu, 28 Nov 2013 10:58:33 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:58:36 CET: class RSSParser, method genItem, Invalid time format: null
+Thu, 28 Nov 2013 10:58:37 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Thu, 28 Nov 2013 10:59:29 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Thu, 28 Nov 2013 10:59:29 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Thu, 28 Nov 2013 10:59:33 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Thu, 28 Nov 2013 11:00:02 CET: class RSSThread, method run, Override interval with 5 minutes for Sports: Sports News, Scores, Analysis, Schedules & More - The Washington Post
+Thu, 28 Nov 2013 11:00:02 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Thu, 28 Nov 2013 11:00:50 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Thu, 28 Nov 2013 11:00:50 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Thu, 28 Nov 2013 11:01:00 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Thu, 28 Nov 2013 11:01:49 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Thu, 28 Nov 2013 11:01:49 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Thu, 28 Nov 2013 11:02:02 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Thu, 28 Nov 2013 11:02:02 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Fri, 29 Nov 2013 08:36:28 CET: class RSSThread, method update, Start to read new subscriptions
+Fri, 29 Nov 2013 08:36:29 CET: class RSSThread, method update, Finish to read new subscriptions
+Fri, 29 Nov 2013 08:36:29 CET: class RSSThread, method update, Start to read new sources
+Fri, 29 Nov 2013 08:36:30 CET: class RSSThread, method update, Finish to read new sources
+Fri, 29 Nov 2013 08:36:30 CET: class RSSThread, method run, RSS Server started!
+Fri, 29 Nov 2013 08:36:30 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Fri, 29 Nov 2013 08:36:55 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Fri, 29 Nov 2013 08:36:55 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Fri, 29 Nov 2013 08:36:58 CET: class RSSParser, method genItem, Invalid time format: null
+Fri, 29 Nov 2013 08:37:06 CET: class RSSParser, method genItem, Invalid time format: null
+Fri, 29 Nov 2013 08:37:19 CET: class RSSParser, method genItem, Invalid time format: null
+Fri, 29 Nov 2013 08:37:20 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Fri, 29 Nov 2013 08:38:24 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Fri, 29 Nov 2013 08:38:24 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Fri, 29 Nov 2013 08:38:55 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Fri, 29 Nov 2013 08:39:48 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Fri, 29 Nov 2013 08:39:48 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Fri, 29 Nov 2013 08:40:09 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Fri, 29 Nov 2013 08:40:57 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Fri, 29 Nov 2013 08:40:57 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Fri, 29 Nov 2013 08:42:13 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Fri, 29 Nov 2013 08:42:13 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Fri, 29 Nov 2013 08:43:49 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Fri, 29 Nov 2013 08:43:49 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Fri, 29 Nov 2013 08:44:16 CET: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Fri, 29 Nov 2013 08:44:16 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Fri, 29 Nov 2013 08:44:42 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Fri, 29 Nov 2013 08:45:10 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Fri, 29 Nov 2013 08:47:50 CET: class RSSThread, method update, Start to read new subscriptions
+Fri, 29 Nov 2013 08:47:51 CET: class RSSThread, method update, Finish to read new subscriptions
+Fri, 29 Nov 2013 08:47:51 CET: class RSSThread, method update, Start to read new sources
+Fri, 29 Nov 2013 08:47:51 CET: class RSSThread, method update, Finish to read new sources
+Fri, 29 Nov 2013 08:47:51 CET: class RSSThread, method run, RSS Server started!
+Fri, 29 Nov 2013 08:47:51 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Fri, 29 Nov 2013 08:48:19 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Fri, 29 Nov 2013 08:48:19 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Fri, 29 Nov 2013 08:48:22 CET: class RSSParser, method genItem, Invalid time format: null
+Fri, 29 Nov 2013 08:48:29 CET: class RSSParser, method genItem, Invalid time format: null
+Fri, 29 Nov 2013 08:48:42 CET: class RSSParser, method genItem, Invalid time format: null
+Fri, 29 Nov 2013 08:48:43 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Fri, 29 Nov 2013 08:49:47 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Fri, 29 Nov 2013 08:49:47 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Fri, 29 Nov 2013 08:50:18 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Fri, 29 Nov 2013 08:51:25 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Fri, 29 Nov 2013 08:51:25 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Fri, 29 Nov 2013 08:51:50 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Fri, 29 Nov 2013 08:52:34 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Fri, 29 Nov 2013 08:52:34 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Fri, 29 Nov 2013 08:53:44 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Fri, 29 Nov 2013 08:53:44 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Fri, 29 Nov 2013 09:21:14 CET: class RSSThread, method update, Start to read new subscriptions
+Fri, 29 Nov 2013 09:21:14 CET: class RSSThread, method update, Finish to read new subscriptions
+Fri, 29 Nov 2013 09:21:14 CET: class RSSThread, method update, Start to read new sources
+Fri, 29 Nov 2013 09:21:15 CET: class RSSThread, method update, Finish to read new sources
+Fri, 29 Nov 2013 09:21:15 CET: class RSSThread, method run, RSS Server started!
+Fri, 29 Nov 2013 09:21:15 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Fri, 29 Nov 2013 09:21:40 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Fri, 29 Nov 2013 09:21:40 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Fri, 29 Nov 2013 09:21:44 CET: class RSSParser, method genItem, Invalid time format: null
+Fri, 29 Nov 2013 09:21:50 CET: class RSSParser, method genItem, Invalid time format: null
+Fri, 29 Nov 2013 09:22:01 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Fri, 29 Nov 2013 09:23:03 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Fri, 29 Nov 2013 09:23:03 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Fri, 29 Nov 2013 09:23:34 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Fri, 29 Nov 2013 09:24:28 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Fri, 29 Nov 2013 09:24:28 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Fri, 29 Nov 2013 09:25:31 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Fri, 29 Nov 2013 09:25:31 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Fri, 29 Nov 2013 09:25:51 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Fri, 29 Nov 2013 09:37:18 CET: class RSSThread, method update, Start to read new subscriptions
+Fri, 29 Nov 2013 09:37:18 CET: class RSSThread, method update, Finish to read new subscriptions
+Fri, 29 Nov 2013 09:37:18 CET: class RSSThread, method update, Start to read new sources
+Fri, 29 Nov 2013 09:37:19 CET: class RSSThread, method update, Finish to read new sources
+Fri, 29 Nov 2013 09:37:19 CET: class RSSThread, method run, RSS Server started!
+Fri, 29 Nov 2013 09:37:19 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Fri, 29 Nov 2013 09:37:47 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Fri, 29 Nov 2013 09:37:47 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Fri, 29 Nov 2013 09:37:52 CET: class RSSParser, method genItem, Invalid time format: null
+Fri, 29 Nov 2013 09:38:00 CET: class RSSParser, method genItem, Invalid time format: null
+Fri, 29 Nov 2013 09:38:13 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Fri, 29 Nov 2013 09:39:13 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Fri, 29 Nov 2013 09:39:13 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Fri, 29 Nov 2013 09:39:45 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Fri, 29 Nov 2013 09:40:57 CET: class RSSThread, method run, Override interval with 5 minutes for Sports: Sports News, Scores, Analysis, Schedules & More - The Washington Post
+Fri, 29 Nov 2013 09:40:57 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Fri, 29 Nov 2013 09:42:09 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Fri, 29 Nov 2013 09:42:09 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Fri, 29 Nov 2013 09:42:32 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Fri, 29 Nov 2013 09:43:41 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Fri, 29 Nov 2013 09:43:41 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Fri, 29 Nov 2013 09:44:40 CET: class RSSThread, method run, Override interval with 5 minutes for Post Politics: Breaking Politics News, Political Analysis & More - The Washington Post
+Fri, 29 Nov 2013 09:44:40 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Tue, 03 Dec 2013 16:18:38 CET: class RSSThread, method update, Start to read new sources
+Tue, 03 Dec 2013 16:18:39 CET: class RSSThread, method update, Finish to read new sources
+Tue, 03 Dec 2013 16:18:39 CET: class RSSThread, method update, Start to read new subscriptions
+Tue, 03 Dec 2013 16:18:39 CET: class RSSThread, method update, Finish to read new subscriptions
+Tue, 03 Dec 2013 16:18:39 CET: class RSSThread, method run, RSS Server started!
+Tue, 03 Dec 2013 16:18:39 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Tue, 03 Dec 2013 16:18:47 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Tue, 03 Dec 2013 16:18:47 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Tue, 03 Dec 2013 16:18:53 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Tue, 03 Dec 2013 16:20:24 CET: class RSSThread, method update, Start to read new sources
+Tue, 03 Dec 2013 16:20:26 CET: class RSSThread, method update, Finish to read new sources
+Tue, 03 Dec 2013 16:20:26 CET: class RSSThread, method update, Start to read new subscriptions
+Tue, 03 Dec 2013 16:20:26 CET: class RSSThread, method update, Finish to read new subscriptions
+Tue, 03 Dec 2013 16:20:26 CET: class RSSThread, method run, RSS Server started!
+Tue, 03 Dec 2013 16:20:26 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Tue, 03 Dec 2013 16:20:30 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Tue, 03 Dec 2013 16:20:30 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Tue, 03 Dec 2013 16:20:40 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Tue, 03 Dec 2013 16:20:45 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Tue, 03 Dec 2013 16:20:45 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Tue, 03 Dec 2013 16:20:50 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Tue, 03 Dec 2013 16:20:57 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Tue, 03 Dec 2013 16:20:57 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Tue, 03 Dec 2013 16:21:01 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Tue, 03 Dec 2013 16:25:38 CET: class RSSThread, method update, Start to read new sources
+Tue, 03 Dec 2013 16:25:39 CET: class RSSThread, method update, Finish to read new sources
+Tue, 03 Dec 2013 16:25:39 CET: class RSSThread, method update, Start to read new subscriptions
+Tue, 03 Dec 2013 16:25:39 CET: class RSSThread, method update, Finish to read new subscriptions
+Tue, 03 Dec 2013 16:25:39 CET: class RSSThread, method run, RSS Server started!
+Tue, 03 Dec 2013 16:25:39 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Tue, 03 Dec 2013 16:26:34 CET: class RSSThread, method update, Start to read new sources
+Tue, 03 Dec 2013 16:26:35 CET: class RSSThread, method update, Finish to read new sources
+Tue, 03 Dec 2013 16:26:35 CET: class RSSThread, method update, Start to read new subscriptions
+Tue, 03 Dec 2013 16:26:35 CET: class RSSThread, method update, Finish to read new subscriptions
+Tue, 03 Dec 2013 16:26:35 CET: class RSSThread, method run, RSS Server started!
+Tue, 03 Dec 2013 16:26:35 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/finanzen/
+Tue, 03 Dec 2013 16:27:08 CET: class RSSThread, method run, Override interval with 5 minutes for Finanzen - FAZ.NET
+Tue, 03 Dec 2013 16:27:08 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/gesellschaft/index
+Tue, 03 Dec 2013 16:27:12 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/sport/
+Tue, 03 Dec 2013 16:27:19 CET: class RSSThread, method run, Override interval with 5 minutes for Sport - FAZ.NET
+Tue, 03 Dec 2013 16:27:19 CET: class RSSThread, method run, First visit: http://www.spiegel.de/sport/index.rss
+Tue, 03 Dec 2013 16:27:24 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/politics
+Tue, 03 Dec 2013 16:27:36 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/gesellschaft/
+Tue, 03 Dec 2013 16:27:43 CET: class RSSThread, method run, Override interval with 5 minutes for Gesellschaft - FAZ.NET
+Tue, 03 Dec 2013 16:27:43 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wissen/index
+Tue, 03 Dec 2013 16:27:49 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_technology.rss
+Tue, 03 Dec 2013 16:28:13 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Technology
+Tue, 03 Dec 2013 16:28:13 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_entertainment.rss
+Tue, 03 Dec 2013 16:29:09 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Entertainment
+Tue, 03 Dec 2013 16:29:09 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/feuilleton/
+Tue, 03 Dec 2013 16:29:14 CET: class RSSThread, method run, Override interval with 5 minutes for Feuilleton - FAZ.NET
+Tue, 03 Dec 2013 16:29:14 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wissen/
+Tue, 03 Dec 2013 16:29:16 CET: class RSSThread, method run, Override interval with 5 minutes for Wissen - FAZ.NET
+Tue, 03 Dec 2013 16:29:16 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/digital/index
+Tue, 03 Dec 2013 16:29:26 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/politik.xml
+Tue, 03 Dec 2013 16:29:34 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition.rss
+Tue, 03 Dec 2013 16:31:27 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Top Stories
+Tue, 03 Dec 2013 16:31:27 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/wirtschaft/
+Tue, 03 Dec 2013 16:31:31 CET: class RSSThread, method run, Override interval with 5 minutes for Wirtschaft - FAZ.NET
+Tue, 03 Dec 2013 16:31:31 CET: class RSSThread, method run, First visit: http://www.main-netz.de/rss/wissenschaft.xml
+Tue, 03 Dec 2013 16:31:37 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/reisen/index
+Tue, 03 Dec 2013 16:31:44 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/beruf-chance/
+Tue, 03 Dec 2013 16:31:48 CET: class RSSThread, method run, Override interval with 5 minutes for Beruf & Chance - FAZ.NET
+Tue, 03 Dec 2013 16:31:48 CET: class RSSThread, method run, First visit: http://www.spiegel.de/netzwelt/index.rss
+Tue, 03 Dec 2013 16:31:53 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/lebensart/index
+Tue, 03 Dec 2013 16:31:53 CET: class RSSParser, method genItem, Invalid time format: null
+Tue, 03 Dec 2013 16:31:55 CET: class RSSParser, method genItem, Invalid time format: null
+Tue, 03 Dec 2013 16:31:56 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/politik/
+Tue, 03 Dec 2013 16:32:04 CET: class RSSThread, method run, Override interval with 5 minutes for Politik - FAZ.NET
+Tue, 03 Dec 2013 16:32:04 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_business.rss
+Tue, 03 Dec 2013 16:33:10 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Business
+Tue, 03 Dec 2013 16:33:10 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/sport/index
+Tue, 03 Dec 2013 16:33:14 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_space.rss
+Tue, 03 Dec 2013 16:33:19 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Science and Space
+Tue, 03 Dec 2013 16:33:19 CET: class RSSThread, method run, First visit: http://rss.cnn.com/rss/edition_sport.rss
+Tue, 03 Dec 2013 16:36:58 CET: class RSSThread, method run, Override interval with 10 minutes for CNN.com - Sport
+Tue, 03 Dec 2013 16:36:58 CET: class RSSThread, method run, First visit: http://feeds.washingtonpost.com/rss/sports
+Tue, 03 Dec 2013 16:37:16 CET: class RSSThread, method run, Override interval with 5 minutes for Sports: Sports News, Scores, Analysis, Schedules & More - The Washington Post
+Tue, 03 Dec 2013 16:37:16 CET: class RSSThread, method run, First visit: http://www.faz.net/rss/aktuell/reise/
+Tue, 03 Dec 2013 16:37:18 CET: class RSSThread, method run, Override interval with 5 minutes for Reise - FAZ.NET
+Tue, 03 Dec 2013 16:37:18 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/kultur/index
+Tue, 03 Dec 2013 16:37:20 CET: class RSSParser, method genItem, Invalid time format: null
+Tue, 03 Dec 2013 16:37:24 CET: class RSSParser, method genItem, Invalid time format: null
+Tue, 03 Dec 2013 16:37:27 CET: class RSSThread, method run, First visit: http://www.spiegel.de/wirtschaft/index.rss
+Tue, 03 Dec 2013 16:37:33 CET: class RSSThread, method run, First visit: http://newsfeed.zeit.de/wirtschaft/index
+Tue, 03 Dec 2013 16:37:36 CET: class RSSParser, method genItem, Invalid time format: null
+Tue, 03 Dec 2013 16:37:40 CET: class RSSThread, method run, First visit: http://www.spiegel.de/wissenschaft/index.rss
+Tue, 03 Dec 2013 16:37:45 CET: class RSSThread, method run, First visit: http://www.spiegel.de/politik/index.rss

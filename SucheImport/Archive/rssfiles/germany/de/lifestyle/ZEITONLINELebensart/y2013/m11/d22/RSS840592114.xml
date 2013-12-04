@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Lebensart</title>
+<description>Die Lust am Leben: Aktuelle Berichte, Ratgeber und Kolumnen rund um die Themen Mode, Essen, Trinken und Partnerschaft.</description>
+<pubDate>Mon, 02 Dec 2013 15:14:49 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:36:19 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/lebensart/index</link>
+<atom:link href="http://newsfeed.zeit.de/lebensart/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Lebensart</title>
+      <link>http://www.zeit.de/lebensart/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/video/2013-11/2851344814001</link>
+      <guid>http://www.zeit.de/video/2013-11/2851344814001</guid>
+      <category>Lebensart</category>
+      <title>Serie Talking Fashion: Ed Hardy über die Philosophie des Tattoos</title>
+      <description>Ed Hardy hat Tätowierungen zur populären Kunst gemacht. Welche Rolle sie in der heutigen Konsumgesellschaft spielen, erzählt er in einer neuen Folge unserer Mode-Serie Talking Fashion (auf englisch).</description>
+      <dc:creator>ZEIT ONLINE : Lebensart</dc:creator>
+      <pubDate>Fri, 22 Nov 2013 07:54:31 GMT</pubDate>
+    <ExtractedText>Serie Talking Fashion: Ed Hardy über die Philosophie des Tattoos
+Serie Talking FashionEd Hardy über die Philosophie des Tattoos
+3. Dezember 2013  09:37 Uhr 
+Ed Hardy hat Tätowierungen zur populären Kunst gemacht. Welche Rolle sie in der heutigen Konsumgesellschaft spielen, erzählt er in einer neuen Folge unserer Mode-Serie Talking Fashion (auf englisch).
+ 
+</ExtractedText>
+</item>
+</channel>
+</rss>

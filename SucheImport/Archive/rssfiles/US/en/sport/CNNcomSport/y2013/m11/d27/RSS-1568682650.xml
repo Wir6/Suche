@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 06:36:13 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition_sport" rel="self" type="application/rss+xml"/>
+<feedburner:info uri="rss/edition_sport"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Ballon d'Or U-turn helps Ronaldo</title>
+<guid isPermaLink="false">http://edition.cnn.com/2013/11/20/sport/football/football-ballon-dor-ronaldo-fifa/index.html</guid>
+<link>http://rss.cnn.com/~r/rss/edition_sport/~3/EHFriA9yGw8/index.html</link>
+<description>First he mocked him, then he praised him and now FIFA President Sepp Blatter has handed Cristiano Ronaldo his best chance of winning his second World Footballer of the Year award.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_sport/~4/EHFriA9yGw8" height="1" width="1"/&gt;</description>
+<pubDate>Wed, 27 Nov 2013 07:06:49 EST</pubDate>
+<feedburner:origLink>http://edition.cnn.com/2013/11/20/sport/football/football-ballon-dor-ronaldo-fifa/index.html</feedburner:origLink>
+<ExtractedText>Ballon d'Or U-turn puts Ronaldo in driving seat
+November 20, 2013 -- Updated 2356 GMT (0756 HKT)
+The Portuguese could be officially named the world's best footballer for the first time since 2008 after a stunning year in which he has scored 66 goals in 55 games. He finished top scorer in last season's Champions League and has plundered 32 goals from his opening 20 games of the new term.
+Having made the trophy his own in recent years, the Argentinian could lose it for the first time since winning his inaugural title in 2009. He won his sixth La Liga crown in May, scoring 46 goals in 32 league games, and started this season with 11 goals from 8 games in all competitions -- but a hamstring injury means he is unable to prove his considerable worth while the voting window is still open.
+The haul of trophies won with Bayern Munich last season has made the Frenchman a leading contender. A league and cup double was followed by a stunning night at Wembley, when the Germans beat compatriots Borussia Dortmund in a thrilling Champions League final.
+The giant Swede has been in sparking form for both club and country. He finished the French 2012-2013 season as the league's top scorer, with 30 goals, as Paris Saint-Germain won their first title in two decades. His form has continued since and it's not just his number of goals but the way in which they are scored that have attracted a host of admirers - as exemplified by recent strikes against Anderlecht and Bastia.
+The Brazilian was the stand-out performer at this year's major international competition: the Confederations cup. Going into the event with constant questions about his ability, he started to answer them after just three minutes - firing home a beauty against Japan. Three more goals would follow, including one in the final as the hosts crushed world champions Spain 3-0. Has adjusted quickly to life at Barcelona in his first season of European football.
+If not one of the previous five contenders, who do you believe should get their hands on the Ballon d'Or in 2013? Let us know below...
+HIDE CAPTION
+</ExtractedText>
+</item>
+</channel>
+</rss>

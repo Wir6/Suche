@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Reisen</title>
+<description>Erholsame Reisen - Online Reiseberichte, Bildergalerien von Reisen und Urlaubstipps von Experten für die gute Reise in den Urlaub. Nachrichten und Informationen</description>
+<pubDate>Tue, 03 Dec 2013 13:56:57 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:37:15 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/reisen/index</link>
+<atom:link href="http://newsfeed.zeit.de/reisen/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Reisen</title>
+      <link>http://www.zeit.de/reisen/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/reisen/2013-11/fs-salzburg-stadt-oesterreich-stille-2</link>
+      <guid>http://www.zeit.de/reisen/2013-11/fs-salzburg-stadt-oesterreich-stille-2</guid>
+      <category>Reisen</category>
+      <title>Salzburg: Und plötzlich sind alle Menschen weg</title>
+      <description>&lt;a href="http://www.zeit.de/reisen/2013-11/fs-salzburg-stadt-oesterreich-stille-2"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/reisen/2013-11/fs-salzburg-stadt-oesterreich-stille-teaser/fs-salzburg-stadt-oesterreich-stille-teaser-148x84.jpg"/&gt;&lt;/a&gt; Die Fotos von Jens Riecke zeigen Salzburg so, wie man es selten sieht: ohne Touristen, ohne Verkehr. Tag und Nacht war der Deutsche unterwegs, um die Stadt so abzubilden.</description>
+      <dc:creator>ZEIT ONLINE : Reisen</dc:creator>
+      <pubDate>Sat, 30 Nov 2013 08:38:03 GMT</pubDate>
+    <ExtractedText>1 von 13 Zurück Vorwärts
+Salzburg:
+Und plötzlich sind alle Menschen weg
+Universitätsplatz  |           © Jens Riecke
+Keine Herumsteher vor Mozarts Geburtshaus, keine Passanten in der Wiener-Philharmoniker-Gasse. Der deutsche Fotograf Jens Riecke hat in der Touristenstadt Salzburg Momente abgepasst, in denen niemand zu sehen war. Seine Fotos, die in dem Buch Silent Space Salzburg ( Verlag Anton Pustet ) erschienen sind, werfen eine Frage auf: Was ist hier passiert? Leere und Stillstand geben die Gebäude den Blicken preis. In der Intimität des Öffentlichen wird der Betrachter zum Voyeur. 
+Die neuesten Fotostrecken:
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Mehr aus Forschung und Wissenschaft</title>
+<description>Nachrichten und Analysen zu Wissenschaft, Forschung, Gesundheit, Umwelt und Geschichte. Lesen Sie aktuelle Informationen aus dem Ressort Wissen.</description>
+<pubDate>Tue, 03 Dec 2013 13:48:41 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:26:49 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/wissen/index</link>
+<atom:link href="http://newsfeed.zeit.de/wissen/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Mehr aus Forschung und Wissenschaft</title>
+      <link>http://www.zeit.de/wissen/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/video/2013-12/2886319672001</link>
+      <guid>http://www.zeit.de/video/2013-12/2886319672001</guid>
+      <category>Wissen</category>
+      <title>Wissenschaft: Forscher ergründen tiefen Paarungsruf der Koalas</title>
+      <description>Der tiefe Paarungsruf der Koalamännchen scheint nicht zu ihrer kleinen Statur zu passen. Nun haben Wissenschaftler ein bisher unbekanntes Organ entdeckt, das für die Laute verantwortlich sein soll.</description>
+      <dc:creator>ZEIT ONLINE : Wissen</dc:creator>
+      <pubDate>Tue, 03 Dec 2013 09:37:27 GMT</pubDate>
+    <ExtractedText>Wissenschaft: Forscher ergründen tiefen Paarungsruf der Koalas
+WissenschaftForscher ergründen tiefen Paarungsruf der Koalas
+3. Dezember 2013  12:06 Uhr  1 Kommentar
+Der tiefe Paarungsruf der Koalamännchen scheint nicht zu ihrer kleinen Statur zu passen. Nun haben Wissenschaftler ein bisher unbekanntes Organ entdeckt, das für die Laute verantwortlich sein soll.
+ 
+</ExtractedText>
+</item>
+</channel>
+</rss>

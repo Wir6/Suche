@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Sport</title>
+<description>Alles rund um den Sport: Informationen, News und Reportagen zu den Themen Fußball, Formel 1, Tennis, Radsport und Handball sowie Live-Ticker zur Fußball-Bundesliga.</description>
+<pubDate>Tue, 03 Dec 2013 15:34:08 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:38:30 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/sport/index</link>
+<atom:link href="http://newsfeed.zeit.de/sport/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Sport</title>
+      <link>http://www.zeit.de/sport/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/sport/2013-11/pistorius-fussball-fans-gewalt-stadion-modell</link>
+      <guid>http://www.zeit.de/sport/2013-11/pistorius-fussball-fans-gewalt-stadion-modell</guid>
+      <category>Sport</category>
+      <title>Fan-Gewalt: Tickets nur noch gegen gutes Benehmen</title>
+      <description>&lt;a href="http://www.zeit.de/sport/2013-11/pistorius-fussball-fans-gewalt-stadion-modell"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/sport/2013-11/Hannover-96-Eintracht-Braunschweig/Hannover-96-Eintracht-Braunschweig-148x84.jpg"/&gt;&lt;/a&gt; Niedersachsens Innenminister Pistorius will ein neues Modell gegen Gewalt unter Fussballfans erproben. Tickets für Risikospiele bekommt demnach nur, wer sich registriert.</description>
+      <dc:creator>ZEIT ONLINE : Sport</dc:creator>
+      <pubDate>Sat, 30 Nov 2013 09:07:22 GMT</pubDate>
+    <ExtractedText>Fussball: Neues Ticket-System gegen Gewalt im Stadion
+Fan-Gewalt: Tickets nur noch gegen gutes Benehmen
+Niedersachsens Innenminister Pistorius will ein neues Modell gegen Gewalt unter Fussballfans erproben. Tickets für Risikospiele bekommt demnach nur, wer sich registriert.
+30. November 2013  10:06 Uhr  41 Kommentare
+Anhänger von Eintracht Braunschweig zündeten bei dem Spiel gegen Hannover 96 am 8. November Pyrotechnik auf der Tribüne. (Archiv)   |  © Jochen Lübke/dpa
+Der niedersächsische Innenminister Boris Pistorius (SPD) will zur Eindämmung der Gewalt von Fußballfans das niederländische Modell in Deutschland erproben. Dieses Modell sehe vor, dass bei einem als riskant geltenden Spiel alle anreisenden Fans ihre Karten erst nach einer Identifizierung am Spielort ausgehändigt bekommen, sagte Pistorius der Neuen Osnabrücker Zeitung am Samstag. "Zu den Bedingungen zählt insbesondere eine geregelte Anreise, etwa mit Sonderbussen." Diese müsse bei der Kartenübergabe nachgewiesen werden.
+In den Niederlanden habe das Modell Erfolg, sagte Pistorius. Denn bei der Anreise und außerhalb des Stadions komme es üblicherweise zu den größten Problemen. Pistorius ist derzeit der Vorsitzende der Innenministerkonferenz. Auf dem Treffen mit seinen Ressortkollegen ab Mittwoch kommender Woche in Osnabrück wolle er diesen Vorschlag zur Diskussion stellen. Anschließend werde er ihn auch dem Deutschen Fußball Bund (DFB) und der Deutschen Fußball Liga (DFL) präsentieren, kündigte Pistorius an. "Ich erwarte, dass er zumindest erprobt wird."
+Anzeige
+"Die Gewalt dürfen wir nicht hinnehmen", sagte Pistorius mit Blick auf Ausschreitungen wie unlängst in Hannover oder Dortmund. "Den Tätern ist es völlig egal, wie die Polizei sich verhält, und ob Unbeteiligte und Kinder in der Nähe sind." Wer so etwas sehe, fühle sich wie im Krieg. "Vermummte Gewalttäter, Hubschrauber kreisen, Einsatzkräfte überall: Das kann man keiner Stadt mehr zumuten", sagte Pistorius.
+Die Bemühungen der Vereine seien gut und richtig. Aber: "Wenn es um rohe Gewalt geht, helfen keine Fanprojekte", sagte Pistorius.
+</ExtractedText>
+</item>
+</channel>
+</rss>

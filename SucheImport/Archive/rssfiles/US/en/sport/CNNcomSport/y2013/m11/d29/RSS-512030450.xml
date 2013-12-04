@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 06:36:13 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition_sport" rel="self" type="application/rss+xml"/>
+<feedburner:info uri="rss/edition_sport"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Nazi hounded president honored</title>
+<guid isPermaLink="false">http://edition.cnn.com/2013/11/29/sport/football/football-bayern-munich-landauer-honor/index.html</guid>
+<link>http://rss.cnn.com/~r/rss/edition_sport/~3/Z95jiWjkQjc/index.html</link>
+<description>A former solider and concentration camp prisoner, the life and legacy of Kurt Landauer is honored by Bayern Munich.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_sport/~4/Z95jiWjkQjc" height="1" width="1"/&gt;</description>
+<pubDate>Fri, 29 Nov 2013 08:58:45 EST</pubDate>
+<feedburner:origLink>http://edition.cnn.com/2013/11/29/sport/football/football-bayern-munich-landauer-honor/index.html</feedburner:origLink>
+<ExtractedText>Bayern Munich honor president persecuted by Nazis
+November 29, 2013 -- Updated 1429 GMT (2229 HKT)
+The late Kurt Landauer takes his place in Bayern Munich history as he is made an honorary president.
+STORY HIGHLIGHTS
+Bayern Munich name Kurt Landauer as one of its three honorary club presidents
+Landauer served as the German club's president four times between 1913 and 1951
+In 1938, Landauer was sent to a concentration camp by the Nazi regime
+He died in 1961 but is credited as one on the club's founding fathers
+(CNN) -- Bayern Munich has honored the remarkable life of its former president Kurt Landauer, who was hounded out of office 80 years ago by the Nazi regime and sent to a concentration camp.
+During four terms as president of the German football club, Landauer is credited with establishing Bayern as an international force and nurturing the club's youth policy.
+The legacy of Landauer, who served as a soldier for the German army in World War I but was later imprisoned in Dachau, is to be remembered by the club, who has named him as Bayern's third honorary president.
+"This accolade is long overdue," said club president Uli Hoeness during a presentation to Landauer's nephew Uri Siegel, his only surviving relative.
+"For my uncle, there was only ever FC Bayern," Siegel recalled on the Bayern Munich website .
+From civil war to the football pitch
+Are German teams the best in Europe?
+Do Bayern Munich need Pep Guardiola?
+Landauer was born into a Jewish family in 1884 and at the turn of the 20th Century was playing for Bayern Munich's youth team.
+His football career was cut short when he left for Switzerland to train as a banker but when he returned to Munich he was soon elected as president of Bayern in 1913.
+The outbreak of World War I interrupted Landauer's term and he left to serve in the German army.
+After the war, Landauer again took up the post of club president in 1919 and it was during this period he established his legacy with the club.
+Founding father
+"The president, who favored investment in the team rather than the construction of a stadium demanded by a section of the membership, rates to this day as one of the founding fathers of the club's widely-admired youth policy," explained Bayern Munich's website.
+Bayern also won their first domestic title under Landauer's tenure in 1932.
+But the following year with the rise of the Nazi regime in Germany and its extreme anti-Semitic policies soon brought a dark shadow over the club's achievements.
+The Nazi authorities branded Bayern a "Jewish club" and the club lost team members and fans, and fell back in the national rankings.
+Read: Football grapples with anti-Semitism storm
+Landauer resigned the presidency and in 1938 he was arrested and sent to a concentration camp.
+His service as a solider during World War I meant he was released after 33 days and he left for Switzerland.
+However, his three brothers all died under the Nazi regime, while his sister Gabriele was deported and is still officially listed as missing.
+Auschwitz goalkeeper
+Landauer returned to Munich in 1947 and resumed presidency of his beloved Bayern in 1947 to 1951. He died 10 years later at the age of 77.
+The former youth player and four time club president has joined player Franz Beckenbauer -- star of the team which won three European Cupss in the mid-Seventies -- and former president Wilhelm Neudecker as Bayern's only honorary presidents.
+"His efforts were pioneering during an extremely difficult time for FC Bayern," Bayern chairman Karl-Heinz Rummenigge recalled in 2009.
+"He experienced things which so many people unfortunately experienced in those times. We must do everything necessary to prevent times like that happening ever again.
+"Remembrance is a vital component in that."
+In Britain, a former prisoner of war, Ron Jones, has also detailed his painful memories of football under the Nazi regime in a new memoir.
+The 96-year-old recounts his experiences in the Auschwitz death camp where he and fellow British soldiers formed a football team.
+His story has been published in a 2013 book called The Auschwitz Goalkeeper.
+</ExtractedText>
+</item>
+</channel>
+</rss>

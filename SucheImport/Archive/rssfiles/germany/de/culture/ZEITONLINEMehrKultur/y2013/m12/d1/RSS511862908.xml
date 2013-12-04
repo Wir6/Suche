@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Mehr Kultur</title>
+<description>Aktuelle Kultur-Nachrichten, Informationen und Interviews rund um die Themen Kultur, Feuilleton, Literatur, Kunst, Film und Musik. Dazu Reportagen und Kritiken.</description>
+<pubDate>Tue, 03 Dec 2013 09:52:10 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:41:27 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/kultur/index</link>
+<atom:link href="http://newsfeed.zeit.de/kultur/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Mehr Kultur</title>
+      <link>http://www.zeit.de/kultur/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/kultur/kunst/2013-11/fs-lydia-goldblatt-still-here-hatje-cantz</link>
+      <guid>http://www.zeit.de/kultur/kunst/2013-11/fs-lydia-goldblatt-still-here-hatje-cantz</guid>
+      <category>Kultur</category>
+      <title>Fotografin Lydia Goldblatt: Im Alter das Leben lieben</title>
+      <description>&lt;a href="http://www.zeit.de/kultur/kunst/2013-11/fs-lydia-goldblatt-still-here-hatje-cantz"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/kultur/kunst/2013-11/fs-lydia-goldblatt-still-here-teaser/fs-lydia-goldblatt-still-here-teaser-148x84.jpg"/&gt;&lt;/a&gt; Wie wollen wir uns an die Eltern erinnern? Die Fotografin Lydia Goldblatt trotzt der Vergänglichkeit ein Gefühl der Geborgenheit ab. Ein Band versammelt ihre Bilder.</description>
+      <dc:creator>ZEIT ONLINE : Kultur</dc:creator>
+      <pubDate>Sun, 01 Dec 2013 19:21:47 GMT</pubDate>
+    <ExtractedText>3. Hochinteressant, diese ersten beiden Anmerkungen.
+Ich war auch zunächst überrascht (einbeziehend, dass dies nur neun Bilder aus einem Bilderband sind), aber spätestens bei der Armbanduhr habe ich mich gefragt: wie sonst? Gerade das quasi Freigestellte der Uhr in diesem weissen Umfeld macht die Wölbung, das Getragene des Lederarmbands so überdeutlich. Das abwesende Handgelenk scheint so zerbrechlich...
+Die Kühle mag einem gewissen New Yorker Ambiente geschuldet sein, ich musste sofort an Joan Didion denken.
+Wie man aber "Fatalismus, der die Frage, was nach dem Tod kommt, ausschliesst" so kategorisch behaupten kann, erschliesst sich mir nicht. Das scheint mir dann doch eine Projektion zu sein, die letztenendes jeder Bildbetrachtung innewohnt.
+Eine Leserempfehlung
+</ExtractedText>
+</item>
+</channel>
+</rss>

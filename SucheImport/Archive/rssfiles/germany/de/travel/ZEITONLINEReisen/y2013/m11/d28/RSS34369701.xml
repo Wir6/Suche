@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Reisen</title>
+<description>Erholsame Reisen - Online Reiseberichte, Bildergalerien von Reisen und Urlaubstipps von Experten für die gute Reise in den Urlaub. Nachrichten und Informationen</description>
+<pubDate>Tue, 03 Dec 2013 13:56:57 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:37:15 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/reisen/index</link>
+<atom:link href="http://newsfeed.zeit.de/reisen/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Reisen</title>
+      <link>http://www.zeit.de/reisen/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/reisen/2013-11/fs-tide-hallig-nordsee-antony-sojka-2</link>
+      <guid>http://www.zeit.de/reisen/2013-11/fs-tide-hallig-nordsee-antony-sojka-2</guid>
+      <category>Reisen</category>
+      <title>Nordsee-Halligen: Eine Insel mit zwei Menschen</title>
+      <description>&lt;a href="http://www.zeit.de/reisen/2013-11/fs-tide-hallig-nordsee-antony-sojka-2"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/reisen/2013-11/fs-tide-hallig-nordsee-antony-sojka-teaser-2/fs-tide-hallig-nordsee-antony-sojka-teaser-2-148x84.jpg"/&gt;&lt;/a&gt; Die Halligen vor der Nordseeküste sind kleine einsame Orte, einige nur einen halben Quadratkilometer groß. Wer hier lebt? Antony Sojka hat die Bewohner fotografiert.</description>
+      <dc:creator>ZEIT ONLINE : Reisen</dc:creator>
+      <pubDate>Thu, 28 Nov 2013 11:36:36 GMT</pubDate>
+    <ExtractedText>1 von 17 Zurück Vorwärts
+Nordsee-Halligen:
+© Antony Sojka
+Ungeschützt liegen die Halligen in der Nordsee: Bei Sturmflut tauchen sie unter, bis auf die Hügel, auf denen die Häuser stehen. Auf der kleinsten leben nur zwei Menschen. Die Bewohner genießen große Freiheit, das Meer direkt vor dem Fenster – und sind doch eingeschränkt und angewiesen auf das Schiff, sobald sie auch nur etwas einkaufen wollen. Der Fotograf Antony Sojka hat das Leben auf den Mini-Inseln dokumentiert.
+Die neuesten Fotostrecken:
+</ExtractedText>
+</item>
+</channel>
+</rss>

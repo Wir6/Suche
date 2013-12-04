@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Mehr aus Forschung und Wissenschaft</title>
+<description>Nachrichten und Analysen zu Wissenschaft, Forschung, Gesundheit, Umwelt und Geschichte. Lesen Sie aktuelle Informationen aus dem Ressort Wissen.</description>
+<pubDate>Tue, 03 Dec 2013 13:48:41 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:26:49 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/wissen/index</link>
+<atom:link href="http://newsfeed.zeit.de/wissen/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Mehr aus Forschung und Wissenschaft</title>
+      <link>http://www.zeit.de/wissen/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/2013/48/stimmts-gewinde-fahrradpedale</link>
+      <guid>http://www.zeit.de/2013/48/stimmts-gewinde-fahrradpedale</guid>
+      <category>Wissen</category>
+      <title>Kolumne Stimmt's?: Sind Gewinde von Fahrradpedalen extra falsch herum?</title>
+      <description>&lt;a href="http://www.zeit.de/2013/48/stimmts-gewinde-fahrradpedale"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/wissen/2013-11/fahrrad-pedale-3/fahrrad-pedale-3-148x84.jpg"/&gt;&lt;/a&gt; Die Schrauben von Fahrradpedalen werden nicht locker. Ein besonderer Kniff sorgt dafür, dass sich die Pedale beim Radeln und Strampeln selbst wieder fest ziehen.</description>
+      <dc:creator>ZEIT ONLINE : Wissen - Christoph Drösser</dc:creator>
+      <pubDate>Thu, 21 Nov 2013 06:00:00 GMT</pubDate>
+    <ExtractedText>Stimmt's?: Haben die Gewinde von Fahrradpedalen genau die falsche Richtung?
+Stimmt's?: Haben die Gewinde von Fahrradpedalen genau die falsche Richtung?
+... fragt Franz Beslmeisl aus Wetzlar. von  Christoph Drösser
+30. November 2013  20:34 Uhr  18 Kommentare
+Die Gewinde, mit denen die Pedale in die Tretkurbeln geschraubt werden, haben auf beiden Seiten einen unterschiedlichen Drehsinn: Das rechte Pedal hat ein (gewöhnliches) Rechtsgewinde, das linke Pedal ein Linksgewinde. Die Begründung dafür: So soll verhindert werden, dass sich das Pedal beim Treten löst.
+Aber Moment mal, sagen manche: Wenn ich vorwärts radele, dann bewegt sich doch das rechte Pedal relativ zur rechten Tretkurbel gegen den Uhrzeigersinn – und das ist gerade die Richtung, in der man ein Rechtsgewinde löst. Haben sich die Konstrukteure da vertan?
+Anzeige
+Natürlich nicht. Die Linksdrehung kann das Pedal nur dann herausschrauben, wenn es schon sehr locker ist. Ansonsten dreht es sich ja in seinem Lager und überträgt keine Kraft aufs Gewinde.
+Serie: Stimmt's?
+Für weitere Artikel zur Serie "Stimmt's?" klicken Sie auf dieses Bild  |  © Jeff J. Mitchell/Getty Images
+Hier geht es um eine andere Bewegung. Machen Sie einmal folgendes Experiment: Stecken Sie einen Bleistift locker waagerecht in Ihre linke Faust – das soll jetzt die Pedalachse sein. Üben Sie ständig Druck von oben auf den Bleistift aus, und machen Sie nun mit der Faust eine rotierende Vorwärtsbewegung.
+Was macht dann der Bleistift? Wenn er locker genug sitzt, rollt er sich in der Faust ab und dreht sich dabei – und zwar im Uhrzeigersinn! Genau diese "Taumelbewegung" macht auch ein lockeres Pedal am Fahrrad, es zieht sich damit selbsttätig wieder fest. Und damit das auch am linken Pedal funktioniert, muss das ein Linksgewinde haben.
+Die Adressen für "Stimmt’s"-Fragen: DIE ZEIT, Stimmt's?, 20079  Hamburg oder stimmts@zeit.de . Das "Stimmt's?"-Archiv: www.zeit.de/stimmts
+Diesen Artikel finden Sie als Audiodatei im Premiumbereich unter www.zeit.de/audio
+</ExtractedText>
+</item>
+</channel>
+</rss>

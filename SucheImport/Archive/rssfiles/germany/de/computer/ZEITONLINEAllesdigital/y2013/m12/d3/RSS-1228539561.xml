@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Alles digital</title>
+<description>Nachrichten, Analysen und Reportagen zu den Themen Internet, Datenschutz, Netzkultur, Mobil und Games. Sie finden hier die Trends, Features und Entwicklungen sowie aktuelle Tests aus dem Ressort Digital.</description>
+<pubDate>Tue, 03 Dec 2013 15:11:13 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:34:12 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/digital/index</link>
+<atom:link href="http://newsfeed.zeit.de/digital/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Alles digital</title>
+      <link>http://www.zeit.de/digital/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/digital/datenschutz/2013-12/kommentar-VDS</link>
+      <guid>http://www.zeit.de/digital/datenschutz/2013-12/kommentar-VDS</guid>
+      <category>Digital</category>
+      <title>Sicherheit im Internet: Die Überwacher werden die Deutschen nicht schützen</title>
+      <description>&lt;a href="http://www.zeit.de/digital/datenschutz/2013-12/kommentar-VDS"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/digital/datenschutz/2013-12/staat-vertrauen/staat-vertrauen-148x84.jpg"/&gt;&lt;/a&gt; Viele Bürger erwarten, dass der Staat sie vor Ausspähung schützt. Gleichzeitig rechnen sie damit, dass er sie ausspioniert – das ist der ganz normale Abhörirrsinn.</description>
+      <dc:creator>ZEIT ONLINE : Digital - Marin Majica</dc:creator>
+      <pubDate>Tue, 03 Dec 2013 13:59:05 GMT</pubDate>
+    <ExtractedText>Studie über Freiheit und Sicherheit im Netz
+Sicherheit im Internet: Die Überwacher werden die Deutschen nicht schützen
+Viele Bürger erwarten, dass der Staat sie vor Ausspähung schützt. Gleichzeitig rechnen sie damit, dass er sie ausspioniert – das ist der ganz normale Abhörirrsinn. Ein Kommentar von  Marin Majica
+3. Dezember 2013  15:47 Uhr  17 Kommentare
+Der Staat soll es richten. Der Staat soll für Ordnung sorgen im Internet. Und er soll die Bürger vor Überwachung schützen. Weit mehr als die Hälfte aller Deutschen denkt so, sie wünschen sich, dass Internetseiten stärker kontrolliert werden. Dies legt zumindest eine aktuelle Studie   nahe, und für die hat das Institut für Demoskopie Allensbach (IfD) immerhin 1.487 Menschen ab 16 Jahren befragt.
+Das Ergebnis dieser Studie, durchgeführt im Auftrag des Deutschen Instituts für Vertrauen und Sicherheit im Internet (DIVSI), lässt aufhorchen. Und zwar deshalb, weil ihre Ergebnisse zutiefst widersprüchlich sind: Auf der einen Seite sehen 61 Prozent der Befragten den Staat in der Pflicht, sich im Netz vor seine Bürger zu stellen. Gleichzeitig gehen offensichtlich die Hälfte der Deutschen davon aus, dass ebenjener Staat sie bei der digitalen Kommunikation überwacht. Dieser Befund ist, vorsichtig formuliert, irritierend.
+Anzeige
+Die seit nunmehr sechs Monaten anhaltenden Enthüllungen – ausgelöst durch den amerikanischen Whistleblower und Geheimdienst-Mitarbeiter Edward Snowden – über den Überwachungswahn amerikanischer, britischer, aber wohl auch deutscher Geheimdienste , scheint in der Bevölkerung eine Art kollektive Persönlichkeitsspaltung ausgelöst zu haben. Verblüffend wäre das nicht. Schließlich gibt die Politik allen Anlass zu einer solchen in sich unlogischen Weltsicht. 
+Zum einen war die Bundesregierung selbst Ziel der Überwachung. Zwar wird Angela Merkels Handy laut US-Regierung weder zurzeit noch in Zukunft abgehört. Doch dass sie, wie den von Snowden vorgelegten Dokumenten zu entnehmen war, zumindest in der Vergangenheit das Ziel von Abhörmaßnahmen war, ist nie dementiert worden. Das hinterlässt in der Bevölkerung so oder so ein ungutes Gefühl: Entweder konnten die deutschen Sicherheitsbehörden die Bundeskanzlerin nicht schützen oder sie wollten oder sollten es nicht. Beide Möglichkeiten sprechen nicht dafür, sich in Zukunft als einzelner Bürger auf diesen Staat zu verlassen.
+Und plötzlich wieder Vorratsdatenspeicherung!
+Ein Widerspruch, der einen auch stutzig machen müsste: Nach langer Anlaufzeit haben sich – dank Merkels Handys – zwar auch  Vertreter von CDU und FDP dazu durchgerungen, die anlasslose  Geheimdienstüberwachung als etwas maßlos zu  verurteilen. Wenige Wochen später taucht im schwarz-roten Koalitionsvertrag dann aber die Vorratsdatenspeicherung wieder auf, als hätte das eine mit dem anderen nicht das Geringste zu tun. Als Argument für ihre Wiedereinführung ist  sich der SPD-Vorsitzende Sigmar Gabriel nicht zu schade, Ängste vor einem Terrorangriff auf Kinder wie in Norwegen zu bemühen. 
+Staatliche Initiativen zum Schutz des Bürgers gibt es durchaus auch. So hat sich der grüne Europaparlamentarier Jan-Philipp Albrecht für die Einführung neuer europäischer Datenschutzrichtlinien mit Lobbyistengruppen abgemüht und an Tausenden Änderungsanträgen anderer Abgeordneter abgearbeitet. Den Kompromiss hat das Parlament schließlich parteiübergreifend verabschiedet. Doch nun müssen die Mitgliedsstaaten zustimmen, und hierbei blockieren dem Vernehmen nach vor allem deutsche Vertreter.
+Besonders strikt wehren sich wohl die Unterhändler des Berliner Innenministeriums gegen die Reform . Statt auf Gesetze und Richtlinien und den europäischen Staat scheint Minister Hans-Peter Friedrich (CSU) auf andere Institutionen setzen zu wollen – zum Beispiel immer noch darauf, dass die US-Regierung durch mehr Offenheit das verlorene Vertrauen wiederherstellt. 
+</ExtractedText>
+</item>
+</channel>
+</rss>

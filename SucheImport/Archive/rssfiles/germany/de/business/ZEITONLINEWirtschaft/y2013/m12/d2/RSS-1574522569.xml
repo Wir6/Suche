@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Wirtschaft</title>
+<description>Aktuelle Nachrichten, Kommentare, Analysen und Hintergründe zu den Themen Wirtschaftspolitik, Finanzen, Unternehmen, Branchen, Börsen und Märkten</description>
+<pubDate>Tue, 03 Dec 2013 11:32:32 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:41:32 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/wirtschaft/index</link>
+<atom:link href="http://newsfeed.zeit.de/wirtschaft/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Wirtschaft</title>
+      <link>http://www.zeit.de/wirtschaft/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/wirtschaft/2013-12/infografik-drohnen</link>
+      <guid>http://www.zeit.de/wirtschaft/2013-12/infografik-drohnen</guid>
+      <category>Wirtschaft</category>
+      <title>Grafik: Die Drohnenfabriken der Welt</title>
+      <description>&lt;a href="http://www.zeit.de/wirtschaft/2013-12/infografik-drohnen"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/wirtschaft/2013-12/grafik-drohnen-weltweit/grafik-drohnen-weltweit-148x84.jpg"/&gt;&lt;/a&gt; In welchem Land werden die meisten Drohnen hergestellt? Wofür werden sie verwendet? Und welche Rolle spielt das Militär? Unsere Infografik gibt Antworten. </description>
+      <dc:creator>ZEIT ONLINE : Wirtschaft</dc:creator>
+      <pubDate>Mon, 02 Dec 2013 12:53:00 GMT</pubDate>
+    <ExtractedText>Infografik zeigt Produktion von Drohnen
+Grafik: Die Drohnenfabriken der Welt
+In welchem Land werden die meisten Drohnen hergestellt? Wofür werden sie verwendet? Und welche Rolle spielt das Militär? Unsere Infografik gibt Antworten.
+2. Dezember 2013  13:58 Uhr  16 Kommentare
+© Statista
+Drohnen sind unbemannte Fluggeräte, die aus der Ferne gesteuert werden oder sich sogar autonom in der Luft bewegen können. Längst dringen sie auf der ganzen Welt in den Alltag der Menschen ein. Den Militärs dienen sie zur Aufklärung und als Kampfgerät, in der Filmindustrie als Träger für Kameras. Der Einzelhandelskonzern Amazon will Drohnen nun sogar dazu nutzen , Pakete zuzustellen. Die Infografik, die ZEIT ONLNE in Kooperation mit dem Statistikportal Statista veröffentlicht, zeigt, in welchen Staaten die Drohnen hergestellt werden – und für welchen Zweck.
+</ExtractedText>
+</item>
+</channel>
+</rss>

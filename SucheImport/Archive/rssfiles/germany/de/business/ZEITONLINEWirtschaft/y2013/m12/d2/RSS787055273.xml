@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Wirtschaft</title>
+<description>Aktuelle Nachrichten, Kommentare, Analysen und Hintergründe zu den Themen Wirtschaftspolitik, Finanzen, Unternehmen, Branchen, Börsen und Märkten</description>
+<pubDate>Tue, 03 Dec 2013 11:32:32 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:41:32 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/wirtschaft/index</link>
+<atom:link href="http://newsfeed.zeit.de/wirtschaft/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Wirtschaft</title>
+      <link>http://www.zeit.de/wirtschaft/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/wirtschaft/2013-12/amazon-will-ware-per-drohne-liefern</link>
+      <guid>http://www.zeit.de/wirtschaft/2013-12/amazon-will-ware-per-drohne-liefern</guid>
+      <category>Wirtschaft</category>
+      <title>Versandhändler: Amazon will Ware per Mini-Drohne liefern</title>
+      <description>&lt;a href="http://www.zeit.de/wirtschaft/2013-12/amazon-will-ware-per-drohne-liefern"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/wirtschaft/2013-12/amazon-drohne-octocopter-2/amazon-drohne-octocopter-2-148x84.jpg"/&gt;&lt;/a&gt; Amazon-Chef Jeff Bezos plant die Paketzustellung mit einer Drohne. Prototypen gibt es schon. Wenn die Behörden zustimmen, soll der Service in ein paar Jahren kommen. </description>
+      <dc:creator>ZEIT ONLINE : Wirtschaft</dc:creator>
+      <pubDate>Mon, 02 Dec 2013 06:59:14 GMT</pubDate>
+    <ExtractedText>Versandhändler: Amazon will Ware per Mini-Drohne liefern
+Versandhändler: Amazon will Ware per Mini-Drohne liefern
+Amazon-Chef Jeff Bezos plant die Paketzustellung mit einer Drohne. Prototypen gibt es schon. Wenn die Behörden zustimmen, soll der Service in ein paar Jahren kommen.
+2. Dezember 2013  12:07 Uhr  80 Kommentare
+Mini-Drohne des Online-Händlers Amazon  |  © Amazon/dpa
+Der Online-Händler Amazon will in einigen Jahren Bestellungen mit  automatischen Mini-Drohnen zum Kunden bringen, um Kosten für Paketzustelldienste zu sparen. Der Konzern arbeite an eigenen  Fluggeräten, sagte Firmengründer Jeff Bezos in einem Interview  mit dem US-Fernsehsender CBS . Die Idee sei, dass die Octocopter genannten Drohnen bestellte Ware binnen 30  Minuten zum Käufer bringen.
+Bezos sagte, dass noch weitere  Tests und Zulassungen der US-Luftfahrtbehörde FAA nötig seien. Er rechne  allerdings damit, die Zustellung per Drohne in vier bis fünf Jahren anbieten zu  können. Der Service solle Prime Air heißen. 
+Anzeige
+Die Zustellung mit einer Drohne dürfte für kleine und besonders eilige  Bestellungen auf kurze Entfernung genutzt werden. Die achtmotorigen  Drohnen könnten Waren mit einem Gewicht von bis zu 2,5 Kilo  transportieren und pro Lieferung etwa 16 Kilometer zurücklegen, sagte  Bezos.
+Ein Fernsehteam von CBS filmte Prototypen der Drohnen bei Amazon. Der Konzern demonstriert den Plan in einem Video, in dem eines  der Fluggeräte eine Bestellung direkt vom Band eines Logistikzentrums  abholt und damit vor dem Haus eines Kunden landet. Die FAA arbeitet erst  noch daran, Regeln für den möglichen Einsatz unbemannter Drohnen im  US-Luftraum zu erarbeiten.
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Alles digital</title>
+<description>Nachrichten, Analysen und Reportagen zu den Themen Internet, Datenschutz, Netzkultur, Mobil und Games. Sie finden hier die Trends, Features und Entwicklungen sowie aktuelle Tests aus dem Ressort Digital.</description>
+<pubDate>Tue, 03 Dec 2013 15:11:13 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:34:12 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/digital/index</link>
+<atom:link href="http://newsfeed.zeit.de/digital/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Alles digital</title>
+      <link>http://www.zeit.de/digital/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/digital/datenschutz/2013-11/swift-eu-kommission-fluggastdaten-usa</link>
+      <guid>http://www.zeit.de/digital/datenschutz/2013-11/swift-eu-kommission-fluggastdaten-usa</guid>
+      <category>Digital</category>
+      <title>Swift-Abkommen: USA dürfen weiter auf EU-Bankdaten zugreifen</title>
+      <description>&lt;a href="http://www.zeit.de/digital/datenschutz/2013-11/swift-eu-kommission-fluggastdaten-usa"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/digital/datenschutz/2013-11/bankdaten/bankdaten-148x84.jpg"/&gt;&lt;/a&gt; Im Zuge der NSA-Affäre hatte das EU-Parlament gefordert, keine Bankdaten mehr weiterzuleiten. Die EU-Kommission entgegnet nun, die Amerikaner hielten sich an Datenschutz.</description>
+      <dc:creator>ZEIT ONLINE : Digital</dc:creator>
+      <pubDate>Wed, 27 Nov 2013 15:17:31 GMT</pubDate>
+    <ExtractedText>Swift-Abkommen: USA dürfen weiter auf EU-Bankdaten zugreifen
+Swift-Abkommen: USA dürfen weiter auf EU-Bankdaten zugreifen
+Im Zuge der NSA-Affäre hatte das EU-Parlament gefordert, keine Bankdaten mehr weiterzuleiten. Die EU-Kommission entgegnet nun, die Amerikaner hielten sich an Datenschutz.
+27. November 2013  16:03 Uhr  27 Kommentare
+Pin-Eingabe an einen Geldautomaten in Berlin  |  © dpa
+Trotz der NSA-Affäre will die EU-Kommission US-Terrorfahndern weiter Zugriff auf die Daten europäischer Bankkunden gewähren. Die US-Behörden dürfen außerdem auch nach wie vor Daten von Fluggästen auswerten, die in oder aus den USA kommen. Die Kommission hatte die Abkommen als Reaktion auf die Enthüllungen des früheren US-Geheimdienstmitarbeiters Edward Snowden überprüfen lassen. 
+In dem Prüfbericht kommen sie zu dem Schluss, dass die USA sich an die Datenschutzregeln hielten . Es gebe keine Hinweise darauf, dass amerikanische Behörden die Abkommen mit der EU verletzten. Das Swift-Abkommen erlaubt seit 2010 US-Terrorfahndern Einblick in Kontobewegungen von Verdächtigen – aber nur unter strengen Auflagen.
+Anzeige
+Auch die Umsetzung des Abkommens zur Weitergabe von Fluggastdaten an die US-Behörden entspricht EU-Innenkommissarin Cecilia Malmström zufolge den Vereinbarungen. Die USA hätten "in Übereinstimmung mit den im Abkommen festgelegten Standards und Bedingungen umgesetzt", sagte sie. Die Weitergabe von Passagierdaten bezeichnete Malmström als wichtiges Instrument im Kampf gegen Terrorismus und Kriminalität. 
+Das EU-Parlament hatte zuvor gefordert , das Abkommen zum Austausch der Bankdaten wegen der NSA-Affäre auszusetzen. EU-Justizkommissarin Viviane Reding, die das Abkommen zuvor selbst infrage gestellt hatte, widersprach nun der Forderung des EU-Parlaments. Sie drohte den USA dennoch vor einem Ende der Vereinbarung, wenn 13 Empfehlungen der EU nicht bis Sommer 2014 umgesetzt würden. Reding fordert insbesondere mehr Transparenz von den US-Unternehmen etwa darüber, inwiefern die US-Behörden das Recht haben, auf die von ihnen gesammelten Daten zuzugreifen.
+</ExtractedText>
+</item>
+</channel>
+</rss>

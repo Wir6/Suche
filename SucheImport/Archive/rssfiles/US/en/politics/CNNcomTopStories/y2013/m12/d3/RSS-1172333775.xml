@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:34:11 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>U.S. judge defends teen rape sentence</title>
+<guid>http://edition.cnn.com/2013/12/02/justice/montana-rape-judge/index.html</guid>
+<link>http://edition.cnn.com/2013/12/02/justice/montana-rape-judge/index.html?eref=edition</link>
+<description>A Montana judge is defending his decision to sentence a former teacher to 31 days in jail for raping a 14-year-old student.</description>
+<pubDate>Mon, 02 Dec 2013 22:22:12 EST</pubDate>
+<ExtractedText>Montana judge defends former teacher's one-month sentence for rape of teen
+By Ralph Ellis, CNN
+December 3, 2013 -- Updated 0214 GMT (1014 HKT)
+STORY HIGHLIGHTS
+Judge says he gave "the right kind of sentence"
+He apologizes for remarks about 14-year-old victim
+She committed suicide before the sentencing
+Montana attorney general appealing the sentence
+(CNN) -- A Montana judge is defending his decision to sentence a former teacher to 31 days in jail for raping a 14-year-old student.
+Judge G. Todd Baugh said he gave 47-year-old Stacey Dean Rambold "the right kind of sentence:" 31 days in jail and more than 14 years on probation.
+In his response to a complaint filed against him with the Montana Judicial Standards Commission, Baugh also calls his decision "fair, imposed impartially and without bias or prejudice."
+Baugh acknowledges making controversial remarks about victim Cherise Morales at Rambold's sentencing in August. According to the Montana Attorney General's Office, the judge said she looked older than her years and was "probably as much in control of the situation as was the defendant."
+Morales committed suicide in February 2010.
+"I am sorry I made those remarks," the judge wrote. "They focused on the victim when that aspect of the case should have been focused on the defendant."
+Baugh said he weighed all relevant factors in passing sentence.
+"The defendant's last legal or moral transgression was the crime he committed and admitted," he wrote. "In the ensuing almost six years, he had legally and morally good conduct, he was reinstated in sex offender treatment and the undisputed evidence supported community placement and treatment."
+The length of the sentence, Baugh's comments and the age disparity between defendant and victim drew criticism and a firestorm of media attention.
+The Montana Attorney General's Office last week appealed the 31-day sentence, saying it did not meet the state's mandatory minimum sentence.
+Baugh filed his response on November 15. CNN obtained the document on Monday.
+Baugh had kind words for Rambold. After Morales' death, the state offered to defer prosecution if Rambold agreed to undergo sex offender counseling and live under other restrictions.
+"The defendant did the morally right thing in agreeing, even though the state did not think it could prove up its case," Baugh wrote.
+Later, prosecutors decided to try Rambold because he missed counseling sessions and violated other rules. "Again, the defendant did the morally correct thing and did not challenge the violation," Baugh wrote.
+Rambold had sexual relations with Morales in fall 2007, when she was 14 and a student in one of his classes at Billings Senior High in Billings, Montana. She confided in a church group leader and Rambold was charged in October 2008 with three counts of sexual intercourse without consent.
+After the deferred prosecution deal fell apart, the state prosecuted, seeking 10 years imprisonment followed by 10 years' probation. The defense noted Rambold had already suffered by losing his job and getting divorced and asked for a 15-year sentence, with all but 31 days suspended.
+Baugh went with the defense suggestion.
+CNN's Kyung Lah contributed to this report.
+</ExtractedText>
+</item>
+</channel>
+</rss>

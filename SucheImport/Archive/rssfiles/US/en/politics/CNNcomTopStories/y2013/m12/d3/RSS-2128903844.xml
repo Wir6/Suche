@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:34:11 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Bolshoi dancer jailed for acid attack</title>
+<guid>http://edition.cnn.com/2013/12/03/world/europe/russia-bolshoi-acid-attack/index.html</guid>
+<link>http://edition.cnn.com/2013/12/03/world/europe/russia-bolshoi-acid-attack/index.html?eref=edition</link>
+<description>Three men are convicted of masterminding and carrying out an acid attack on the Bolshoi Ballet's artistic director, Sergei Filin.</description>
+<pubDate>Tue, 03 Dec 2013 07:15:02 EST</pubDate>
+<ExtractedText>3 men sentenced in Bolshoi Ballet acid attack case
+By Atika Shubert and Alla Eshchenko, CNN
+December 3, 2013 -- Updated 1309 GMT (2109 HKT)
+Pavel Dmitrichenko, a leading dancer at Russias Bolshoi Theatre, looks on as he stands inside the defendant's cage during a court hearing in Moscow, on October 22, 2013.
+STORY HIGHLIGHTS
+NEW: Dancer Pavel Dmitrichenko is given a six-year prison term for masterminding the attack
+Accomplice Yuri Zarutsky and driver Andrei Lipatov are also convicted
+The acid attack almost blinded the Bolshoi Ballet's artistic director, Sergei Filin
+The case has exposed rivalries and tensions at the world-renowned ballet company
+Moscow (CNN) -- Three men were convicted and sentenced Tuesday in Russia for masterminding and carrying out an acid attack on the Bolshoi Ballet's artistic director , Sergei Filin.
+Star dancer Pavel Dmitrichenko was given six years in prison for masterminding the attack, while accomplice Yuri Zarutsky was sentenced to 10 years and driver Andrei Lipatov got four years, a reporter for the official Russian Legal Information Agency (RAPSI) who was in court told CNN.
+Prosecutors at the Moscow court had asked for Dmitrichenko to be given nine years in prison, RAPSI reported earlier.
+Filin was walking to his Moscow apartment in January when a masked assailant tossed sulfuric acid onto his face, leaving him severely burned and nearly blinded.
+Dancer found guilty in acid attack
+Bolshoi director puts conflicts in past
+Former dancer: Bolshoi acts like brothel
+He has spent much of the past year in Germany, where doctors have been working to save his sight.
+Curtain falls on Russian ballet director after tumultuous year
+The case, which has been closely watched in Russia and elsewhere, has exposed the tensions and intrigues simmering below the surface at the world-renowned ballet company.
+Dmitrichenko argued during his trial that he had wanted Filin to be punished in some way for failing to give him the roles he wanted; for example, by being beaten up. But, the dancer said, he did not expect Filin to be subjected to an acid attack.
+In his evidence, Zarutsky told the court that the acid attack was his own idea and that he had not told Dmitrichenko about it.
+Many fellow Bolshoi dancers signed a letter asking the judge for leniency for Dmitrichenko.
+In his summary, the judge said that in his view, the attack was organized by Dmitrichenko.
+</ExtractedText>
+</item>
+</channel>
+</rss>

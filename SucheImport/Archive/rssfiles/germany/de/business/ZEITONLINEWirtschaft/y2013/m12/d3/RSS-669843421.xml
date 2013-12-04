@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Wirtschaft</title>
+<description>Aktuelle Nachrichten, Kommentare, Analysen und Hintergründe zu den Themen Wirtschaftspolitik, Finanzen, Unternehmen, Branchen, Börsen und Märkten</description>
+<pubDate>Tue, 03 Dec 2013 11:32:32 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:41:32 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/wirtschaft/index</link>
+<atom:link href="http://newsfeed.zeit.de/wirtschaft/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Wirtschaft</title>
+      <link>http://www.zeit.de/wirtschaft/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/wirtschaft/unternehmen/2013-12/apple-topsy-twitter-analyse</link>
+      <guid>http://www.zeit.de/wirtschaft/unternehmen/2013-12/apple-topsy-twitter-analyse</guid>
+      <category>Wirtschaft</category>
+      <title>Internet: Apple kauft Twitter-Analyst Topsy  </title>
+      <description>&lt;a href="http://www.zeit.de/wirtschaft/unternehmen/2013-12/apple-topsy-twitter-analyse"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/wirtschaft/2013-12/apple-topsy/apple-topsy-148x84.jpg"/&gt;&lt;/a&gt; Der US-Konzern Apple hat das Start-up Topsy gekauft. Die Kalifornier sollen 200 Millionen Dollar gezahlt haben – und besitzen nun alle Tweets seit Gründung von Twitter.</description>
+      <dc:creator>ZEIT ONLINE : Wirtschaft</dc:creator>
+      <pubDate>Tue, 03 Dec 2013 07:50:35 GMT</pubDate>
+    <ExtractedText>Start-up-Übernahme: Apple kauft Twitter-Analyst Topsy
+Internet: Apple kauft Twitter-Analyst Topsy
+Der US-Konzern Apple hat das Start-up Topsy gekauft. Die Kalifornier sollen 200 Millionen Dollar gezahlt haben – und besitzen nun alle Tweets seit Gründung von Twitter.
+3. Dezember 2013  11:36 Uhr  3 Kommentare
+Das Logo des Apple-Konzerns am Eingang der Filiale in der Fifth Avenue in New York  |  © Lucas Jackson/Reuters
+Das US-Unternehmen Apple hat das Start-up Topsy  gekauft. Dies berichtet das Wall Street Journal und nennt als Kaufpreis die Summe von mehr 200 Millionen Dollar (mehr als 147  Millionen Euro). Die auf Medienforschung spezialisierte Firma Topsy ist einer der wenigen Partner von Twitter. Sie hat   Zugriff auf alle Daten des Kurznachrichtendienstes.
+Topsy Labs analysiert die Kommunikation bei Twitter, um Trends und Meinungsmachern auf die  Spur zu kommen. Überdies betreibt das Unternehmen mit Sitz in San  Francisco eine kostenlose Suchmaschine, die einen Katalog mit jedem seit  2006 geposteten Tweet enthält – ein Angebot, das bei Twitter nicht frei  zugänglich ist. Mit diesem Index, so hatte Topsy Anfang des Jahres erklärt, könnten Firmen und Werbetreibende "aussagekräftige Signale aus dem Rauschen der sozialen Medien  herausfiltern".
+Anzeige
+Mit dem Kauf von Topsy könnte Apple  seine Marketingplattform iAd für seine iPhones und iPads ausbauen.  Tatsächlich versucht Apple schon seit Jahren, seine Werbeeinnahmen zu  erhöhen. Mit den Tools zur Twitter-Analyse könnte Apples iPhone künftig  zudem über eine gefragte  Suchfunktion verfügen, die Konkurrenzprodukte  mit Android-Betriebssystem nicht haben. Das Wall Street Journal spekuliert zudem, dass Apple Topsy auch im Zusammenhang mit seinem neuen Musik-Streaming-Dienst einsetzen könnte.
+Apple selbst wollte den Zeitungsbericht nicht kommentieren. Eine  Sprecherin erklärte lediglich, dass der Konzern von Zeit zu Zeit  Start-up-Unternehmen kaufe, aber gewöhnlich nicht öffentlich über seine  Ziele und Pläne spreche. Auch Topsy reagierte auf Anfragen für eine Stellungnahme nicht.
+Die Startseite des Medienforschungsunternehmens Topsy  |  © Topsy/Screenshot
+Im vergangenen Jahr hat Apple insgesamt 496 Millionen Dollar (rund 365  Millionen Euro) in den Aufkauf anderer Firmen investiert. Die Zukäufe waren aber eher im Hardwarebereich angesiedelt als bei sozialen Netzwerken. So erwarben die Kalifornier im November den israelischen Hersteller von 3D-Sensoren, PrimeSense. Der Preis lag israelischen Medien zufolge bei 350 Millionen Dollar.
+Bislang hatte Apple nur einen nennenswerten Versuch bei sozialen Medien gestartet. Über Ping konnten Nutzer Musiktitel posten. Der Dienst wurde aber inzwischen mangels Interesse wieder eingestellt.
+</ExtractedText>
+</item>
+</channel>
+</rss>

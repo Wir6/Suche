@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:34:11 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Rowdy football fans spark 'earthquake'</title>
+<guid>http://edition.cnn.com/2013/12/03/us/seattle-seahawks-earthquake/index.html</guid>
+<link>http://edition.cnn.com/2013/12/03/us/seattle-seahawks-earthquake/index.html?eref=edition</link>
+<description>There's no need to tell football fans in Seattle to take it up a notch. They're doing just fine, thank you.</description>
+<pubDate>Tue, 03 Dec 2013 09:47:32 EST</pubDate>
+<ExtractedText>Rowdy Seattle Seahawks fans register as earthquake during Monday Night Football
+By Justin Lear and Ed Payne, CNN
+December 3, 2013 -- Updated 1447 GMT (2247 HKT)
+Matt Roe, an acoustical consultant with SSA Acoustics, measures noise levels in CenturyLink Field.
+STORY HIGHLIGHTS
+Fans rock the stadium and show up on an earthquake recording system
+The Seattle-New Orleans game produced five seismic events
+A college in Louisiana also appeared as an earthquake in 1988
+The Seahawks beat the Saints, 34-7
+(CNN) -- There's no need to tell football fans in Seattle to take it up a notch. They're doing just fine, thank you.
+After setting a Guinness World Record for noise at an outdoor stadium in September , CenturyLink Field went seismic during Monday Night Football, registering as an earthquake at a recording station about a block from the stadium.
+How big, you ask?
+In the magnitude 1-to-2 range, according to John Vidale, a professor at the University of Washington and the director of the Pacific Northwest Seismic Network.
+Vidale said his staff recorded five separate seismic events during Seattle's 34-7 pasting of New Orleans -- a match-up of two of the NFL's top teams.
+The most intense episode came late in the first quarter, when Seahawks defensive lineman Michael Bennett returned a Saints fumble 22 yards for a touchdown.
+Seattle fans did this once before. In 2011, a Marshawn Lynch touchdown shook the earthquake recording station too.
+</ExtractedText>
+</item>
+</channel>
+</rss>

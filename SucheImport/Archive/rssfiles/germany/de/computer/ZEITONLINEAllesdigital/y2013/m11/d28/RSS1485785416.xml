@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Alles digital</title>
+<description>Nachrichten, Analysen und Reportagen zu den Themen Internet, Datenschutz, Netzkultur, Mobil und Games. Sie finden hier die Trends, Features und Entwicklungen sowie aktuelle Tests aus dem Ressort Digital.</description>
+<pubDate>Tue, 03 Dec 2013 15:11:13 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:34:12 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/digital/index</link>
+<atom:link href="http://newsfeed.zeit.de/digital/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Alles digital</title>
+      <link>http://www.zeit.de/digital/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/2013/49/facebook-werbung-anzeigen-internet</link>
+      <guid>http://www.zeit.de/2013/49/facebook-werbung-anzeigen-internet</guid>
+      <category>Digital</category>
+      <title>Facebook: Das Märchen von der personalisierten Werbung</title>
+      <description>&lt;a href="http://www.zeit.de/2013/49/facebook-werbung-anzeigen-internet"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/digital/internet/2013-11/facebook/facebook-148x84.jpg"/&gt;&lt;/a&gt; Facebook will Anzeigen auf die Nutzer zuschneiden. Doch warum sehen 27-Jährige dann ein Werbebanner mit der Aufschrift "Regeln Sie Ihren Nachlass"? </description>
+      <dc:creator>ZEIT ONLINE : Digital - Katja Scherer</dc:creator>
+      <pubDate>Thu, 28 Nov 2013 06:00:00 GMT</pubDate>
+    <ExtractedText>Facebook will Anzeigen persönlicher machen. Gelingt das auch? Ein Erfahrungsbericht von Katja Scherer
+1. Dezember 2013  10:22 Uhr  42 Kommentare
+Gerade will ich auf Facebook eine Nachricht verschicken, da fällt mir eine Anzeige auf: "Kollegen gesucht! Call Center stellt direkt ein: Vollzeit, Teilzeit, Nebenjob – Top Bezahlung!" Nein danke, denke ich mir. Ich kann mir schönere Arbeiten vorstellen.
+Doch die Anzeige hat mich aufmerksam werden lassen. Ich beobachte einige Tage lang meinen Facebook-Account und stelle fest, dass viele der Annoncen nicht zu mir passen. Ich brauche weder ein neues Auto noch eine elektrische Zahnbürste, und den letzten Schnaps namens Feigling habe ich glücklicherweise vor Jahren getrunken. Facebook aber bombardiert mich mit Anzeigen dafür.
+Anzeige
+Ob das nur bei mir so ist?, überlege ich. Nach dem Hausfrauenprinzip frage ich möglichst viele meiner Bekannten. Den meisten geht es ähnlich. Ein Freund zum Beispiel bekommt regelmäßig die Werbebanner "Reif für Seniorbook?" und "Regeln Sie Ihren Nachlass" angezeigt. Er ist 27 Jahre alt. Und eine Freundin wird gefragt: "Lücke oder Implantat?" Soweit ich weiß, braucht sie keinen Zahnersatz.
+Das alle wäre keine Zeile wert, wollte Facebook nicht der Vorreiter im Netz sein, wenn es darum geht, Werbung den Interessen der Nutzer anzupassen . "Ich glaube nicht, dass das irgendjemand besser kann als Facebook", sagte Chefentwickler Andrew Bosworth, als er im September auf Europas größter Messe für digitale Wirtschaft in Köln auftrat. Die Plattform hat eine eigene Werbephilosophie entwickelt: Anzeigen sollen nicht mehr stören, sie sollen relevant und interessant sein.
+Mit diesem Versprechen bedient Facebook einen lang gehegten Traum der Werbeindustrie: Wenn es gelänge, jeden potenziellen Käufer ganz persönlich anzusprechen, würden die Verkaufszahlen schlagartig explodieren! Durch das Soziale Netzwerk, so hoffen die Unternehmen, kommt die Wirklichkeit diesem Traum ein Stück näher.
+Das vollständige Interview finden Sie in der aktuellen Ausgabe der ZEIT. Die gesamte Ausgabe können Sie als E-Paper, App oder für Ihren E-Reader von 18 Uhr an hier herunterladen.
+Im Oktober hat Facebook-Gründer Mark Zuckerberg neue Zahlen bekannt gegeben. Rund 1,5 Milliarden Euro Umsatz machte  sein Unternehmen im dritten Quartal dieses Jahres – 60 Prozent mehr als  im gleichen Quartal ein Jahr zuvor. Mehr als 80 Prozent davon sind  Werbeeinnahmen.
+Der Grund, warum Unternehmen so viel Geld für  Werbung ausgeben, ist der riesige Datenschatz von Facebook. Das Soziale  Netz weiß zum Beispiel, wo ich studiert habe, wann ich Geburtstag habe,  welche Musik ich mag und wo meine Freunde wohnen. Um ein möglichst genaues Profil von mir zu erstellen, analysiert Facebook alles, was ich preisgebe.  Wenn ich also einen Link zu meinem neuen Lieblingslied teile oder bei  der Seite der Frankfurter Buchmesse auf "Gefällt mir" klicke, merkt sich  Facebook das.
+Ben Moehlenhoff gerät ins Schwärmen, wenn er an die Möglichkeiten denkt, die sich daraus ergeben. Der 30-Jährige arbeitet bei der Hamburger Online-Werbeagentur eprofessional und hilft Unternehmen wie zum Beispiel Douglas, ihren Auftritt in Sozialen Netzwerken zu verbessern. "Über Facebook lassen sich wahnsinnig gezielt einzelne Kundengruppen ansprechen", sagt er.
+Die Plattform hat dafür sogar eigene Technologien entwickelt: Wenn ein Unternehmen eine Anzeige schaltet, kann es genau bestimmen, welchen Nutzergruppen diese angezeigt wird. Dabei können die Firmen zwischen einer ganzen Reihe von Eigenschaften auswählen – von Alter und Geschlecht bis zu Wohnort und Beziehungsstatus. Zudem nutzt das Netzwerk persönliche Verbindungen. Wenn zum Beispiel ein Freund von mir angibt, dass er die Eiscreme Ben &amp; Jerry’s mag, macht mich Facebook darauf aufmerksam. Das soll wie ein gut gemeinter Rat unter Bekannten wirken, ist aber eine geschickt getarnte Anzeige.
+Übersicht zu diesem Artikel
+</ExtractedText>
+</item>
+</channel>
+</rss>

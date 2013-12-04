@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:34:11 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Is this the airport of the future?</title>
+<guid>http://edition.cnn.com/2013/12/03/business/airport-of-the-future/index.html</guid>
+<link>http://edition.cnn.com/2013/12/03/business/airport-of-the-future/index.html?eref=edition</link>
+<description>Sleep pods, yoga rooms and baggage scanners: What will the airport of the future look like?</description>
+<pubDate>Tue, 03 Dec 2013 07:43:11 EST</pubDate>
+<ExtractedText>Step inside the airport of the future
+December 3, 2013 -- Updated 1304 GMT (2104 HKT)
+What will the airport of the tomorrow look like? We've compiled some of the most exciting projects in an interactive feature.
+Could port herald new age for Cuba?
+November 20, 2013 -- Updated 1205 GMT (2005 HKT)
+In the sleepy seaside town of Mariel, northwest Cuba, a hulking monument to the communist islands' evolving economy is taking shape.
+Sailor who stared down Somali pirates
+November 26, 2013 -- Updated 1353 GMT (2153 HKT)
+Meet Russian Tugboat captain, Viktor Nikolsky, who has sailed the world's seas and survived being hijacked by Somali pirates.
+November 8, 2013 -- Updated 1039 GMT (1839 HKT)
+Meet Sergey Matveev and family, St Petersburg's "First Family" of drawbridge operators.
+October 31, 2013 -- Updated 1159 GMT (1959 HKT)
+Where are the world's most dangerous waters? Hint; they're not off the coast of Somalia.
+Most spectacular train stations
+October 17, 2013 -- Updated 1122 GMT (1922 HKT)
+Train and metro stations have become unlikely havens for some of the most exquisite architecture and design. We profile some of the best.
+Ducks overboard!
+October 9, 2013 -- Updated 1239 GMT (2039 HKT)
+What have 29,000 plastic toys that fell overboard a cargo ship in 1992 been doing for the last 21 years?
+October 4, 2013 -- Updated 1340 GMT (2140 HKT)
+How are ports adapting to cope with the new generation of giant cargo ships?
+Where is the world's busiest airport?
+September 27, 2013 -- Updated 1152 GMT (1952 HKT)
+London, Beijing or somewhere in the United States: Where is the world's busiest airport? Find out in our detailed infographic.
+September 13, 2013 -- Updated 0927 GMT (1727 HKT)
+Urban gondolas are offering cheap and effective methods of mass-transportation in some of South America's biggest cities.
+Linking Europe and Asia by rail
+June 27, 2013 -- Updated 0923 GMT (1723 HKT)
+The Silk Road was once a series of dusty trails forged by traders traveling between Asia and Europe. Today it takes the form of a bustling railway.
+Introducing the world's biggest ship
+June 26, 2013 -- Updated 1249 GMT (2049 HKT)
+An all new class of container ship, the Triple E is a quarter-of-a-mile long and built from enough steel to construct 8 Eiffel Towers.
+8 spectacular infrastructure projects
+June 18, 2013 -- Updated 1136 GMT (1936 HKT)
+Take a peek at some of the most exciting travel infrastructure projects currently in the works around the world.
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Feuilleton - FAZ.NET</title>
+<link>http://www.faz.net/aktuell/feuilleton/</link>
+<description>F.A.Z. Feuilleton: Meldungen aus den Bereichen Kunst, Kultur und Musik. Kritiken und Rezensionen. Veranstaltungen, Kino, Oper und Theater.</description>
+<copyright>Copyright 2001-2013 Frankfurter Allgemeine Zeitung GmbH. Alle Rechte vorbehalten.</copyright>
+<category>Feuilleton - FAZ.NET</category>
+<language>de-de</language>
+<docs>http://www.faz.net/hilfe/services-newsletter-widgets-rss-feeds-mehr/</docs>
+<generator>FAZ.NET</generator>
+<ttl>5</ttl>
+<lastBuildDate>Tue, 3 Dec 2013 16:26:14 +0100</lastBuildDate>
+<atom:link href="http://www.faz.net/rss/aktuell/feuilleton/" rel="self" type="application/rss+xml"/>
+<image>
+		<title>Feuilleton - FAZ.NET</title>
+		<url>http://www.faz.net/img/fazlogo_ressort.gif</url>
+        <link>http://www.faz.net/aktuell/feuilleton/</link>
+	</image>
+<item>
+    <title>Europäische Techniken und IT-Konzepte? Ja, es geht</title>
+    <description>&lt;img width="190" height="107" border="0" title="So sieht die Netzwelt von Facebook aus: Wie mit einem virtuellen Spinnennetz hat der amerikanische Internetgigant den digitalen Globus erobert" alt="So sieht die Netzwelt von Facebook aus: Wie mit einem virtuellen Spinnennetz hat der amerikanische Internetgigant den digitalen Globus erobert" src="http://media1.faz.net/polopoly_fs/1.2673153!/image/760909319.jpg_gen/derivatives/article_teaser/760909319.jpg"/&gt;&lt;p&gt;Wir müssen die Hoheit über unsere Daten keineswegs an globale Monopolisten mit Sitz in Amerika abtreten. Neun Fachleute fordern den Aufbau einer eigenen Infrastruktur in Europa.&lt;/p&gt;</description>
+    <link>http://www.faz.net/aktuell/feuilleton/debatten/europas-it-projekt/</link>
+    <pubDate>Thu, 21 Nov 2013 13:29:00 +0100</pubDate>
+    <guid isPermaLink="true">http://www.faz.net/aktuell/feuilleton/debatten/europas-it-projekt/#1.2674654</guid>
+<ExtractedText>Nackt im Gras
+Von Christian Geyer
+Auch das noch: Amazon möchte bestellte Ware mit Mini-Drohnen verschicken. Die Ankündigung dürfte weder das Image des unbemanntes Fluggeräts noch das des Internet-Händlers nachhaltig verbessern. Mehr 3
+Snowdens Lied
+Von Fridtjof Küchemann
+Die Leser des „Time“-Magazins lassen erstaunlich viel Abstand zwischen Miley Cyrus und Edward Snowden - dabei sind sich beide doch so nah. Mehr 5
+Im Meer der mörderischen Symbole
+Von Patrick Bahners
+„The Ocean Full of Bowling Balls“: Eine unveröffentlichte Geschichte J.D. Salingers kursiert seit kurzem im Internet. Wir erzählen, was wir darüber wissen, geben aber den Link nicht preis. Mehr 4
+Schlag die Zeile
+Von Hannes Hintermeier
+Der Verein Deutsche Sprache weiß, wie man Eigentore schießt. Die „Bild“-Zeitung hat er wegen des Titels „Yes, we scan!“ mit der Auszeichnung „Schlagzeile des Jahres“ beehrt - und sich eine treffende Abfuhr geholt. Mehr 4 6
+Regieren in der Remiszone
+Von Jürgen Kaube
+Noch nie hat es so lange gedauert, bis wir eine neue Regierung bekommen. Daran, dass es eine große Koalition sein wird, liegt es nicht. Doch woran liegt es dann? Ein Eheszenarium. Mehr 6 22
+Letzter Aufruf
+Von Lorenz Jäger
+Was haben der Baum und Gott gemeinsam? Ihnen beiden ist auf dem Buchmarkt eine Biographie gewidmet. Diese Gattungsbezeichnung greift wahnsinnig um sich. Mehr 1 4
+</ExtractedText>
+</item>
+</channel>
+</rss>

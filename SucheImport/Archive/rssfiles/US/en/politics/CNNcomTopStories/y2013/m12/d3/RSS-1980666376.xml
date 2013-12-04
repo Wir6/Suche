@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:34:11 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Your 10 most popular Louvre artworks</title>
+<guid>http://edition.cnn.com/2013/12/03/world/europe/your-10-most-popular-louvre/index.html</guid>
+<link>http://edition.cnn.com/2013/12/03/world/europe/your-10-most-popular-louvre/index.html?eref=edition</link>
+<description>We asked you to share your favorite artwork via the hashtag #LouvreFavorite. Here they are.</description>
+<pubDate>Tue, 03 Dec 2013 05:34:20 EST</pubDate>
+<ExtractedText>By Jenny Soffel , for CNN
+December 3, 2013 -- Updated 1020 GMT (1820 HKT)
+STORY HIGHLIGHTS
+We asked you to share your favorite Louvre artwork via #LouvreFavorite
+After pulling together your tweets, pictures, here are your favorite artworks
+This is your guide to the most popular pieces inside the Louvre
+CNN takes you "Inside the Louvre," building an intimate portrait of a museum like no other. From the handler who looks after the Mona Lisa's famous smile, to the new director, host Nick Glass meets the people at the heart of Paris' most renowned institution. Watch the 30-minute special show from Dec 2-4.
+London (CNN) -- As part of CNN's special series "Inside the Louvre," we asked you to share your favorite artwork via the hashtag #LouvreFavorite.
+With thousands of artworks on display, it wasn't easy for our community to choose their one most treasured piece.
+All in all, you sent us 100 tweets, comments and Instagram pictures ranging from the world-famous "Winged Victory of Samothrace" to the "Mona Lisa."
+Other impressive works you named included Paul Delaroche's "The Young Martyr" and Johannes Vermeer's "The Lacemaker."
+Check out the top 10 most popular artworks as selected by our community.
+</ExtractedText>
+</item>
+</channel>
+</rss>

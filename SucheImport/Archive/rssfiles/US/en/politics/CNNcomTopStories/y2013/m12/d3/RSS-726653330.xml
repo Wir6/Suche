@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:34:11 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Dylan suspected of 'inciting hatred'</title>
+<guid>http://edition.cnn.com/2013/12/03/world/europe/france-croatia-dylan-hatred/index.html</guid>
+<link>http://edition.cnn.com/2013/12/03/world/europe/france-croatia-dylan-hatred/index.html?eref=edition</link>
+<description>U.S. singer-songwriter Bob Dylan is being investigated on suspicion of inciting hatred in Paris over comments he made in Rolling Stone magazine, French prosecutors said Tuesday.</description>
+<pubDate>Tue, 03 Dec 2013 10:33:11 EST</pubDate>
+<ExtractedText>Bob Dylan investigated, suspected of inciting hatred with Croatia remark
+From Sandrine Amiel, CNN
+December 3, 2013 -- Updated 1519 GMT (2319 HKT)
+Bob Dylan performing in Carhaix, in western France, in 2012.
+STORY HIGHLIGHTS
+Iconic singer Bob Dylan is accused of likening the Croatian people to Nazis
+The remarks were quoted in an interview for the French edition of Rolling Stone magazine
+The complaint was brought by a body representing Croatians in France
+Croatians have nothing against Dylan but do not want to be insulted, a spokesman says
+Paris (CNN) -- Bob Dylan is being investigated on suspicion of inciting hatred in Paris over comments he made in Rolling Stone magazine, French prosecutors said Tuesday.
+An organization representing Croatians in France pressed charges against Dylan for allegedly comparing the conflict between Croatians and Serbs to the Nazis' persecution of Jews in an interview last year for the French edition of Rolling Stone.
+"If you got a slave master or Klan in your blood, blacks can sense that. That stuff lingers to this day. Just like Jews can sense Nazi blood and the Serbs can sense Croatian blood," the influential singer-songwriter was quoted as saying.
+The Paris prosecutor's office said Dylan was placed under formal investigation last month by the Paris Main Court for "public injury" and "incitement to hatred."
+Vlatko Maric, secretary general of the Representative Council of the Croatian Community and Institutions, told CNN his organization had brought the case almost a year ago.
+Explaining the council's decision to sue Dylan, Maric said the artist's remarks in Rolling Stone were of a "rare violence" that had deeply shocked people from a nation still wounded by the conflict of the 1990s.
+"An entire people is being compared to criminal organizations" like the Nazis or the Ku Klux Klan, he said. "The Croatians are peaceful people who respect Bob Dylan as an artist, but we must remind him that he can't make such remarks.
+"We have nothing against him, but the Croatians do not want to be insulted."
+Dylan received the Presidential Medal of Freedom from President Barack Obama in 2012, just one of many accolades to come the musician's way during half a century in the public eye. He was also named an honorary member of the American Academy of Arts and Letters this year.
+Bloody conflict
+The breakup of Yugoslavia in the early 1990s caused the bloodiest conflict on the European continent since World War II, with more than 100,000 people believed killed.
+The International Criminal Tribunal for the former Yugoslavia, a U.N.-backed court, continues to prosecute war crimes committed during that time.
+The tribunal has said "the most significant number" of its cases have dealt with alleged crimes by Serbians or Bosnian Serbs. But there have been convictions for crimes against Serbs by others, including Croats, Bosnian Muslims and Kosovo Albanians.
+Hundred of bodies found in Bosnia mass grave
+CNN's Saskya Vandoorne contributed to this report.
+</ExtractedText>
+</item>
+</channel>
+</rss>

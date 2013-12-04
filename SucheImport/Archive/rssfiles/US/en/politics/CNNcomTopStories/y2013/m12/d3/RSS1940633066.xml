@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:34:11 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Beautiful bank buildings</title>
+<guid>http://edition.cnn.com/2013/11/13/travel/beautiful-bank-buildings/index.html</guid>
+<link>http://edition.cnn.com/2013/11/13/travel/beautiful-bank-buildings/index.html?eref=edition</link>
+<description>It should be no surprise that the world's financial behemoths also own or inhabit some of the best real estate. </description>
+<pubDate>Tue, 03 Dec 2013 08:38:26 EST</pubDate>
+<ExtractedText>World's most beautiful bank buildings
+By CNN Staff
+November 26, 2013 -- Updated 1046 GMT (1846 HKT)
+Architects: Cook + Fox Architects, LLP; Adamson Associates. The Bank of America Tower is named after the largest bank in the U.S.A. The skyscraper was officially the second-tallest building in New York until the topping-out of One World Trade Center in May 2013.
+Architects: I.M. Pei &amp; Partners; Shermann Kung &amp; Associates Architects Limited. This tower houses the headquarters of the Bank of China Hong Kong. According to the architect Ieoh Ming Pei, the shape of a bamboo stalk served as inspiration for the design.
+Architect: Ingenhoven Architects. Located in Luxembourg, the building is the headquarters of the European Investment Bank. The V-shaped offices, which are linked with one another by atriums and winter gardens, are fully spanned with glass.
+Architects: Swanke Hayden Connell Architects; Tekeli &amp; Sisa. At 181 meters in height, it was the tallest building in Turkey until 2012. Several details of the facade are reminiscent of Trump Tower in New York City, which was also designed by the architects Swanke Hayden.
+Architect: Nikken Sekkei Ltd. The two towers of the Islamic Development Bank Headquarters in Jeddah are connected by a roof structure. The building, which is over 100 meters tall, has a sophisticated design: narrow window slits in the outer walls serve to block the strong sunlight while the central patios are covered in glass in order to let in natural light.
+Architect: Fitzpatrick + Partners. Macquarie Bank is headquartered in Sydney, and is Australia's only major bank. A particularly eye-catching aspect of Macquarie Bank Centre is the white lattice structure that sits like a net around the glass cube. A total of 1,000 tonnes of steel girder were used in construction of the building.
+Architects: Norr Group Consultants Int. Ltd.; Carlos Ott Architect. The building houses the Emirates National Bank of Dubai, considered one of the leading banks in the United Arab Emirates. The shape of the building is reminiscent of a sail, a concept also used in Dubai in the luxury hotel Burj Al Arab.
+Architect: Meyer en Van Schooten Architecten. ING House is headquarters to the global financial house ING Group. Due to its unusual shape, the building also has the nicknames "shoe" and "dustbuster."
+Architect: HOK International Ltd. One Churchill Place in London is headquarters to Barclays Bank, the third-largest bank in the UK. The 156-meter-tall building was the sixth-tallest in London at the time of completion, and is currently the 12th tallest.
+Architect: 3XN Architects. The Saxo Bank International Headquarters is home to the Danish online investment bank Saxo Bank. Its expressive design makes it clearly stand out from its surroundings. The slanting and irregularly ordered blocks of color on the facade look like the stripes of a zebra.
+Architect: WZMH Architects. Scotia Plaza is currently Toronto's second-tallest multi-story building after First Canadian Place. It serves as headquarters to Scotiabank. In addition to this modern 68-story building, the same complex also contains the bank's historic main building, which has heritage status, at 44 King Street West.
+HIDE CAPTION
+Bank of America Tower (New York)
+Bank of China Tower (Hong Kong)
+European Investment Bank (Luxembourg)
+Islamic Development Bank (Jeddah, Saudi Arabia)
+Macquarie Bank Centre (Sydney)
+National Bank of Dubai (Dubai, U.A.E.)
+ING House (Amsterdam, Netherlands)
+Saxo Bank International HQ (Hellerup, Denmark)
+Scotia Plaza (Toronto, Canada)
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 06:36:13 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition_sport" rel="self" type="application/rss+xml"/>
+<feedburner:info uri="rss/edition_sport"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Brawn quits Mercedes</title>
+<guid isPermaLink="false">http://edition.cnn.com/2013/11/28/sport/motorsport/brawn-mercedes-formula-one/index.html</guid>
+<link>http://rss.cnn.com/~r/rss/edition_sport/~3/yHxSoUwlSrE/index.html</link>
+<description>Ross Brawn, the man who has achieved success with virtually every Formula One outfit he has worked with, is leaving his post as team principal at Mercedes at the end of the year.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_sport/~4/yHxSoUwlSrE" height="1" width="1"/&gt;</description>
+<pubDate>Mon, 02 Dec 2013 11:24:40 EST</pubDate>
+<feedburner:origLink>http://edition.cnn.com/2013/11/28/sport/motorsport/brawn-mercedes-formula-one/index.html</feedburner:origLink>
+<ExtractedText>Ross Brawn to leave Mercedes at end of year
+November 28, 2013 -- Updated 1315 GMT (2115 HKT)
+Ross Brawn, leaving Mercedes at the end of 2013, achieved great success with Michael Schumacher, right, at Ferrari.
+STORY HIGHLIGHTS
+Ross Brawn is leaving Mercedes, to be replaced by a pair of executive directors
+Mercedes finished second in the team standings, only behind Sebastian Vettel's Red Bull
+The 59-year-old said that Mercedes "is uniquely positioned to succeed in 2014"
+Brawn has exceled throughout his career, combining with Michael Schumacher at Ferrari
+(CNN) -- Ross Brawn, the man who has achieved success with virtually every Formula One outfit he has worked with, is leaving his post as team principal at Mercedes at the end of the year.
+The 59-year-old will hand over duties to executive directors Toto Wolff and Paddy Lowe, Mercedes said. Wolff is responsible for business matters while Lowe handles technical duties.
+When Lowe arrived from McLaren, Wolff became an executive director and former racing great Niki Lauda was named as a non-executive chairman, it led to "continued media questioning" about Brawn's future with the team, according to Formula One's official website, and the Englishman's departure was confirmed by Mercedes on Thursday.
+"The team is uniquely positioned to succeed in 2014 and I am proud to have helped lay the foundations for that success," Brawn was quoted as saying by Mercedes' website. "However, 2014 will mark the beginning of a new era in the sport.
+Vettel's dominance could bore F1 fans
+Hamilton praises Mercedes progress
+Pirelli weathers tire quality challenges
+"We therefore felt this was the right time to simultaneously begin a new era of team management to ensure that the organization is in the strongest possible competitive position for the years to come."
+Although no racer finished in the top three in the individual standings this year, progress was made in the team classification as Lewis Hamilton and Nico Rosberg guided Mercedes to second -- behind Sebastian Vettel's Red Bull.
+Read: Vettel a history maker
+Lauda said Brawn was the "architect" of that success.
+"He put the plans in place to recruit key people since early 2011, and the performance this season shows that the team is on the right track," Lauda told Mercedes' website. "We have had long discussions with Ross about how he could continue with the team but it is a basic fact that you cannot hold somebody back when they have chosen to move on.
+"Ross has decided that this is the right time to hand over the reins to Toto and Paddy and we respect his decision."
+Hamilton took to Twitter to thank Brawn, calling him a "legend" but also lauding Lowe and Wolff.
+"Massive thanks to Ross Brawn," said the 2008 world champion. "He's been a great leader and teacher for me. Ross has built the foundations for us to succeed in 2014!#Legend.
+"Toto and Paddy are fantastic guys and strong leaders for the team. I've started my training already and can't wait for 2014!"
+Brawn helped Benetton win world titles and his own team -- Brawn GP -- claimed the double in 2009 before it was sold to Mercedes.
+He may be best known, though, for his stint at Ferrari when he famously combined with one of the finest racers of all time, Michael Schumacher.
+</ExtractedText>
+</item>
+</channel>
+</rss>

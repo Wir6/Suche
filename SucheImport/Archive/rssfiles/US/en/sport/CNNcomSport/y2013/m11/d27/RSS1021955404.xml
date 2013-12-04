@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 06:36:13 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition_sport" rel="self" type="application/rss+xml"/>
+<feedburner:info uri="rss/edition_sport"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Tears of joy for mourning Day</title>
+<guid isPermaLink="false">http://edition.cnn.com/2013/11/24/sport/golf/day-typhoon-haiyan-golf/index.html</guid>
+<link>http://rss.cnn.com/~r/rss/edition_sport/~3/yT1pbVM2WiA/index.html</link>
+<description>Jason Day nearly pulled out of the World Cup of Golf after learning he had lost eight relatives to Typhoon Haiyan in the Philippines.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_sport/~4/yT1pbVM2WiA" height="1" width="1"/&gt;</description>
+<pubDate>Wed, 27 Nov 2013 13:45:07 EST</pubDate>
+<feedburner:origLink>http://edition.cnn.com/2013/11/24/sport/golf/day-typhoon-haiyan-golf/index.html</feedburner:origLink>
+<ExtractedText>Tears of joy for Jason Day as he completes emotional World Cup win
+November 24, 2013 -- Updated 1624 GMT (0024 HKT)
+Jason Day's victory proved popular with home fans at Royal Melbourne as he led Australia to the team title at the World Cup.
+STORY HIGHLIGHTS
+Jason Day wins World Cup of Golf in Melbourne
+Edges Thomas Bjorn of Denmark by two strokes
+Leads Australia to team title with Adam Scott
+Filipino-Australian Day lost eight relatives to Typhoon Haiyan
+(CNN) -- Jason Day nearly pulled out of the World Cup of Golf after learning he had lost eight relatives to Typhoon Haiyan in the Philippines.
+Instead he completed an emotional double victory Sunday in Melbourne as he claimed the individual title and paired with Adam Scott to lead Australia to team honors.
+After finishing with a final round 70 for 10-under at Royal Melbourne, Day said his Filipino mother Dening and his sisters had been in this thoughts throughout the event.
+They were in the gallery to watch the 24-year-old hold off Thomas Bjorn of Denmark by two shots in a tense final round.
+"I am just happy that she is here and I get to hug her," he said.
+It would have been the easiest thing for me to just go ahead and pull out of the tournament with what has been going on over the last week
+Jason Day
+Read: Death toll rises from Typhoon Haiyan
+"It would have been the easiest thing for me to just go ahead and pull out of the tournament with what has been going on over the last week, just to be up there with my mum and support her," he added.
+Day lost his grandmother, an uncle and six cousins in the November 8 tragedy and he said that both he and World No.2 Scott would assist with the relief program.
+"We will definitely be giving some money or raising money and trying to raise awareness to what has really happened over there.
+"To have that lead going into Sunday with all that stuff going on, to finally finish off and hit a great shot into 18 like I did and to win like that was a very big move in my golfing career."
+Scott, who has won the Australia PGA and Australia Masters title in the past month, continued his superb form by taking third in the individual standings.
+Their combined score left them 10 shots clear of the United States in the team category, Australia's first success for 24 years in the annual competition.
+Read: Golfer gets hole in one at World Cup
+Bjorn, who led after two rounds and trailed Day by just one shot heading into the last day, paid tribute to the winner.
+"I couldn't be happier for Jason. He has gone through a rough time of late and for him to even be here is a big thing and then to go and go and win the golf tournament, and for him to also win the team event, is fantastic," he said.
+Scott will head to the Australian Open in Sydney this week, bidding a triple of the three main tournaments held in his country, only the second man in history to achieve the feat if he does emerge the winner.
+Day will also be competing at Royal Sydney.
+</ExtractedText>
+</item>
+</channel>
+</rss>

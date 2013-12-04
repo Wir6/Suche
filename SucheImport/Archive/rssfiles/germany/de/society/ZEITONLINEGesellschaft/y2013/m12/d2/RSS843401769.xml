@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Gesellschaft</title>
+<description>Menschen in der Gesellschaft. Aktuelles zu Zeitgeschehen, Generationen, Soziales und Bildung.</description>
+<pubDate>Tue, 03 Dec 2013 12:08:28 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:25:05 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/gesellschaft/index</link>
+<atom:link href="http://newsfeed.zeit.de/gesellschaft/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Gesellschaft</title>
+      <link>http://www.zeit.de/gesellschaft/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/gesellschaft/schule/2013-12/pisa-quiz</link>
+      <guid>http://www.zeit.de/gesellschaft/schule/2013-12/pisa-quiz</guid>
+      <category>Gesellschaft</category>
+      <title>Schulstudie: Was wissen Sie über Pisa?</title>
+      <description>&lt;a href="http://www.zeit.de/gesellschaft/schule/2013-12/pisa-quiz"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/gesellschaft/schule/2013-11/schule-finger/schule-finger-148x84.jpg"/&gt;&lt;/a&gt; Am Dienstag erscheint die nächste Pisa-Studie. Was wissen Sie über die internationale Schulstudie? Und können Sie die Matheaufgaben lösen?</description>
+      <dc:creator>ZEIT ONLINE : Gesellschaft</dc:creator>
+      <pubDate>Mon, 02 Dec 2013 10:33:13 GMT</pubDate>
+    <ExtractedText>Schulstudie: Was wissen Sie über Pisa?
+Frage 1 von 10
+Was wissen Sie über Pisa?
+Zum fünften Mal prüft die OECD mit der Pisa-Studie das Wissen von
+Grundschülern.
+</ExtractedText>
+</item>
+</channel>
+</rss>

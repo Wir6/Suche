@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>SPIEGEL ONLINE - Netzwelt</title>
+<link>http://www.spiegel.de</link>
+<description>Nachrichten zu Internet und Technik, Handys und Computern. Aktuelle Reportagen, Analysen, Service.</description>
+<language>de</language>
+<pubDate>Tue, 03 Dec 2013 16:33:05 +0100</pubDate>
+<lastBuildDate>Tue, 03 Dec 2013 16:33:05 +0100</lastBuildDate>
+<image>
+<title>SPIEGEL ONLINE</title>
+<link>http://www.spiegel.de</link>
+<url>http://www.spiegel.de/static/sys/logo_120x61.gif</url>
+</image>
+<item>
+<title>Android-Tipphilfe: Google setzt 1400 Anzüglichkeiten auf die Ignorierliste</title>
+<link>http://www.spiegel.de/netzwelt/web/android-tipphilfe-google-setzt-165-000-anzueglichkeiten-auf-die-zensurliste-a-936952.html#ref=rss</link>
+<description>Google hat ein Problem mit "Geeks", "Liebe machen" und "Kondomen": Die Tipphilfe der neueste Android-Version KitKat soll rund 1400 englischen Ausdrücke ignorieren. Darunter finden sich laut "Wired" durchaus schlüpfrige, aber auch harmlose Begriffe.</description>
+<pubDate>Tue, 03 Dec 2013 15:23:00 +0100</pubDate>
+<guid>http://www.spiegel.de/netzwelt/web/android-tipphilfe-google-setzt-165-000-anzueglichkeiten-auf-die-zensurliste-a-936952.html</guid>
+<content:encoded><![CDATA[<img src="http://www.spiegel.de/images/image-563292-thumbsmall-uuhm.jpg" hspace="5" align="left" >Google hat ein Problem mit "Geeks", "Liebe machen" und "Kondomen": Die Tipphilfe der neueste Android-Version KitKat soll rund 1400 englischen Ausdrücke ignorieren. Darunter finden sich laut "Wired" durchaus schlüpfrige, aber auch harmlose Begriffe.]]></content:encoded>
+<enclosure type="image/jpeg" url="http://www.spiegel.de/images/image-563292-thumbsmall-uuhm.jpg"/>
+<ExtractedText>Android-Tipphilfe: Google setzt 165.000 Anzüglichkeiten auf die Zensurliste
+Android-Tipphilfe: Google setzt 1400 Anzüglichkeiten auf die Ignorierliste
+Google
+Google Nexus 5: Ungefähr 1400 Wörter bei KitKat auf einer Blockierliste
+Google hat ein Problem mit "Geeks", "Liebe machen" und "Kondomen": Die Tipphilfe der neueste Android-Version KitKat soll rund 1400 englischen Ausdrücke ignorieren. Darunter finden sich laut "Wired" durchaus schlüpfrige, aber auch harmlose Begriffe.
+Etwa 165.000 Begriffe soll das englischsprachige Wörterbuch der neuesten Android -Version KitKat enthalten, schreibt das US-Magazin "Wired" : Trotzdem müssten einige populäre Begriffe standardmäßig selbst zu Ende getippt werden. Wer per Android-Keyboard "intercourse", "coitus" oder "lovemaking" tippt, warte beim Schreiben vergebens darauf, Vorschläge zum Wort-Vervollständigen zu bekommen. Auch die Swype-Funktion verweigere bei Begriffen wie "Sex" oder den genannten Synonymen ihren Dienst.
+"Ich versuche, per Swype-Funktion das Wort 'Kondom' einzugeben und bekomme 'Kondition' oder 'Konfusion'", zitiert "Wired" Jillian York , eine Sprecherin der Electronic Frontier Foundation, die sich für Bürgerrechte einsetzt. "Es gibt keinen Kontext, in dem das irgendeinen Sinn ergibt. Werd erwachsen, Android."
+Ungefähr 1400 Wörter soll Google bei KitKat auf eine Art Blockierliste gesetzt haben. Das Wörterbuch behandelt sie, als würden sie nicht existieren. Neben Wörtern mit sexuellem Bezug, wie Bezeichnungen für Geschlechtsorgane, sollen auch weniger schlüpfrige Begriffe betroffen sein. Als Beispiel nennt "Wired" das Wort "geek", das auch im Deutschen verwendet wird: als Substantiv im Sinne von "Computerfreak".
+"Nazi" funktioniert, "Rassist" nicht
+Der Artikel mit der Überschrift "Androids bizarre Liste verbannter Wörter" erwähnt noch mehr Seltsamkeiten: So wird der Name des Chip-Herstellers AMD standardmäßig nicht vervollständigt, "Microsoft" dagegen schon. "Marijuana" kann mit Hilfestellung getippt werden, "Morphium" nicht. Und auch "Nazi" funktioniert, im Gegensatz zu "Supremacist".
+"Wired" bilanziert: "Als Ganzes betrachtet, lässt die Google-Liste nicht nur ein überraschendes Unbehagen an Sexualität, sondern auch an Fortpflanzungsmedizin und Unterwäsche erahnen."
+Google wollte sich gegenüber dem US-Magazin nicht dazu äußern, wie es die Liste zusammenstellt und wie häufig diese aktualisiert wird. Ähnlich hatte sich im Sommer Apple verhalten, als "The Daily Beast" darüber berichtete , dass bei iOS bestimmte Wörter standardmäßig blockiert werden.
+Wer beim Flirten oder Fluchen Zeit sparen will, kann manuell Begriffe zum Wörterbuch hinzufügen. Mit der Frage, welche Wörter bei deutschen Android-Versionen blockiert werden, hat sich Anfang 2013 übrigens der Blogger Matthias Bauer beschäftigt: Wie in seinem Blog nachzulesen ist , waren in der Version 4.2 zum Beispiel die Begriffe "Dummkopf" und "geil" standardmäßig nicht per Wischgeste eingebbar.
+mbö
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Wirtschaft</title>
+<description>Aktuelle Nachrichten, Kommentare, Analysen und Hintergründe zu den Themen Wirtschaftspolitik, Finanzen, Unternehmen, Branchen, Börsen und Märkten</description>
+<pubDate>Tue, 03 Dec 2013 11:32:32 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:41:32 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/wirtschaft/index</link>
+<atom:link href="http://newsfeed.zeit.de/wirtschaft/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Wirtschaft</title>
+      <link>http://www.zeit.de/wirtschaft/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/wirtschaft/2013-12/infografik-arbeitskosten</link>
+      <guid>http://www.zeit.de/wirtschaft/2013-12/infografik-arbeitskosten</guid>
+      <category>Wirtschaft</category>
+      <title>Infografik: Was Arbeit in Europa kostet</title>
+      <description>&lt;a href="http://www.zeit.de/wirtschaft/2013-12/infografik-arbeitskosten"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/wirtschaft/2013-12/statista-arbeitskosten/statista-arbeitskosten-148x84.jpg"/&gt;&lt;/a&gt; Unsere Grafik zeigt: Arbeit ist in Deutschland noch immer teurer als in anderen Ländern. Der Arbeitsmarkt läuft trotzdem rund – weil noch andere Faktoren entscheiden.</description>
+      <dc:creator>ZEIT ONLINE : Wirtschaft</dc:creator>
+      <pubDate>Tue, 03 Dec 2013 11:29:39 GMT</pubDate>
+    <ExtractedText>Infografik: Hohe Arbeitskosten in Deutschland
+Infografik: Was Arbeit in Europa kostet
+Unsere Grafik zeigt: Arbeit ist in Deutschland noch immer teurer als in anderen Ländern. Der Arbeitsmarkt läuft trotzdem rund – weil noch andere Faktoren entscheiden.
+3. Dezember 2013  12:18 Uhr  50 Kommentare
+So viel zahlen Unternehmen durchschnittlich für eine Stunde Arbeit  |  © Statista
+Arbeit ist in Deutschland relativ teuer. Die Infografik zeigt es: Firmen zahlen hierzulande für eine Stunde Leistung im Durchschnitt 31 Euro. Nur in sieben Ländern der Europäischen Union ist es noch mehr. Mit eingerechnet sind die Arbeitgeberanteile an den Sozialbeiträgen, Aus- und Weiterbildungskosten sowie bestimmte Steuern – die Zahlen sagen deshalb nur begrenzt etwas darüber aus, was die Angestellten netto verdienen. Sie verdecken auch die großen Unterschiede zwischen den einzelnen Branchen. In Deutschland zum Beispiel kostet ein Industriearbeitsplatz den Arbeitgeber pro Stunde 35,10 Euro. Im privaten Dienstleistungssektor sind es nur 28,40 Euro.  
+Einen interessanten Widerspruch macht die Grafik allerdings deutlich: Obwohl Arbeit in Deutschland relativ teuer ist, geht es dem Arbeitsmarkt gut. Wie kann das sein? Müsste nicht gerade die Industrie, die im internationalen Wettbewerb steht, in billigere Länder ausweichen? Eine Antwort liegt in der Produktivität der Arbeit. Deutsche Industriearbeiter sind zwar teuer, aber sie schaffen auch viel. Deshalb kann sich der hohe Preis ihrer Arbeit lohnen. Eine andere Antwort ist: Wichtiger als der aktuelle Stand der Kosten ist die Frage, wie sie sich auf lange Sicht entwickeln. Und in Deutschland stiegen die Arbeitskosten nach 2000 jahrelang nur unterdurchschnittlich an. Auch die Lohnstückkosten, die das Verhältnis von Arbeitskosten zur Produktivität messen, wuchsen von 2000 bis 2012 weniger stark als im Rest der EU. Das ist – neben der guten Qualität ihrer Produkte – ein Grund für die Exportstärke der Deutschen.
+Anzeige
+Jetzt aber dreht sich der Trend. Endlich, sagen die Forscher des gewerkschaftsnahen Instituts für Makroökonomie und Konjunkturforschung (IMK) der Hans- Böckler-Stiftung, die die obigen Zahlen zusammengetragen haben. Die internationale Kritik an den deutschen Exportüberschüssen müsse ernst genommen werden. Vielleicht noch wichtiger ist ihnen aber, dass seit kurzem auch die Löhne in Deutschland wieder steigen. Das Wohl der deutschen Wirtschaft, sagen sie, dürfe nicht nur am Export hängen. Die Binnennachfrage müsse wieder erstarken.
+</ExtractedText>
+</item>
+</channel>
+</rss>

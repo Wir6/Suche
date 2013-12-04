@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Business</title>
+<link>http://edition.cnn.com/BUSINESS/index.html?eref=rss_business</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 09:33:11 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Business</title>
+<link>http://edition.cnn.com/BUSINESS/index.html?eref=rss_business</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition_business" rel="self" type="application/rss+xml"/>
+<feedburner:info uri="rss/edition_business"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>The perfect Christmas toy?</title>
+<guid isPermaLink="false">http://edition.cnn.com/video/data/2.0/video/business/2013/11/28/spc-going-global-toys-r-us-black-friday.cnn.html</guid>
+<link>http://rss.cnn.com/~r/rss/edition_business/~3/If4wPhUSncc/spc-going-global-toys-r-us-black-friday.cnn.html</link>
+<description>Richard Barry, the Chief Merchandising Officer of Toys R Us, demonstrates the retailer's latest products.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_business/~4/If4wPhUSncc" height="1" width="1"/&gt;</description>
+<pubDate>Thu, 28 Nov 2013 12:02:14 EST</pubDate>
+<feedburner:origLink>http://edition.cnn.com/video/data/2.0/video/business/2013/11/28/spc-going-global-toys-r-us-black-friday.cnn.html</feedburner:origLink>
+<ExtractedText/>
+</item>
+</channel>
+</rss>

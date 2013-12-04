@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Alles digital</title>
+<description>Nachrichten, Analysen und Reportagen zu den Themen Internet, Datenschutz, Netzkultur, Mobil und Games. Sie finden hier die Trends, Features und Entwicklungen sowie aktuelle Tests aus dem Ressort Digital.</description>
+<pubDate>Tue, 03 Dec 2013 15:11:13 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:34:12 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/digital/index</link>
+<atom:link href="http://newsfeed.zeit.de/digital/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Alles digital</title>
+      <link>http://www.zeit.de/digital/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/digital/datenschutz/2013-11/bluetooth-bewegungsprofil-ueberwachung</link>
+      <guid>http://www.zeit.de/digital/datenschutz/2013-11/bluetooth-bewegungsprofil-ueberwachung</guid>
+      <category>Digital</category>
+      <title>Bewegungsprofile: Verfolgungsjagd per Bluetooth</title>
+      <description>&lt;a href="http://www.zeit.de/digital/datenschutz/2013-11/bluetooth-bewegungsprofil-ueberwachung"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/digital/datenschutz/2013-11/menschenmenge-bahnhof/menschenmenge-bahnhof-148x84.jpg"/&gt;&lt;/a&gt; Forscher haben beim Spazierengehen nach Geräten mit aktiver Bluetooth-Schnittstelle gesucht. Mit einfachsten Mitteln konnten sie Bewegungsprofile der Besitzer erstellen.</description>
+      <dc:creator>ZEIT ONLINE : Digital - Jörg Thoma</dc:creator>
+      <pubDate>Fri, 29 Nov 2013 15:24:50 GMT</pubDate>
+    <ExtractedText>Bewegungsprofile: Verfolgungsjagd per Bluetooth
+Bewegungsprofile: Verfolgungsjagd per Bluetooth
+Forscher haben beim Spazierengehen nach Geräten mit aktiver Bluetooth-Schnittstelle gesucht. Mit einfachsten Mitteln konnten sie Bewegungsprofile der Besitzer erstellen. von Jörg Thoma
+29. November 2013  16:23 Uhr  1 Kommentar
+Bluetooth ist inzwischen in fast jedem mobilen und immobilen Gerät verbaut - und oftmals unbemerkt vom den Besitzern aktiviert. Smartphone-Nutzer telefonieren etwa über Bluetooth-Headsets, und die Entertainmentelektronik in Fahrzeugen sucht nach Bluetooth-Geräten, die sie einbinden kann. Selbst Prothesen haben inzwischen Bluetooth-Schnittstellen.
+Grund genug für die beiden Sicherheitsexperten Verónica Valeros und Sebastián García aus Argentinien, bei Spaziergängen nach Bluetooth-Geräten zu gucken und die Ergebnisse ihrer Suche in einer Datenbank zu speichern. Tools habe es schon vorher gegeben, sagten sie auf der Sicherheitskonferenz Deepsec 2013 in Wien . Allerdings erweiterten sie die von ihnen entwickelte Werkzeugsammlung so, dass die Informationen auch GPS-Daten enthalten. So entstanden etwa Bewegungsprofile von Menschen, die ihre Mobiltelefone mit aktiviertem Bluetooth nutzten.
+Anzeige
+Mit ihrem Werkzeug könnten Diebe aber auch eine Positionsliste erstellen, etwa von für den Diebstahl lohnenswerten Objekten. Denn inzwischen haben selbst digitale Fernseher eine Bluetooth-Schnittstelle und bei manchen enthält der Gerätename auch gleich die Bildschirmgröße. Das Fazit der Sicherheitsforscher: lieber Bluetooth ausschalten und auch in Geräten nachsehen, in denen Bluetooth nicht einmal vermutet wird. Zumindest sollte der Name des Geräts keinen Hinweis auf den Besitzer oder das Gerät geben.
+Bluetooth überall
+Etwa in einem Gerät zur Messung der Lungenfunktionen, das viele Patienten mit Asthma mit sich tragen. Inzwischen werden auch Prothesen mit einer Bluetooth-Schnittstelle versehen. Bei Patienten mit zwei Beinprothesen kommunizieren die beiden künstlichen Gliedmaßen, um die Bewegung des Patienten besser zu koordinieren. Eigentlich eine sinnvolle Funktion, wären da nicht die zwangsweise nach außen hin sichtbare MAC-Adresse und der Gerätename.
+Mit ihrem Werkzeug wollten Valeros und García in erster Linie zeigen, wie einfach es ist, mit den gesammelten Daten Bewegungsprofile zu erstellen. Aus den Metadaten konnten die Sicherheitsexperten ziemlich genaue Mutmaßungen über die von ihnen Verfolgten machen. Wiederholte sich beispielsweise der Weg jeden Tag in der Früh zur gleichen Uhrzeit, gingen die Forscher davon aus, dass das Opfer auf dem Weg zur Arbeit war.
+Bis zu 100 Meter
+Allerdings ist die Reichweite bei Bluetooth begrenzt. Per Standard definiert liegt der Radius bei etwa zehn Metern. Das gilt für Bluetooth-Geräte der Klasse 2. Im Freien können sie aber aus bis zu 50 Metern Entfernung noch erkannt werden. Die selteneren Geräte der Klasse 1 können eine Reichweite von 100 Metern erreichen. Gegenwärtig liegen Geräte mit Bluetooth der Klasse 3 im Trend. Sie sind nur für den Einsatz bei kurzen Strecken und in Geräten mit langer Akkulaufzeit gedacht, wie etwa Headsets, Hörgeräten oder Pulsmessern, die beispielsweise ihre Daten an Smartphones weitergeben. Durchschnittlich liegt deren Reichweite bei etwa einem Meter, maximal sind es zehn.
+Übersicht zu diesem Artikel
+</ExtractedText>
+</item>
+</channel>
+</rss>

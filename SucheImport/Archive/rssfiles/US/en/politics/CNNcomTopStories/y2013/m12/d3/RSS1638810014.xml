@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:34:11 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>What Asian schools can teach world</title>
+<guid>http://edition.cnn.com/2013/12/03/opinion/education-rankings-commentary-schleicher/index.html</guid>
+<link>http://edition.cnn.com/2013/12/03/opinion/education-rankings-commentary-schleicher/index.html?eref=edition</link>
+<description>Shanghai's education system has topped a global league table, but the success of the region's schools is not about rote learning, says the OECD's Andreas Schleicher.</description>
+<pubDate>Tue, 03 Dec 2013 05:32:47 EST</pubDate>
+<ExtractedText>Can China replicate Shanghai's triumph?
+On China: China's education gap
+They have devised powerful strategies to attract the most talented teachers to the most challenging classrooms and to get the strongest principals into the toughest schools.
+While the American dream of social mobility is becoming a distant memory for the next generation of American students, it is just emerging as a new reality in East Asia.
+Obviously, one can't copy and paste school systems wholesale. But PISA has revealed a surprising number of features which the world's most successful school systems share and from which others can learn. For a start, leaders in the East Asian education systems have convinced their citizens to make choices that value education, their future, more than consumption today. But placing a high value on education is just part of their equation.
+Hard work vs. talent
+Another part is the belief in the possibilities for all children to achieve. In Japan, for example, students not only believe they are in control of their ability to succeed, but they are prepared to do what it takes to do so: 84% of students said they won't put off difficult problems, in the U.S. only half did so.
+The fact that students in most Asian countries consistently believe that achievement is mainly a product of hard work, rather than inherited intelligence, suggests that education and its social context can make a difference in instilling values that foster success in education.
+In the past different students were taught in similar ways. Shanghai embraces diversity with differentiated instructional practices, its teachers have high expectations for every student and realize that ordinary students have extraordinary talents.
+They also share clear and ambitious standards across the board. Everyone knows what is required to get a given qualification.
+Teachers matter
+And nowhere does the quality of a school system exceed the quality of its teachers.
+The East Asian school systems all pay great attention to how they select and train their staff. And when deciding where to invest, they prioritize the quality of teachers over the size of classes. Not least, they provide intelligent pathways for teachers to grow in their careers.
+High performers have also moved on from bureaucratic control and accountability to professional forms of work organization. They support their teachers to make innovations in pedagogy, to improve their own performance and that of their colleagues, and to pursue professional development that leads to stronger educational practice.
+The goal of the past was standardization and compliance, top performers enable teachers to be inventive. In the past, the policy focus was on the provision of education, in top school systems it's on outcomes, shifting from looking upwards in the bureaucracy towards looking outwards to the next teacher, the next school, about creating networks of innovation. You can see that nowhere better than in Finland and Japan.
+READ: 'Tiger mothers' leave lifelong scars
+The most impressive outcome of world class school systems is perhaps that they deliver high quality across the entire school system so that every student benefits from excellent learning. And they align policies and practices effectively across all aspects of the system, they make them coherent over sustained periods of time, and they see that they are consistently implemented. You can see that nowhere better than in Singapore
+Room for improvement
+And yet, there are areas where Shanghai, too, has room for improvement. Intrinsic motivation is often low, for example, only 36% of students in Shanghai say they like to solve complex problems.
+Just 75% say that school has taught them things which could be useful in a job, compared with an OECD average of 87%. There are also indications that Shanghai's schools can improve the social climate for learning: Just two-thirds of Shanghai's 15-year-olds feel they belong at school. On average across OECD countries it is over 80%, and in some countries over 90%. Not least, just 77% of students in Shanghai say that other students like them, compared with an average of 90%.
+The challenges are tough and the status quo has many protectors. But global comparisons like PISA remind us of what is possible in education. And they help us to set meaningful targets in terms of measurable goals achieved by the world's educational leaders.
+The world has become indifferent to tradition and past reputations, unforgiving of frailty and ignorant of custom or practice. Success will go to those individuals, institutions and countries which are swift to adapt, slow to complain and open to change. And the task for governments is to ensure that their citizens and education systems rise to this challenge.
+The opinions in this article are solely those of Andreas Schleicher, the OECD's special adviser on education policy
+</ExtractedText>
+</item>
+</channel>
+</rss>

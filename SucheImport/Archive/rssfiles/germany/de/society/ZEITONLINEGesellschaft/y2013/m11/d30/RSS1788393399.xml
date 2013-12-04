@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Gesellschaft</title>
+<description>Menschen in der Gesellschaft. Aktuelles zu Zeitgeschehen, Generationen, Soziales und Bildung.</description>
+<pubDate>Tue, 03 Dec 2013 12:08:28 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:25:05 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/gesellschaft/index</link>
+<atom:link href="http://newsfeed.zeit.de/gesellschaft/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Gesellschaft</title>
+      <link>http://www.zeit.de/gesellschaft/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/gesellschaft/zeitgeschehen/2013-11/flugzeugabsturz-namibia-mosambik</link>
+      <guid>http://www.zeit.de/gesellschaft/zeitgeschehen/2013-11/flugzeugabsturz-namibia-mosambik</guid>
+      <category>Gesellschaft</category>
+      <title>Luftfahrt: 34 Tote bei Flugzeugabsturz in Namibia</title>
+      <description>Auf dem Weg von Mosambik nach Angola ist ein Flugzeug abgestürzt und ausgebrannt. Wegen Sicherheitsmängeln hat die Fluglinie LAM in der EU keine Landeerlaubnis.</description>
+      <dc:creator>ZEIT ONLINE : Gesellschaft</dc:creator>
+      <pubDate>Sat, 30 Nov 2013 11:32:10 GMT</pubDate>
+    <ExtractedText>Luftfahrt: 34 Tote bei Flugzeugabsturz in Namibia
+Luftfahrt: 34 Tote bei Flugzeugabsturz in Namibia
+Auf dem Weg von Mosambik nach Angola ist ein Flugzeug abgestürzt und ausgebrannt. Wegen Sicherheitsmängeln hat die Fluglinie LAM in der EU keine Landeerlaubnis.
+30. November 2013  11:54 Uhr  1 Kommentar
+In Namibia ist das Wrack eines seit Freitag vermissten Flugzeugs aus Mosambik entdeckt worden. Keiner der 34 Menschen an Bord habe das Unglück überlebt, teilte die Polizei mit. Das vollständig ausgebrannte Wrack der Maschine sei in der Region Kavango entdeckt worden, sagte der örtliche Koordinator der Polizei, Willie Bampton.
+Nach Angaben der mosambikanischen Fluggesellschaft LAM war ihre Maschine von Mosambiks Hauptstadt Maputo auf dem Weg in die angolanische Hauptstadt Luanda, als der Kontakt abbrach. Die nächtliche Suche nach dem Flugzeug war durch die Dunkelheit und starke Regenfälle erschwert worden, berichteten lokale Medien.
+Anzeige
+Die Maschine gehörte zur Flotte der Fluglinie Mozambique Airlines (LAM). Die EU hatte der LAM im Jahr 2011 wegen ernster Sicherheitsmängel die Landeerlaubnis entzogen.
+Die Fluggesellschaft hatte das Flugzeug zuvor als vermisst gemeldet. Es sei am Freitag in Mosambiks Hauptstadt Maputo gestartet aber nicht wie vorgesehen in der angolanischen Hauptstadt Luanda gelandet. Möglicherweise sei das Flugzeug in Rundu im Norden von Namibia gelandet, hieß es zunächst.
+</ExtractedText>
+</item>
+</channel>
+</rss>

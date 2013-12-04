@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Technology</title>
+<link>http://www.cnn.com/TECH/index.html?eref=rss_tech</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 06:39:47 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Technology</title>
+<link>http://www.cnn.com/TECH/index.html?eref=rss_tech</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition_technology" rel="self" type="application/rss+xml"/>
+<feedburner:info uri="rss/edition_technology"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>'Cyber Week' deals on phones, TVs, clothes</title>
+<guid isPermaLink="false">http://www.cnn.com/2013/12/01/tech/web/cyber-monday-deals/index.html</guid>
+<link>http://rss.cnn.com/~r/rss/edition_technology/~3/yW6LsM9u7Mw/index.html</link>
+<description>How eager are retailers to boost sales this holiday season? It's no longer enough for them to offer one special day of discounts to online shoppers -- they're stretching the deals out over an entire week.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_technology/~4/yW6LsM9u7Mw" height="1" width="1"/&gt;</description>
+<pubDate>Mon, 02 Dec 2013 18:10:45 EST</pubDate>
+<feedburner:origLink>http://www.cnn.com/2013/12/01/tech/web/cyber-monday-deals/index.html</feedburner:origLink>
+<ExtractedText>Cyber Monday deals on phones, TVs, clothes
+By Brandon Griggs, CNN
+December 2, 2013 -- Updated 1730 GMT (0130 HKT) | Filed under: Web
+STORY HIGHLIGHTS
+Retailers offering Cyber Monday deals of up to 50% on electronics and other items
+Many websites now offer discounts throughout what they call "Cyber Week"
+The term Cyber Monday was coined in 2005 by a retail lobbying group
+(CNN) -- How eager are retailers to boost sales this holiday season? It's no longer enough for them to offer one special day of discounts to online shoppers -- they're stretching the deals out over an entire week.
+While retailers are still trumpeting deals for this Monday after Thanksgiving, many such as Amazon, Target and Walmart are now promoting some version of "Cyber Week" and extending Web-only deals through next weekend. The online discounts apply to all types of items, from appliances to clothes to consumer electronics.
+Walmart, for example, says it will offer 200 deals on its website each day through Friday, plus free shipping on all orders over $35. Not to be outdone, Amazon is promising new deals as often as every 10 minutes through Saturday, along with free shipping on "eligible orders" of $35 and over (it's not clear how they define "eligible.")
+In fact, if you're not getting free shipping on your online purchases this week, you may want to shop elsewhere.
+Navigating Black Friday and Cyber Monday
+Clothing chains such as H&amp;M, Gap and Banana Republic also are offering storewide Cyber Monday discounts of 40%.
+It's not always clear whether Cyber Monday discounts are much greater than what retailers offer online during other sale events. Also, supplies may be limited.
+Here's a sampling of some online deals being advertised for Cyber Monday (and in many cases, the rest of the week):
+</ExtractedText>
+</item>
+</channel>
+</rss>

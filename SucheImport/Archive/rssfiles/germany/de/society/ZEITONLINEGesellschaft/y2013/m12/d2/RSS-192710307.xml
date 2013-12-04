@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Gesellschaft</title>
+<description>Menschen in der Gesellschaft. Aktuelles zu Zeitgeschehen, Generationen, Soziales und Bildung.</description>
+<pubDate>Tue, 03 Dec 2013 12:08:28 GMT</pubDate>
+<lastBuildDate>Tue, 3 Dec 2013 16:25:05 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/gesellschaft/index</link>
+<atom:link href="http://newsfeed.zeit.de/gesellschaft/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Gesellschaft</title>
+      <link>http://www.zeit.de/gesellschaft/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/gesellschaft/zeitgeschehen/2013-12/new-york-zugunglueck-geschwindigkeit</link>
+      <guid>http://www.zeit.de/gesellschaft/zeitgeschehen/2013-12/new-york-zugunglueck-geschwindigkeit</guid>
+      <category>Gesellschaft</category>
+      <title>New York: Verunglückter Zug ist viel zu schnell gefahren</title>
+      <description>&lt;a href="http://www.zeit.de/gesellschaft/zeitgeschehen/2013-12/new-york-zugunglueck-geschwindigkeit"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/gesellschaft/zeitgeschehen/2013-12/zug-new-york/zug-new-york-148x84.jpg"/&gt;&lt;/a&gt; Erste Untersuchungen des New Yorker Zuges deuten auf eine überhöhte Geschwindigkeit hin. Demnach fuhr er mit mehr als 130 Stundenkilometern in eine Tempo-50-Kurve.</description>
+      <dc:creator>ZEIT ONLINE : Gesellschaft</dc:creator>
+      <pubDate>Mon, 02 Dec 2013 22:30:50 GMT</pubDate>
+    <ExtractedText>New York: Verunglückter Zug ist zu schnell gefahren
+New York: Verunglückter Zug ist viel zu schnell gefahren
+Erste Untersuchungen des New Yorker Zuges deuten auf eine überhöhte Geschwindigkeit hin. Demnach fuhr er mit mehr als 130 Stundenkilometern in eine Tempo-50-Kurve.
+2. Dezember 2013  23:29 Uhr  1 Kommentar
+Schienenarbeiter untersuchen die Gleise im New Yorker Stadtteil Bronx  |  © Shannon Stapleton/Reuters
+Der im New Yorker Stadtteil Bronx verunglückte Zug ist kurz vor seiner Entgleisung ersten Erkenntnissen zufolge zu schnell in die Kurve gefahren. Die Vorortbahn sei 132 Stundenkilometer schnell unterwegs gewesen – etwa 80 mehr als erlaubt, teilte die zuständige Untersuchungsbehörde NTSB mit. Das Tempolimit lag im betreffenden Abschnitt bei 50 Kilometern pro Stunde.
+Ob es ein Problem mit den Bremsen gegeben habe, sei noch nicht klar. Der Zugführer und drei Schaffner werden noch befragt. Auch das Handy des Zugführers und zwei Fahrtenschreiber werden ausgewertet. Nach Angaben der NTSB könnten die Ermittlungen am Unfallort bis zu zehn Tage dauern.
+Anzeige
+Der Nahverkehrszug war am Sonntag auf dem Weg von Poughkeepsie nach Manhattan kurz vor dem Bahnhof Spuyten Duyvil in der Bronx entgleist. Bei dem Unglück waren mindestens vier Menschen getötet und fast 70 verletzt worden.
+Der New Yorker Gouverneur Andrew Cuomo hatte bereits die Vermutung geäußert, dass überhöhte Geschwindigkeit ein Faktor für das Entgleisen des Zugs gewesen sein könnte. Mehrere Fahrgäste hatten ausgesagt, der Zug sei schneller als sonst in die betreffende Kurve eingefahren.
+</ExtractedText>
+</item>
+</channel>
+</rss>

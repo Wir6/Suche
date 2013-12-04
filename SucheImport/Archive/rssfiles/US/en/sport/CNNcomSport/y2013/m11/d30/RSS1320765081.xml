@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 06:36:13 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Sport</title>
+<link>http://edition.cnn.com/SPORT/index.html?eref=rss_sport</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition_sport" rel="self" type="application/rss+xml"/>
+<feedburner:info uri="rss/edition_sport"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Motorsport: Death at Simoncelli event </title>
+<guid isPermaLink="false">http://edition.cnn.com/2013/11/30/sport/motorsport/motocycling-romboni-death/index.html</guid>
+<link>http://rss.cnn.com/~r/rss/edition_sport/~3/YlTovjsJH4I/index.html</link>
+<description>Former Italian motorcycle racer Doriano Romboni has been killed in an accident at an event marking the memory of late MotoGP rider Marco Simoncelli.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_sport/~4/YlTovjsJH4I" height="1" width="1"/&gt;</description>
+<pubDate>Sat, 30 Nov 2013 16:03:30 EST</pubDate>
+<feedburner:origLink>http://edition.cnn.com/2013/11/30/sport/motorsport/motocycling-romboni-death/index.html</feedburner:origLink>
+<ExtractedText>Former Italian racer Doriano Romboni killed at Simoncelli memorial event
+November 30, 2013 -- Updated 2100 GMT (0500 HKT)
+Italy's Dariano Romboni in a picture taken prior to the 1996 Malaysian Grand Prix.
+STORY HIGHLIGHTS
+Former Italian 500cc racer dies following accident at Marco Simoncelli tribute event
+Doriano Romboni fatally injured after being struck by another motorcycle
+Romboni airlifted to hospital but pronounced dead shortly after arrival
+(CNN) -- Former Italian motorcycle racer Doriano Romboni has been killed in an accident at an event marking the memory of late MotoGP rider Marco Simoncelli.
+Romboni, 44, was struck by another motorcycle during a training session for the second annual "Sic Supermoto Day" at Italy's Latina circuit, 70 kilometers south east of the capital Rome.
+Following the incident, Romboni was airlifted to hospital but died shortly after arrival, Italian News Agency ANSA reported.
+The fatal accident has echoes of the way his compatriot Simoncelli died. The 24-year-old was killed following a collision with American rider Colin Edwards and Italy's Valentino Rossi during the Malaysian Grand Prix in October 2011.
+Romboni was a six-time winner in 125cc and 250cc races and competed in the 500cc class (the forerunner to MotoGP) from 1996-1998 with his best finish coming at the 1997 Dutch TT at Assen where he finished third for the Aprilia team.
+</ExtractedText>
+</item>
+</channel>
+</rss>

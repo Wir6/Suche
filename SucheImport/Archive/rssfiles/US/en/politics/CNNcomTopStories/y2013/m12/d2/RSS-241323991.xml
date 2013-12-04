@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 10:34:11 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Pope's hopes for Mid-East talks</title>
+<guid>http://edition.cnn.com/2013/12/02/world/europe/pope-netanyahu/index.html</guid>
+<link>http://edition.cnn.com/2013/12/02/world/europe/pope-netanyahu/index.html?eref=edition</link>
+<description>Pope Francis meets Israeli Prime Minister Benjamin Netanyahu, expressing hope that Palestinians and Israelis can forge a peace agreement "as soon as possible."</description>
+<pubDate>Mon, 02 Dec 2013 11:43:32 EST</pubDate>
+<ExtractedText>Pope Francis meets with Netanyahu at Vatican
+By CNN Staff
+December 2, 2013 -- Updated 1437 GMT (2237 HKT)
+Israeli PM Benjamin Netanyahu presents Pope Francis with a Menorah during their meeting at the Vatican, Monday, December 2.
+STORY HIGHLIGHTS
+Vatican expresses hope for Israeli-Palestinian peace talks
+Netanyahu meets with pope at Vatican's Apostolic Palace
+Pope expected to visit Israel, Palestinian territories next year
+(CNN) -- Pope Francis and Vatican officials expressed hope that Palestinians and Israelis can forge a peace agreement "as soon as possible" as Israeli Prime Minister Benjamin Netanyahu visited the pontiff Monday, the Vatican said.
+The meeting with Netanyahu at the Vatican's Apostolic Palace comes months ahead of Francis' anticipated trip to the Holy Land, a biblical region that includes Israel and the Palestinian territories.
+Netanyahu also met with the Vatican's secretary of state, Archbishop Pietro Parolin.
+The discussions focused on "the complex political and social situation in the Middle East, with particular reference to the reinstatement of negotiations between Israelis and Palestinians, expressing hope that a just and lasting solution respecting the rights of both parties may be reached as soon as possible," the Vatican said.
+Pope Francis calls for big changes in Roman Catholic Church
+Pope Francis is expected to visit Israel on May 25-26, an official Israeli source told CNN last month. The Vatican would not confirm the exact dates of the trip.
+Palestinian Authority President Mahmoud Abbas invited Francis to travel to the Palestinian territories during Abbas' visit to the Vatican in October.
+Pope Francis met with Israeli President Shimon Peres at the Vatican in April. A Vatican communique issued after that meeting said they had discussed the hope for a speedy resumption of direct talks between Israelis and Palestinians.
+The Pope Emeritus, Benedict XVI, visited the Holy Land in May 2009.
+</ExtractedText>
+</item>
+</channel>
+</rss>
