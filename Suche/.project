@@ -6,8 +6,6 @@
 		<project>SucheEJB</project>
 		<project>SucheWeb</project>
 		<project>SucheJPA</project>
-		<project>SucheServerRSS</project>
-		<project>SucheNER</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

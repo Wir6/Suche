@@ -10,10 +10,4 @@
       <context-root>SucheWeb</context-root>
     </web>
   </module>
-  <module>
-    <java>SucheServerRSS.jar</java>
-  </module>
-  <module>
-    <java>SucheNER.jar</java>
-  </module>
 </application>

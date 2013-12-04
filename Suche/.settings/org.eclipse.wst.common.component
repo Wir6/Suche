@@ -12,13 +12,5 @@
         <dependent-module archiveName="SucheJPA.jar" deploy-path="/lib" handle="module:/resource/SucheJPA/SucheJPA">
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="SucheServerRSS.jar" deploy-path="/" handle="module:/resource/SucheServerRSS/SucheServerRSS">
-            <dependent-object/>
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
-        <dependent-module archiveName="SucheNER.jar" deploy-path="/" handle="module:/resource/SucheNER/SucheNER">
-            <dependent-object/>
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
     </wb-module>
 </project-modules>

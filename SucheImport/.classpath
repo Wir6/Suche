@@ -7,7 +7,7 @@
 	<classpathentry kind="lib" path="/home/chris/workspaceSuche/libs/mysql-5.1.10.jar"/>
 	<classpathentry kind="lib" path="/home/chris/workspaceSuche/libs/saxpath.jar"/>
 	<classpathentry kind="lib" path="/home/chris/workspaceSuche/libs/tagsoup-1.2.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/SucheNER"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/SucheServerRSS"/>
+	<classpathentry kind="lib" path="/home/chris/workspaceSuche/libs/server.jar"/>
+	<classpathentry kind="lib" path="/home/chris/workspaceSuche/libs/stanford-ner.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
