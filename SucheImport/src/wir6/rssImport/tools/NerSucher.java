@@ -108,6 +108,11 @@ public class NerSucher
 	private String toWellFormedXml(String s)
 	{
 		String well = s.replaceAll("&amp;", "&");
+		well = well.replaceAll("&quot;", "\"");
+		well = well.replaceAll("&apos;", "'");
+		well = well.replaceAll("&lt;", "<");
+		well = well.replaceAll("&gt;", ">");
+		
 		well = well.replaceAll("&", "&amp;");
 		well = well.replaceAll("\"", "&quot;");
 		well = well.replaceAll("'", "&apos;");
