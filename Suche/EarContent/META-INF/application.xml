@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:application="http://java.sun.com/xml/ns/javaee/application_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_6.xsd" id="Application_ID" version="6">
+  <display-name>Suche</display-name>
+  <module>
+    <ejb>SucheEJB.jar</ejb>
+  </module>
+  <module>
+    <web>
+      <web-uri>SucheWeb.war</web-uri>
+      <context-root>SucheWeb</context-root>
+    </web>
+  </module>
+  <module>
+    <java>SucheServerRSS.jar</java>
+  </module>
+  <module>
+    <java>SucheNER.jar</java>
+  </module>
+</application>

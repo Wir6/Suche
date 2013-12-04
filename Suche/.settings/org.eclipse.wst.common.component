@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Suche">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="SucheEJB.jar" deploy-path="/" handle="module:/resource/SucheEJB/SucheEJB">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="SucheWeb.war" deploy-path="/" handle="module:/resource/SucheWeb/SucheWeb">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="SucheJPA.jar" deploy-path="/lib" handle="module:/resource/SucheJPA/SucheJPA">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="SucheServerRSS.jar" deploy-path="/" handle="module:/resource/SucheServerRSS/SucheServerRSS">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="SucheNER.jar" deploy-path="/" handle="module:/resource/SucheNER/SucheNER">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
