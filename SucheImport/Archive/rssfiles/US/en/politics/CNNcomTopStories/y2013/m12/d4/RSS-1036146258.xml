@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Wed, 04 Dec 2013 05:18:04 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Senior Hezbollah commander gunned down</title>
+<guid>http://edition.cnn.com/2013/12/04/world/meast/lebanon-hezbollah-killing/index.html</guid>
+<link>http://edition.cnn.com/2013/12/04/world/meast/lebanon-hezbollah-killing/index.html?eref=edition</link>
+<description>A senior commander of militant Shiite group Hezbollah is shot dead outside his home in Beirut. Israel has denied involvement in the killing.</description>
+<pubDate>Wed, 04 Dec 2013 05:14:25 EST</pubDate>
+<ExtractedText>By Nick Paton Walsh and Marie-Louise Gumuchian, CNN
+December 4, 2013 -- Updated 1007 GMT (1807 HKT)
+STORY HIGHLIGHTS
+Source: The commander was shot four times
+Hezbollah blamed Israel
+Israel denied the accusation
+Beirut, Lebanon (CNN) -- A senior Hezbollah commander was killed outside his home in Beirut early Wednesday, a Lebanese security official told CNN.
+Hassan Al-Laqees was shot four times, "In the head and in the shoulder," the source said.
+The source added that a silenced pistol was probably used and there were "maybe" two or three attackers.
+Hezbollah said Laqees was "assassinated" in the southern district of Hadath as he was returning home from work.
+The militant Shiite group blamed Israel for the killing -- but Israel denied it.
+'"This is strictly nothing to do with Israel," Yigal Palmor, spokesman for the Israeli Foreign Ministry said.
+Hezbollah said Laqees had been a member of the group since its formation.
+CNN's Nick Paton Walsh reported from Beirut, Lebanon; Marie-Louise Gumuchian wrote from London
+</ExtractedText>
+</item>
+</channel>
+</rss>

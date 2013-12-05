@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Alles digital</title>
+<description>Nachrichten, Analysen und Reportagen zu den Themen Internet, Datenschutz, Netzkultur, Mobil und Games. Sie finden hier die Trends, Features und Entwicklungen sowie aktuelle Tests aus dem Ressort Digital.</description>
+<pubDate>Wed, 04 Dec 2013 10:04:42 GMT</pubDate>
+<lastBuildDate>Wed, 4 Dec 2013 11:28:49 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/digital/index</link>
+<atom:link href="http://newsfeed.zeit.de/digital/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Alles digital</title>
+      <link>http://www.zeit.de/digital/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/digital/2013-12/nsa-affaere-snowden-material</link>
+      <guid>http://www.zeit.de/digital/2013-12/nsa-affaere-snowden-material</guid>
+      <category>Digital</category>
+      <title>NSA-Überwachungsskandal: Laut "Guardian" erst ein Prozent der Snowden-Dokumente veröffentlicht</title>
+      <description>&lt;a href="http://www.zeit.de/digital/2013-12/nsa-affaere-snowden-material"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/digital/datenschutz/2013-12/nsa/nsa-148x84.jpg"/&gt;&lt;/a&gt; Der britische "Guardian" machte die NSA-Ausspähaffäre öffentlich. Das sei erst der Anfang, sagt der Chefredakteur. Die Welt kenne nur einen Bruchteil der Informationen.</description>
+      <dc:creator>ZEIT ONLINE : Digital</dc:creator>
+      <pubDate>Tue, 03 Dec 2013 17:55:43 GMT</pubDate>
+    <ExtractedText>NSA-Überwachungsskandal: "Guardian" hat erst ein Prozent der Snowden-Dokumente veröffentlicht
+NSA-Überwachungsskandal: "Guardian" hat erst ein Prozent der Snowden-Dokumente veröffentlicht
+Der britische "Guardian" machte die NSA-Ausspähaffäre öffentlich. Das sei erst der Anfang, sagt der Chefredakteur. Die Welt kenne nur einen Bruchteil der Informationen.
+3. Dezember 2013  18:44 Uhr  13 Kommentare
+Die britische Tageszeitung The Guardian hat nach eigenen Angaben  bislang erst ein Prozent des Materials veröffentlicht, das der ehemalige  US-Geheimdienstmitarbeiter Edward Snowden zusammengetragen hat. Das Material umfasse etwa 58.000 Dateien, sagte Chefredakteur  Alan Rusbridger vor einem Ausschuss des britischen Unterhauses in London . 
+Das Gremium untersucht die Geheimdienst-Affäre um massenhaft gesammelte  Daten von Bürgern. Die Dokumente seien derzeit über vier Kontinente verteilt und an sicheren Orten, sagte Rusbridger. Zu deren Inhalt machte er keine Angaben.
+Anzeige
+Bei seinen  Veröffentlichungen habe der Guardian sorgsam ausgewählt und keinerlei Namen von  Geheimdienstmitarbeitern preisgegeben. Die britische Regierung und Vertreter  der Geheimdienste hatten kritisiert, dass die Enthüllungen die  britische Sicherheit gefährdeten und Terroristen helfen würden.
+Der Guardian hatte durch die Dokumente weitreichende Ausspähmethoden  beim britischen Geheimdienst GCHQ und der entsprechenden US-Behörde NSA öffentlich gemacht. Durch die von Whistleblower Snowden weitergegebenen Dateien hatte  die Öffentlichkeit erstmals von der nahezu flächendeckenden Überwachung  des Internets durch die NSA erfahren.  
+Rusbridger setzte sich gegen die Vorwürfe zur Wehr und erklärte,  die Mitarbeiter des Guardian seien Patrioten. Er forderte die britische Regierung auf, die Gesetze für die Befugnisse von Geheimdiensten zu überarbeiten. "Wir haben  viele analoge Gesetze, die auf das digitale Zeitalter angewendet  werden", sagte Rusbridger. Die letzten signifikanten Gesetzesänderungen habe  es noch vor Google und Facebook gegeben.
+</ExtractedText>
+</item>
+</channel>
+</rss>

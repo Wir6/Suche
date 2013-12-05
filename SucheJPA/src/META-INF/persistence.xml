@@ -3,8 +3,8 @@
 	<persistence-unit name="SucheJPA" transaction-type="RESOURCE_LOCAL">
 		<class>wir6.jpa.entities.Article</class>
 		<class>wir6.jpa.entities.Eintrag</class>
-		<class>wir6.jpa.entities.EintragArticlePK</class>
 		<class>wir6.jpa.entities.EintragArticle</class>
+		<class>wir6.jpa.entities.EintragArticlePK</class>
 		<class>wir6.jpa.entities.Herausgeber</class>
 		<class>wir6.jpa.entities.Tag</class>
 		<shared-cache-mode>NONE</shared-cache-mode>

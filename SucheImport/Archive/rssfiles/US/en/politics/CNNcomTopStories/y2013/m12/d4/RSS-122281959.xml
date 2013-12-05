@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Wed, 04 Dec 2013 05:18:04 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Truck of radioactive material stolen</title>
+<guid>http://edition.cnn.com/2013/12/04/world/americas/mexico-radioactive-theft/index.html</guid>
+<link>http://edition.cnn.com/2013/12/04/world/americas/mexico-radioactive-theft/index.html?eref=edition</link>
+<description>A truck carrying a dangerous radioactive source used in medical treatment has been stolen in Mexico, the International Atomic Energy Agency said Wednesday.</description>
+<pubDate>Wed, 04 Dec 2013 05:03:28 EST</pubDate>
+<ExtractedText>Mexico reports theft of truck with radioactive material
+By Holly Yan and Christine Theodorou, CNN
+December 4, 2013 -- Updated 0943 GMT (1743 HKT)
+(CNN) -- A truck carrying a dangerous radioactive source used in medical treatment has been stolen in Mexico, the International Atomic Energy Agency said Wednesday.
+Mexican authorities said the truck, which was transporting the cobalt-60 teletherapy source from a hospital in Tijuana to a radioactive waste storage center, was stolen in Tepojaco, near Mexico City, on Monday.
+</ExtractedText>
+</item>
+</channel>
+</rss>

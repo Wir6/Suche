@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Alles digital</title>
+<description>Nachrichten, Analysen und Reportagen zu den Themen Internet, Datenschutz, Netzkultur, Mobil und Games. Sie finden hier die Trends, Features und Entwicklungen sowie aktuelle Tests aus dem Ressort Digital.</description>
+<pubDate>Wed, 04 Dec 2013 10:04:42 GMT</pubDate>
+<lastBuildDate>Wed, 4 Dec 2013 11:28:49 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/digital/index</link>
+<atom:link href="http://newsfeed.zeit.de/digital/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Alles digital</title>
+      <link>http://www.zeit.de/digital/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/wirtschaft/unternehmen/2013-12/google-roboter-android-erfinder-andy-rubin</link>
+      <guid>http://www.zeit.de/wirtschaft/unternehmen/2013-12/google-roboter-android-erfinder-andy-rubin</guid>
+      <category>Wirtschaft</category>
+      <title>Humanoide: Google will Roboter bauen </title>
+      <description>&lt;a href="http://www.zeit.de/wirtschaft/unternehmen/2013-12/google-roboter-android-erfinder-andy-rubin"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/wirtschaft/2013-12/roboter/roboter-148x84.jpg"/&gt;&lt;/a&gt; Der US-Konzern hat den Erfinder des Betriebssystems Android beauftragt, eine neue Sparte zur Roboterentwicklung aufzubauen. Geplant sind auch menschenähnliche Geräte.</description>
+      <dc:creator>ZEIT ONLINE : Wirtschaft</dc:creator>
+      <pubDate>Wed, 04 Dec 2013 08:59:13 GMT</pubDate>
+    <ExtractedText>Humanoide: Google will Roboter bauen
+Humanoide: Google will Roboter bauen
+Der US-Konzern hat den Erfinder des Betriebssystems Android beauftragt, eine neue Sparte zur Roboterentwicklung aufzubauen. Geplant sind auch menschenähnliche Geräte.
+4. Dezember 2013  09:58 Uhr  10 Kommentare
+Der Roboter C-3PO aus dem Filmreihe "Star Wars"  |  © Carl de Souza/AFP/Getty Images
+Google will eigene Roboter bauen und hat damit den Erfinder des Smartphone-Systems Android beauftragt. Andy Rubin gab nun bekannt, dass Google unter seiner Regie bereits sieben Spezialfirmen gekauft habe, sagte er der New York Times . Er denke an einen Zeitrahmen von zehn Jahren bis zur Marktreife des Projekts.
+Rubins Team will sich zunächst auf die Entwicklung von Robotern konzentrieren, die in der Herstellung von Elektronikprodukten eingesetzt werden könnten. Große Teile davon werden bisher noch manuell zusammengesetzt. Auch für den Handel seien neue Roboterentwicklungen interessant. Das zeige auch die Ankündigung des  Onlinehändlers Amazon in dieser Woche, Bestellungen automatisch per Mini-Drohne auszuliefern. Amazon hat außerdem bereits einen Hersteller von Lagerrobotern gekauft.
+Anzeige
+Google testet aktuell einen Zustellservice in einigen großen US-Städten und könnte Teile der Kette automatisieren. Der Internetkonzern selbst machte keine offiziellen Angaben dazu, um welche Roboter genau es gehen soll.
+Auf menschenähnliche Roboter spezialisiert
+Unter Rubins Zukäufen sei unter anderem die von japanischen Wissenschaftlern gegründete Firma Schaft, die einen humanoiden Roboter entwickeln will. Ebenfalls zu Google gehöre nun das Start-up Industrial Perception, das Sichtsysteme sowie mechanische Arme zum Beladen und Entladen von Lastwagen entwickelt. Auf menschenähnliche Roboter und Arme spezialisieren sich auch Meka and Redwood Robotics, die auch für das Projekt gewonnen worden seien.
+Rubin sagte, alle diese Vorhaben würden reichlich visionär klingen, seien aber etwa vergleichbar mit dem selbstfahrenden Auto, an dem Google seit 2009 baut. "Jetzt ist es in greifbare Nähe gerückt", ergänzte der Erfinder. Google liefert sich einen Wettlauf mit mehreren etablierten Autoherstellern wie Daimler, Volkswagen, Nissan und Volvo um autonome Mobilität.
+</ExtractedText>
+</item>
+</channel>
+</rss>

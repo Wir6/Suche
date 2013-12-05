@@ -4,71 +4,62 @@ import java.io.Serializable;
 import javax.persistence.*;
 import java.util.List;
 
+
 /**
  * The persistent class for the herausgeber database table.
  * 
  */
 @Entity
-@Table(name = "herausgeber")
-public class Herausgeber implements Serializable
-{
+@Table(name="herausgeber")
+public class Herausgeber implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	@Id
 	private int id;
 
-	@Lob()
+    @Lob()
 	private String logo;
 
-	@Lob()
+    @Lob()
 	private String name;
 
-	// bi-directional many-to-one association to Article
-	@OneToMany(mappedBy = "herausgeber")
+	//bi-directional many-to-one association to Article
+	@OneToMany(mappedBy="herausgeber")
 	private List<Article> articles;
 
-	public Herausgeber()
-	{
-	}
+    public Herausgeber() {
+    }
 
-	public int getId()
-	{
+	public int getId() {
 		return this.id;
 	}
 
-	public void setId(int id)
-	{
+	public void setId(int id) {
 		this.id = id;
 	}
 
-	public String getLogo()
-	{
+	public String getLogo() {
 		return this.logo;
 	}
 
-	public void setLogo(String logo)
-	{
+	public void setLogo(String logo) {
 		this.logo = logo;
 	}
 
-	public String getName()
-	{
+	public String getName() {
 		return this.name;
 	}
 
-	public void setName(String name)
-	{
+	public void setName(String name) {
 		this.name = name;
 	}
 
-	public List<Article> getArticles()
-	{
+	public List<Article> getArticles() {
 		return this.articles;
 	}
 
-	public void setArticles(List<Article> articles)
-	{
+	public void setArticles(List<Article> articles) {
 		this.articles = articles;
 	}
-
+	
 }

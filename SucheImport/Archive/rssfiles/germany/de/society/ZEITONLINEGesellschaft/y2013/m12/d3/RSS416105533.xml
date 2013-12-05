@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Gesellschaft</title>
+<description>Menschen in der Gesellschaft. Aktuelles zu Zeitgeschehen, Generationen, Soziales und Bildung.</description>
+<pubDate>Wed, 04 Dec 2013 08:51:30 GMT</pubDate>
+<lastBuildDate>Wed, 4 Dec 2013 11:24:30 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/gesellschaft/index</link>
+<atom:link href="http://newsfeed.zeit.de/gesellschaft/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Gesellschaft</title>
+      <link>http://www.zeit.de/gesellschaft/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/gesellschaft/2013-12/historikerkommission-bnd-organisation-gehlen</link>
+      <guid>http://www.zeit.de/gesellschaft/2013-12/historikerkommission-bnd-organisation-gehlen</guid>
+      <category>Wissen</category>
+      <title>Organisation Gehlen: Nazis in der BND-Vorgängerorganisation</title>
+      <description>&lt;a href="http://www.zeit.de/gesellschaft/2013-12/historikerkommission-bnd-organisation-gehlen"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/wissen/geschichte/2013-12/reinhard-gehlen/reinhard-gehlen-148x84.jpg"/&gt;&lt;/a&gt; Eine Historikerkommission, die die BND-Geschichte aufarbeitet, belegt nun: Der Nachrichtendienst war früher voll von Nazis.</description>
+      <dc:creator>ZEIT ONLINE : Wissen</dc:creator>
+      <pubDate>Tue, 03 Dec 2013 17:51:02 GMT</pubDate>
+    <ExtractedText>Organisation Gehlen: Nazis in der BND-Vorgängerorganisation
+Organisation Gehlen: Nazis in der BND-Vorgängerorganisation
+Eine Historikerkommission, die die BND-Geschichte aufarbeitet, belegt nun: Der Nachrichtendienst war früher voll von Nazis.
+3. Dezember 2013  18:50 Uhr  36 Kommentare
+Reinhard Gehlen, ehemaliger BND-Chef  |  © Sven Simon/dpa
+In einer Vorgängerorganisation des Bundesnachrichtendienstes (BND) hat es nach Angaben einer Forscherkommission in den fünfziger Jahren Nazi-Netzwerke gegeben. Es sei zu einem "ungeplanten Wildwuchs" in der Einstellung von Personal gekommen, sagte der Historiker Gerhard Sälter. Er stellte in Berlin Zwischenergebnisse der Wissenschaftler vor, die die Anfangsgeschichte des BND aufarbeiten sollen.
+Noch 1957 sei etwa ein führender und erheblich belasteter Nazi mit einem  Empfehlungsschreiben eines Exkameraden eingestellt worden, der in der  Hitler-Zeit dessen Vorgesetzter war. In dem Organisation Gehlen genannten Geheimdienst habe es für die Beurteilung ausgereicht, wenn ein ehemaliger Kollege die Schuldfreiheit des Verhaltens im Dritten Reich garantierte. "Die Leitung des BND machte somit die im Nationalsozialismus entstandene Kameradschaft zur Grundlage ihrer Personalpolitik", sagte Historiker Sälter.   
+Anzeige
+Die Organisation wurde nach dem früheren Wehrmachtsgeneral Reinhard Gehlen benannt, der 1902 geboren wurde und 1979 starb. Er hatte 1946 unter  US-Führung den deutschen Auslandsnachrichtendienst geschaffen. Zehn Jahre später gründete die Regierung von Kanzler Konrad Adenauer (CDU) den BND. Gehlen leitete den Dienst bis 1968.
+In der Organisation Gehlen und im BND hätten sich "Netzwerke aus Funktionsträgern des Dritten Reiches dauerhaft etablieren" können, sagte Sälter. Nachrichtendienst-Chef Gehlen habe dies nicht als problematisch empfunden. "Das Problembewusstsein richtete sich seit 1956 eher darauf, die personellen Kontinuitäten zum Dritten Reich nach außen zu verschleiern, als sie einzudämmen."
+Die vor zwei Jahren eingesetzte Historikerkommission besteht aus vier Professoren und elf Mitarbeitern. Sie wird unterstützt von einer BND-internen Forschungsgruppe und hat einen Etat von zwei Millionen Euro. Bis 2016 wollen die Forscher mindestens 54.000 Papierakten und fünf Millionen Seiten Mikrofilme aus alten BND-Beständen auswerten.
+</ExtractedText>
+</item>
+</channel>
+</rss>

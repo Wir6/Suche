@@ -2,12 +2,10 @@ package wir6.jpa.service;
 
 import java.util.ArrayList;
 import java.util.List;
-//import java.util.logging.Level;
-//import java.util.logging.Logger;
-
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
+import javax.persistence.NoResultException;
 import javax.persistence.Persistence;
 import javax.persistence.TypedQuery;
 
@@ -56,27 +54,47 @@ public class SuchServicePersonen
 		EntityManager em = getFactory().createEntityManager();
 //		Logger.getLogger(SuchServicePersonen.class.getName()).log(Level.INFO, "Methode getArticles4Tag wurde gerufen...");
 		
+		ArrayList<Article> aArtikel = new ArrayList<Article>();
+		
 		// Tag-ID ermitteln
 		TypedQuery<Tag> query = em.createQuery("Select t from " + Tag.class.getSimpleName() + " t where t.name = :name", Tag.class);
 		query.setParameter("name", tagName);
-		Tag helpTag = query.getSingleResult();
 		
+		Tag helpTag = null;
+		try{
+		helpTag = query.getSingleResult();
+		}
+		catch(NoResultException ex){
+			return aArtikel;
+		}
 		//Eintrag ermitteln
 		TypedQuery<Eintrag> query2 = em.createQuery("Select e from " + Eintrag.class.getSimpleName() + 
-													" e where e.name = :name and e.id = :tagID", Eintrag.class);
+													" e where e.name = :name and e.tag= :tagID", Eintrag.class);
 		query2.setParameter("name", begriff);
-		query2.setParameter("tagID", helpTag.getId());
-		Eintrag helpEintrag = query2.getSingleResult();
-		
+		query2.setParameter("tagID", helpTag);
+		Eintrag helpEintrag = null;
+		try{
+		helpEintrag = query2.getSingleResult();
+		}
+		catch(NoResultException ex){
+			return aArtikel;
+		}
+
 		// Eintrag_Article ermitteln
 		TypedQuery<EintragArticle> query3 = em.createQuery("Select ea from " + EintragArticle.class.getSimpleName() + 
 				" ea where ea.eintrag = :eintragID", EintragArticle.class);
 		query3.setParameter("eintragID", helpEintrag);
 		
-		List<EintragArticle> helpEintragArticle = query3.getResultList();
+		List<EintragArticle> helpEintragArticle = null;
+		try{
+		helpEintragArticle = query3.getResultList();
+		}
+		catch(NoResultException ex){
+			return aArtikel;
+		}
 		
 		// Alle Artikel in eine Array-List stellen
-		ArrayList<Article> aArtikel = new ArrayList<Article>();
+		aArtikel = new ArrayList<Article>();
 		for(EintragArticle ea: helpEintragArticle){
 			aArtikel.add(ea.getArticle());
 		}

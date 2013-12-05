@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+<title>
+      ZEIT ONLINE: Alles digital</title>
+<description>Nachrichten, Analysen und Reportagen zu den Themen Internet, Datenschutz, Netzkultur, Mobil und Games. Sie finden hier die Trends, Features und Entwicklungen sowie aktuelle Tests aus dem Ressort Digital.</description>
+<pubDate>Wed, 04 Dec 2013 10:04:42 GMT</pubDate>
+<lastBuildDate>Wed, 4 Dec 2013 11:28:49 +0100</lastBuildDate>
+<language>de-de</language>
+<link>http://www.zeit.de/digital/index</link>
+<atom:link href="http://newsfeed.zeit.de/digital/index" rel="self" type="application/rss+xml"/>
+<copyright>Copyright (c) 2013, ZEIT ONLINE GmbH</copyright>
+<docs>http://www.zeit.de/hilfe/rss</docs>
+<generator>mod_xslt LePenguin</generator>
+<managingEditor>wolfgang.blau@zeit.de (Wolfgang Blau)</managingEditor>
+<webMaster>webmaster@zeit.de (Internettechnik ZEIT ONLINE)</webMaster>
+<image>
+      <url>http://images.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>
+      ZEIT ONLINE: Alles digital</title>
+      <link>http://www.zeit.de/digital/index</link>
+    </image>
+<item>
+      <link>http://www.zeit.de/digital/games/2013-12/games-Geschichten</link>
+      <guid>http://www.zeit.de/digital/games/2013-12/games-Geschichten</guid>
+      <category>Digital</category>
+      <title>Gamestheorie: Warum nicht mal eine schüchterne Nonne spielen?</title>
+      <description>&lt;a href="http://www.zeit.de/digital/games/2013-12/games-Geschichten"&gt;&lt;img style="float:left; margin-right:5px" src="http://images.zeit.de/digital/games/2013-12/games-ellenpage/games-ellenpage-148x84.jpg"/&gt;&lt;/a&gt; Erzählstrukturen des Films lassen sich nicht einfach auf Games übertragen. Doch das Medium macht Geschichten möglich, die mehr bieten als Schießen, Morden, Metzeln.</description>
+      <dc:creator>ZEIT ONLINE : Digital - Joachim Friedmann</dc:creator>
+      <pubDate>Tue, 03 Dec 2013 19:59:20 GMT</pubDate>
+    <ExtractedText>Moderne Computerspiele brechen mit den bisherigen Genrekonventionen
+Gamestheorie: Warum nicht mal eine schüchterne Nonne spielen?
+Erzählstrukturen des Films lassen sich nicht einfach auf Games übertragen. Doch das Medium macht Geschichten möglich, die mehr bieten als Schießen, Morden, Metzeln. von Joachim Friedmann
+3. Dezember 2013  20:58 Uhr  18 Kommentare
+Charakter mit Entwicklung: Ellen Page im Spiel "Beyond: Two Souls"  |  © Zeit Online
+Wie könnte die Geschichte im neuen Game Anna Unlimited laufen? Unser Avatar ist die stolze Anna Karenina, wir sind mitten im Showdown und nun kommen wir in ihrer Gestalt auf den Bahnsteig, wo sich unser Schicksal erfüllen soll. Doch statt uns vor den Zug zu werfen , verlachen wir die überholten, heuchlerischen Moralvorstellungen des zaristischen Russlands, ziehen mit Wronskij unseres Weges und leben eine erfüllte Liebe mit Happy End, bis Anna irgendwann alt und grau … Naja, dann vielleicht doch nicht.
+Also erzählen wir lieber einen Game-Klassiker: Duke Nukem hat sich durch Hunderte von Leveln gekämpft, Tausende von Opfern getötet. Jetzt ist Schluss! Bevor er Dr. Proton endgültig zu Strecke bringt, erkennt er, wie traumatisierend und entmenschlicht diese ganze rohe Gewalt ist, und dass er, wie Michael Vronsky in Die durch die Hölle gehen, dem sinnlosen Töten abschwören muss. Er lässt sein großkalibriges Maschinengewehr sinken, wirft die Handgranaten weg und … hm. Vielleicht auch nicht.
+Anzeige
+Eigentlich ist es eine Binsenweisheit, dass sich eine Geschichte von einem Medium ins andere übertragen lassen sollte, ohne dass sich ihr Kern verändert. Odysseus wird auf seinen Irrfahrten den Zyklopen Polyphem überlisten, egal ob in den Versen des Homer, in der Bearbeitung von Gustav Schwab, dem Monumentalfilm mit Kirk Douglas oder auf den guten alten Europa-Märchenschallplatten. Bei einem Game wäre es aber noch gar nicht ausgemacht, ob Odysseus Polyphem wirklich blendet oder von dem übermächtigen Zyklopen, zumindest bei den ersten Versuchen, einfach zermatscht wird.
+Das Problem liegt natürlich auf der Hand: Ein Spiel soll interaktiv sein und dem Gamer bei aller Regelhaftigkeit möglichst viele Freiheiten bieten. Doch eine Geschichte muss konsistent sein, sie soll Sinn und eine Weltsicht vermitteln, sie ist mithin ein geschlossenes System. Das ist, wenn man absolute Freiheit für den Spieler will, natürlich nicht möglich. Steht also die Interaktion in Spielen echtem Geschichtenerzählen im Weg? Instinktiv würde man dem widersprechen, denn wenn man ein Game wie Heavy Rain oder Tomb Raider durchgespielt hat, bleibt durchaus der Eindruck, eine Geschichte erlebt zu haben. 
+Nach Auffassung der Medientheroetiker David Bordwell und Kristin Thompson ist eine Geschichte eine Kette von Ereignissen in Zeit und Raum, die sich gegenseitig bedingen. Moderne, praxisorientierte Storytheoretiker wie Robert McKee oder Philip Parker formulieren wesentlich weitgehendere Kriterien. So sollte eine Geschichte in einem persönlichen Stil ein spezielles Thema verhandeln, sie sollte emotional packend sein und von einem Protagonisten geführt werden, dessen Charakter sich im Laufe der Geschichte entscheidend verändert. Die Charakterentwicklung ist beim Schreiben eines Drehbuchs der Dreh- und Angelpunkt, Charaktere müssen bigger than life sein, Außenseiter, Sonderlinge, Charismatiker. Eine Story sollte möglichst character-driven sein, also sich aus der Persönlichkeit des Helden entwickeln, und nicht nur plot-driven, also von äußeren Ereignissen getrieben.
+Da ergibt sich schon die nächste dramaturgische Hürde. Wer ist der Protagonist und zentrale Charakter im Game? Im Endeffekt ja der Spieler, zumindest verschmilzt er mit seinem Avatar und fällt dessen Entscheidungen. Eine andere Binsenweisheit der Filmdramaturgie ist, dass sich ein Charakter durch seine Handlungen definiert. Was aber nun, wenn man diese Entscheidungen dem Spieler freistellen will? Die erfolgreiche Game-Autorin Susan O’Connor schlägt vor, den Spieler nicht als Protagonisten zu denken, sondern als Antagonisten. Nun muss man nicht so weit gehen, den Antagonisten automatisch als Bösewicht zu sehen. Aber wenn man die Aufgabenstellung in den meisten Shootern betrachtet, scheint es so zu sein, dass die Avatare eher zu brachialen Problemlösungsstrategien neigen: Schießen, Morden, Metzeln .
+Ohnehin ist es aus Sicht eines Drehbuchautoren verwunderlich, welche Eigenschaften die meisten Game-Helden haben: körperlich überlegen, geschickt, bis an die Zähne bewaffnet – praktisch unbesiegbar. Und das in einer Umwelt, die genau diese Skills erfordert. Als Filmautor beschreitet man normalerweise den genau umgekehrten Weg: Man verpflanzt eine Figur in eine Umwelt, in der sie maximal überfordert ist, um die Geschichte spannender zu machen.  Dieses Fish-out-of-water-Prinzip war lange Zeit in den Disney-Studios eherne Erzählregel, kam aber auch bei vielen anderen Hollywood-Erfolgsproduktionen zum Tragen, wenn zum Beispiel Reese Whitherspoon in Natürlich blond  als naives Blondchen an der Eliteuniversität reüssieren muss, die romantische Prinzessin aus dem Märchenland sich in Verwünscht plötzlich im modernen, kalten Manhattan wiederfindet oder Nemos Vater in Findet Nemo  buchstäblich aus dem Wasser muss, um seinen Sohn zu retten.
+Übersicht zu diesem Artikel
+</ExtractedText>
+</item>
+</channel>
+</rss>

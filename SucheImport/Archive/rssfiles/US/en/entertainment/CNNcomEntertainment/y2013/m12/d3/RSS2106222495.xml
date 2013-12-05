@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Entertainment</title>
+<link>http://www.cnn.com/SHOWBIZ/index.html?eref=rss_showbiz</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Tue, 03 Dec 2013 17:33:23 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Entertainment</title>
+<link>http://www.cnn.com/SHOWBIZ/index.html?eref=rss_showbiz</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition_entertainment" rel="self" type="application/rss+xml"/>
+<feedburner:info uri="rss/edition_entertainment"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>Billy Joel making Madison Square Garden a monthly venue</title>
+<guid isPermaLink="false">http://www.cnn.com/2013/12/03/showbiz/music/billy-joel-madison-square-garden/index.html</guid>
+<link>http://rss.cnn.com/~r/rss/edition_entertainment/~3/9M7DUODEQeI/index.html</link>
+<description>Billy Joel is definitely in a New York state of mind.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_entertainment/~4/9M7DUODEQeI" height="1" width="1"/&gt;</description>
+<pubDate>Tue, 03 Dec 2013 15:41:12 EST</pubDate>
+<feedburner:origLink>http://www.cnn.com/2013/12/03/showbiz/music/billy-joel-madison-square-garden/index.html</feedburner:origLink>
+<ExtractedText>Billy Joel making Madison Square Garden a monthly venue
+By Lisa Respers France, CNN
+December 3, 2013 -- Updated 2041 GMT (0441 HKT)
+Billy Joel performs at The Concert For Sandy Relief in 2012 at Madison Square Garden in New York.
+STORY HIGHLIGHTS
+Billy Joel will give concerts at the Garden once a month
+The deal makes him the first musical franchise at MSG
+His first show there was in 1978
+(CNN) -- Billy Joel is definitely in a New York state of mind.
+The legendary singer has signed a deal to perform at Madison Square Garden in New York City once a month, the venue announced on Tuesday. Joel will become the first musical artist to have such a franchise at the Garden.
+"Since his first show in 1978, Billy has performed 46 shows at Madison Square Garden, including an unprecedented 12 consecutive sold-out shows that have earned Billy a spot among the Garden greats with a banner raised in his honor," James L. Dolan, executive chairman of The Madison Square Garden Company said via a press release. "Today, we take that relationship even further and are extremely honored to have Billy as The Garden's first music franchise."
+"Performing at Madison Square Garden is a thrilling experience," Joel said in a statement in the press release. "I've played different venues all over the world, but there's no place like coming home to The Garden. Since my first show in 1978, I've always looked forward to the energy of the crowd. I'm honored to be joining the Madison Square Garden family and look forward to taking the stage of the newly transformed Garden to create many more memorable nights."
+The singer will kick off his series of shows starting January 27, 2014. MSG had previously announced four Joel concerts -- January 27, February 3, March 21 and April 18 -- which are already sold out. A newly announced concert will be held on Joel's 65th birthday, May 9.
+Tickets for the May show will go on sale to the general public on December 7.
+</ExtractedText>
+</item>
+</channel>
+</rss>

@@ -473,3 +473,5 @@ Tue, 03 Dec 2013 16:25:39 CET: class RSSThread, method readSourceFile, Ignoring 
 Tue, 03 Dec 2013 16:26:35 CET: class RSSThread, method readSourceFile, Ignoring invalid URI: www.main-netz.de/rss/kultur.xml
 Tue, 03 Dec 2013 16:26:35 CET: class RSSThread, method readSourceFile, Ignoring invalid URI: www.main-netz.de/rss/kultur.xml
 Tue, 03 Dec 2013 16:27:36 CET: class RSSParser, method parseFeed, Exception: java.lang.NullPointerException
+Wed, 04 Dec 2013 11:22:18 CET: class RSSThread, method readSourceFile, Ignoring invalid URI: www.main-netz.de/rss/kultur.xml
+Wed, 04 Dec 2013 11:22:18 CET: class RSSThread, method readSourceFile, Ignoring invalid URI: www.main-netz.de/rss/kultur.xml

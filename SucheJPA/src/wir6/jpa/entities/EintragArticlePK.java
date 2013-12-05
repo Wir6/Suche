@@ -8,62 +8,49 @@ import javax.persistence.*;
  * 
  */
 @Embeddable
-public class EintragArticlePK implements Serializable
-{
-	// default serial version id, required for serializable classes.
+public class EintragArticlePK implements Serializable {
+	//default serial version id, required for serializable classes.
 	private static final long serialVersionUID = 1L;
 
 	private int eintragid;
 
 	private int articleid;
 
-	public EintragArticlePK()
-	{
-	}
-
-	public int getEintragid()
-	{
+    public EintragArticlePK() {
+    }
+	public int getEintragid() {
 		return this.eintragid;
 	}
-
-	public void setEintragid(int eintragid)
-	{
+	public void setEintragid(int eintragid) {
 		this.eintragid = eintragid;
 	}
-
-	public int getArticleid()
-	{
+	public int getArticleid() {
 		return this.articleid;
 	}
-
-	public void setArticleid(int articleid)
-	{
+	public void setArticleid(int articleid) {
 		this.articleid = articleid;
 	}
 
-	public boolean equals(Object other)
-	{
-		if (this == other)
-		{
+	public boolean equals(Object other) {
+		if (this == other) {
 			return true;
 		}
-		if (!(other instanceof EintragArticlePK))
-		{
+		if (!(other instanceof EintragArticlePK)) {
 			return false;
 		}
-		EintragArticlePK castOther = (EintragArticlePK) other;
-		return (this.eintragid == castOther.eintragid)
-				&& (this.articleid == castOther.articleid);
+		EintragArticlePK castOther = (EintragArticlePK)other;
+		return 
+			(this.eintragid == castOther.eintragid)
+			&& (this.articleid == castOther.articleid);
 
-	}
-
-	public int hashCode()
-	{
+    }
+    
+	public int hashCode() {
 		final int prime = 31;
 		int hash = 17;
 		hash = hash * prime + this.eintragid;
 		hash = hash * prime + this.articleid;
-
+		
 		return hash;
-	}
+    }
 }

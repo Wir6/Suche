@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Finanzen - FAZ.NET</title>
+<link>http://www.faz.net/aktuell/finanzen/</link>
+<description>Finanzen, Börse, Aktien:  Aktuelle Nachrichten über Märkte und deren Entwicklung. News über Fonds, Anleihen und Zinsen aus der Finanzwelt.</description>
+<copyright>Copyright 2001-2013 Frankfurter Allgemeine Zeitung GmbH. Alle Rechte vorbehalten.</copyright>
+<category>Finanzen - FAZ.NET</category>
+<language>de-de</language>
+<docs>http://www.faz.net/hilfe/services-newsletter-widgets-rss-feeds-mehr/</docs>
+<generator>FAZ.NET</generator>
+<ttl>5</ttl>
+<lastBuildDate>Wed, 4 Dec 2013 11:16:17 +0100</lastBuildDate>
+<atom:link href="http://www.faz.net/rss/aktuell/finanzen/" rel="self" type="application/rss+xml"/>
+<image>
+		<title>Finanzen - FAZ.NET</title>
+		<url>http://www.faz.net/img/fazlogo_ressort.gif</url>
+        <link>http://www.faz.net/aktuell/finanzen/</link>
+	</image>
+<item>
+    <title>R+V senkt wegen niedriger Zinsen die Überschussbeteiligung</title>
+    <description>&lt;img width="190" height="107" border="0" title="Ob sich die Lebensversicherung am Ende lohnt?" alt="Ob sich die Lebensversicherung am Ende lohnt?" src="http://media1.faz.net/polopoly_fs/1.2693049!/image/2087369574.jpg_gen/derivatives/article_teaser/2087369574.jpg"/&gt;&lt;p&gt;Die niedrigen Zinsen setzen Lebensversicherer unter Druck. Nun hat die R+V-Versicherung mit einer Verzinsung von 3,4 Prozent als erster im Markt den Vorjahreswert unterboten.&lt;/p&gt;</description>
+    <link>http://www.faz.net/aktuell/finanzen/meine-finanzen/versichern-und-schuetzen/nachrichten/niedrige-zinsen-r-v-senkt-ueberschussbeteiligung-12693025.html</link>
+    <pubDate>Tue, 03 Dec 2013 15:19:27 +0100</pubDate>
+    <guid isPermaLink="true">http://www.faz.net/-ht4-7k201</guid>
+<ExtractedText>© dpa
+Ob sich die Lebensversicherung am Ende lohnt?
+Wer eine Lebensversicherung hat, muss sich auch in diesem Jahr auf eine geringere Verzinsung einstellen. Schon im vergangenen Jahr war die durchschnittliche Verzinsung aller deutschen Lebensversicherer deutlich gesenkt worden. Damals fiel sie von 3,9 auf 3,6 Prozent. Die Fachleute der Ratingagentur Assekurata schätzen, dass der Rückgang diesmal zwischen 0,1 und 0,2 Prozentpunkten liegen könnte. Bislang haben erst drei Versicherer ihre Überschussdeklaration veröffentlicht.
+Mit der R+V hat in dieser Woche der zweitgrößte Marktteilnehmer seine Entscheidung bekannt gegeben und als erster im Markt den Vorjahreswert unterboten. Den Kunden werden 3,4 Prozent auf den Sparanteil ihrer Police gutgeschrieben. Im Vorjahr hatte der Wiesbadener Versicherer noch 3,6 Prozent gewährt. Im Jahr 2011 waren es noch 3,85 Prozent gewesen. Die beiden einzigen anderen Versicherer, die ihre Deklaration schon bekanntgegeben haben, beließen sie auf dem Vorjahresniveau. Kunden der Alten Leipziger bekommen eine Zinsgutschrift von 3,35 Prozent, bei der Ideal liegt sie mit 4 Prozent deutlich über dem Branchenschnitt.
+Die Überschussbeteiligung sagt nur bedingt etwas über die Leistungsfähigkeit der Unternehmen aus. Zudem haben Versicherer eine andere Bestandszusammensetzung. Wer viele Verträge mit einer Zinsgarantie von 4 Prozent hat wie die HDI Leben muss mehr Geld in eine Zusatzreserve stecken, die von der Finanzaufsicht Bafin verlangt wird. Durch den Niedrigzins sinken die freien Mittel der Versicherer. Für die Zusatzreserve muss die Branche in diesem Jahr voraussichtlich 6 Milliarden Euro aufbringen. Auf die Kunden kann sie jenseits der Zinsgarantien nur noch etwa 3 Milliarden Euro verteilen, auch weil sie in etwa gleich großem Umfang Bewertungsreserven an Verbraucher mit auslaufenden Verträgen auskehren muss. Die Bafin rechnet überdies damit, dass die Unternehmen jedes Jahr 3 bis 5 Milliarden Euro zusätzlich einbehalten müssen, um die Anforderungen des künftigen Aufsichtsrechts Solvency II zu erfüllen.
+</ExtractedText>
+</item>
+</channel>
+</rss>

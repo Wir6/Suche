@@ -10,14 +10,14 @@ public class DBTest
 	{
 		SuchServicePersonen pss = new SuchServicePersonen();
 
-		List<Article> articles = pss.getArticlesFulltextSearch("Bundeskanzlerin");
-		for (Article myArticle : articles)
-		{
-			System.out.println(myArticle.getTitle());
-			System.out.println(myArticle.getDoctext());
-		}
+//		List<Article> articles = pss.getArticlesFulltextSearch("Bundeskanzlerin");
+//		for (Article myArticle : articles)
+//		{
+//			System.out.println(myArticle.getTitle());
+//			System.out.println(myArticle.getDoctext());
+//		}
 
-		articles = pss.getArticles4Tag("Person", "Angela Merkel");
+		List<Article> articles = pss.getArticles4Tag("PERSON", "Obama");
 		for (Article myArticle : articles)
 		{
 			System.out.println(myArticle.getTitle());

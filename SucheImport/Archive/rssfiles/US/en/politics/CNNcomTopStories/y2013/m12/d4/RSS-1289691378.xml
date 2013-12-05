@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+<language>en-US</language>
+<copyright>Copyright 2013 Cable News Network LP, LLLP.</copyright>
+<pubDate>Wed, 04 Dec 2013 05:18:04 EST</pubDate>
+<ttl>10</ttl>
+<image>
+<title>CNN.com - Top Stories</title>
+<link>http://edition.cnn.com/index.html?eref=edition</link>
+<url>http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif</url>
+<width>144</width>
+<height>33</height>
+<description>CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.</description>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://rss.cnn.com/rss/edition" rel="self" type="application/rss+xml"/>
+<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition"/>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" href="http://pubsubhubbub.appspot.com/" rel="hub"/>
+<item>
+<title>SpaceX rocket lifts off from Florida</title>
+<guid>http://edition.cnn.com/2013/12/03/tech/innovation/spacex-launch/index.html</guid>
+<link>http://edition.cnn.com/2013/12/03/tech/innovation/spacex-launch/index.html?eref=edition</link>
+<description>A SpaceX rocket with a 7,000-pound communications satellite on top lifted off from Cape Canaveral on Tuesday evening after two earlier launch dates were scrubbed. </description>
+<pubDate>Tue, 03 Dec 2013 20:27:04 EST</pubDate>
+<ExtractedText>SpaceX rocket lifts off from Florida
+By Matt Smith, CNN
+December 4, 2013 -- Updated 0041 GMT (0841 HKT) | Filed under: Innovations
+STORY HIGHLIGHTS
+SpaceX mission under way on third try
+The Falcon 9 rocket is carrying a 7,000-pound communications satellite
+It's the company's first attempt to put a satellite into geosynchronous orbit
+(CNN) -- A SpaceX rocket with a 7,000-pound communications satellite on top lifted off from Cape Canaveral on Tuesday evening after two earlier launch dates were scrubbed.
+The Falcon 9 booster thundered into the skies over Florida at 5:41 p.m. in the private space contractor's first attempt to put a satellite into a stationary orbit around Earth -- a flight the company has called its "most challenging mission to date."
+The SES-8 satellite will relay signals to and from the South Asia and Asia Pacific regions from 50,000 miles (80,000 kilometers) above the Earth's surface. Its first planned launch on November 25 was scrubbed when controllers received questionable readings from the liquid oxygen system in the first stage; the second, on November 28, was called off after finding oxygen in the engine igniter fluid, the company said.
+"Better to be paranoid and wrong," SpaceX founder Elon Musk tweeted.
+</ExtractedText>
+</item>
+</channel>
+</rss>
